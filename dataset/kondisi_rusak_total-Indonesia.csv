@@ -1,0 +1,88 @@
+"","Kecamatan","Kab.Kota","Provinsi","Kelas.RusakPerc","Lab.RusakPerc","UKS.RusakPerc","Perpus.RusakPerc","Toilet.RusakPerc"
+"1","Kec. Kepulauan Seribu Utara ","Kepulauan Seribu","DKI Jakarta",1,1,1,1,1
+"2","Kec. Gunung Jati ","Cirebon","Jambi",1,1,1,1,1
+"3","Kec. Tukdana ","Indramayu","Jambi",1,1,1,1,1
+"4","Kec. Nyalindung ","Sukabumi","Jawa Barat",1,1,1,1,1
+"5","Kec. Sukaraja ","Sukabumi","Jawa Barat",1,1,1,1,1
+"6","Kec. Ciawi ","Tasikmalaya","Jawa Barat",1,1,1,1,1
+"7","Kec. Cikoneng ","Ciamis","Jawa Barat",1,1,1,1,1
+"8","Kec. Dayeuhluhur ","Cilacap","Jawa Tengah",1,1,1,1,1
+"9","Kec. Cilacap Utara ","Cilacap","Jawa Tengah",1,1,1,1,1
+"10","Kec. Wangon ","Banyumas","Jawa Tengah",1,1,1,1,1
+"11","Kec. Kebasen ","Banyumas","Jawa Tengah",1,1,1,1,1
+"12","Kec. Dukuhwaru ","Tegal","Jawa Tengah",1,1,1,1,1
+"13","Kec. Kepil ","Wonosobo","Jawa Barat",1,1,1,1,1
+"14","Kec. Singorojo ","Kendal","Jawa Tengah",1,1,1,1,1
+"15","Kec. Giriwoyo ","Wonogiri","Jawa Barat",1,1,1,1,1
+"16","Kec. Jatisrono ","Wonogiri","Jawa Barat",1,1,1,1,1
+"17","Kec. Kandangan ","Temanggung","Jawa Barat",1,1,1,1,1
+"18","Kec. Nanggulan ","Kulon Progo","DI Yogyakarta",1,1,1,1,1
+"19","Kec. Bantur ","Malang","Jawa Timur",1,1,1,1,1
+"20","Kec. Ngraho ","Bojonegoro","Jawa Tengah",1,1,1,1,1
+"21","Kec. Parengan ","Tuban","Jawa Timur",1,1,1,1,1
+"22","Kec. Tambakboyo ","Tuban","Jawa Timur",1,1,1,1,1
+"23","Kec. Prajekan ","Bondowoso","Jawa Tengah",1,1,1,1,1
+"24","Kec. Karangbinangun ","Lamongan","Jawa Tengah",1,1,1,1,1
+"25","Kec. Krembung ","Sidoarjo","Jawa Timur",1,1,1,1,1
+"26","Kec. Pirak Timu ","Aceh Utara","Maluku",1,1,1,1,1
+"27","Kec. Lawe Sigala-Gala ","Aceh Tenggara","Maluku",1,1,1,1,1
+"28","Kec. ","Aceh Besar","Maluku",1,1,1,1,1
+"29","Kec. Atu Lintang ","Aceh Tengah","Maluku",1,1,1,1,1
+"30","Kec. Singkil Utara ","Aceh Singkil","Maluku",1,1,1,1,1
+"31","Kec. Panton Reu ","Aceh Barat","Maluku",1,1,1,1,1
+"32","Kec. Jangka Buya ","Pidie Jaya","Maluku Utara",1,1,1,1,1
+"33","Kec. Pagar Marbau ","Deli Serdang","Sumatera Barat",1,1,1,1,1
+"34","Kec. Barusjahe ","Karo","Sumatera Barat",1,1,1,1,1
+"35","Kec. Tambangan ","Mandailing Natal","Sumatera Barat",1,1,1,1,1
+"36","Kec. Barumun Tengah ","Padang Lawas","Sumatera Barat",1,1,1,1,1
+"37","Kec. Serbajadi ","Serdang Bedagai","Sumatera Selatan",1,1,1,1,1
+"38","Kec. II Koto ","Pasaman","Sulawesi Tenggara",1,1,1,1,1
+"39","Kec. Panti ","Pasaman","Sulawesi Tenggara",1,1,1,1,1
+"40","Kec. Sungai Mandau ","Siak","Papua",1,1,1,1,1
+"41","Kec. Sekernan ","Muaro Jambi","Jambi",1,1,1,1,1
+"42","Kec. Pamenang Barat ","Merangin","Gorontalo",1,1,1,1,1
+"43","Kec. Rantau Alai ","Ogan Ilir","Sulawesi Utara",1,1,1,1,1
+"44","Kec. Pendopo Barat ","Empat Lawang","Sulawesi Tenggara",1,1,1,1,1
+"45","Kec. ","Lahat","Sulawesi Tenggara",1,1,1,1,1
+"46","Kec. Rambang Kapak Tengah ","Prabumulih","Sulawesi Utara",1,1,1,1,1
+"47","KEC. KARYAPENGGAWA ","Pesisir Barat","Kalimantan Utara",1,1,1,1,1
+"48","Kec. Sanggau Ledo ","Bengkayang","Jawa Timur",1,1,1,1,1
+"49","Kec. Semitau ","Kapuas Hulu","Jawa Timur",1,1,1,1,1
+"50","Kec. Sajingan Besar ","Sambas","Jawa Timur",1,1,1,1,1
+"51","Kec. ","Kotawaringin Barat","Kalimantan Barat",1,1,1,1,1
+"52","Kec. Mentobi Raya ","Lamandau","Kalimantan Selatan",1,1,1,1,1
+"53","Kec. Sematu Jaya ","Lamandau","Kalimantan Selatan",1,1,1,1,1
+"54","Kec. Tabunganen ","Barito Kuala","Jawa Timur",1,1,1,1,1
+"55","KEC. LONG APARI ","Mahakam Ulu","Kalimantan Selatan",1,1,1,1,1
+"56","Kec. Lembeh Selatan ","Bitung","Sulawesi Selatan",1,1,1,1,1
+"57","Kec. Bulagi ","Banggai Kepulauan","Riau",1,1,1,1,1
+"58","Kec. Pitu Riawa ","Sidenreng Rappang","Papua Barat",1,1,1,1,1
+"59","Kec. Buntu Batu ","Enrekang","Papua",1,1,1,1,1
+"60","Kec. Herlang ","Bulukumba","Papua",1,1,1,1,1
+"61","Kec. Suppa ","Pinrang","Papua Barat",1,1,1,1,1
+"62","Kec. Tiroang ","Pinrang","Papua Barat",1,1,1,1,1
+"63","Kec. Tanete Rilau ","Barru","Papua",1,1,1,1,1
+"64","Kec. Bonggakaradeng ","Tana Toraja","Riau",1,1,1,1,1
+"65","Kec. Mappedeceng ","Luwu Utara","Papua Barat",1,1,1,1,1
+"66","Kec. Dangia ","Kolaka Timur","Sulawesi Selatan",1,1,1,1,1
+"67","Kec. Barangka ","Muna Barat","Sulawesi Selatan",1,1,1,1,1
+"68","Kec. Seram Utara Barat ","Maluku Tengah","Kepulauan Riau",1,1,1,1,1
+"69","Kec. Plampang ","Sumbawa","Nanggroe Aceh Darussalam (NAD)",1,1,1,1,1
+"70","Kec. Lebatukan ","Lembata","Nanggroe Aceh Darussalam (NAD)",1,1,1,1,1
+"71","Kec. Tanjung Bunga ","Flores Timur","Nanggroe Aceh Darussalam (NAD)",1,1,1,1,1
+"72","Kec. Waropen Bawah ","Waropen","Nusa Tenggara Timur (NTT)",1,1,1,1,1
+"73","Kec. Iwaka ","Mimika","Kabupaten",1,1,1,1,1
+"74","Kec. Sentani Barat ","Jayapura","Kabupaten",1,1,1,1,1
+"75","Kec. Karubaga ","Tolikara","Nusa Tenggara Timur (NTT)",1,1,1,1,1
+"76","Kec. Sungai Serut ","Bengkulu","Bengkulu",1,1,1,1,1
+"77","Kec. Maje ","Kaur","Bengkulu",1,1,1,1,1
+"78","Kec. Tanjung Kemuning ","Kaur","Bengkulu",1,1,1,1,1
+"79","Kec. Manna ","Bengkulu Selatan","Bengkulu",1,1,1,1,1
+"80","Kec. Seginim ","Bengkulu Selatan","Bengkulu",1,1,1,1,1
+"81","Kec. Bunga Mas ","Bengkulu Selatan","Bengkulu",1,1,1,1,1
+"82","Kec. Gane Timur Selatan ","Halmahera Selatan","Lampung",1,1,1,1,1
+"83","Kec. Mandalawangi ","Pandeglang","Banten",1,1,1,1,1
+"84","Kec. Damar ","Belitung Timur","Bangka Belitung",1,1,1,1,1
+"85","Kec. Marisa ","Pohuwato","DKI Jakarta",1,1,1,1,1
+"86","Kec. Kundur Utara ","Karimun","Kalimantan Tengah",1,1,1,1,1
+"87","Kec. Malinau Utara ","Malinau","Kalimantan Tengah",1,1,1,1,1

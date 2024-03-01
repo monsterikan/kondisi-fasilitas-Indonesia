@@ -1,0 +1,2210 @@
+"","Kecamatan","Kab.Kota","Provinsi","Kelas.RusakPerc","Lab.RusakPerc","UKS.RusakPerc","Perpus.RusakPerc","Toilet.RusakPerc"
+"1","Kec. Tanjungsari ","Sumedang","Jawa Barat",0,0,0,0,0
+"2","Kec. Darmaraja ","Sumedang","Jawa Barat",0,0,0,0,0
+"3","Kec. Pamulihan ","Sumedang","Jawa Barat",0,0,0,0,0
+"4","Kec. Talaga ","Majalengka","Jawa Barat",0,0,0,0,0
+"5","Kec. Palasah ","Majalengka","Jawa Barat",0,0,0,0,0
+"6","Kec. Jatiwangi ","Majalengka","Jawa Barat",0,0,0,0,0
+"7","Kec. Dawuan ","Majalengka","Jawa Barat",0,0,0,0,0
+"8","Kec. Kadipaten ","Majalengka","Jawa Barat",0,0,0,0,0
+"9","Kec. Ligung ","Majalengka","Jawa Barat",0,0,0,0,0
+"10","Kec. Sumberjaya ","Majalengka","Jawa Barat",0,0,0,0,0
+"11","Kec. Sindang ","Majalengka","Jawa Barat",0,0,0,0,0
+"12","Kec. Kasokandel ","Majalengka","Jawa Barat",0,0,0,0,0
+"13","Kec. Waled ","Cirebon","Jambi",0,0,0,0,0
+"14","Kec. Ciledug ","Cirebon","Jambi",0,0,0,0,0
+"15","Kec. Karang Sembung ","Cirebon","Jambi",0,0,0,0,0
+"16","Kec. Astana Japura ","Cirebon","Jambi",0,0,0,0,0
+"17","Kec. Kapetakan ","Cirebon","Jambi",0,0,0,0,0
+"18","Kec. Klangenan ","Cirebon","Jambi",0,0,0,0,0
+"19","Kec. Panguragan ","Cirebon","Jambi",0,0,0,0,0
+"20","Kec. Pangenan ","Cirebon","Jambi",0,0,0,0,0
+"21","Kec. Karangwareng ","Cirebon","Jambi",0,0,0,0,0
+"22","Kec. Suranenggala ","Cirebon","Jambi",0,0,0,0,0
+"23","Kec. Baros ","Sukabumi","Jawa Barat",0,0,0,0,0
+"24","Kec. Warudoyong ","Sukabumi","Jawa Barat",0,0,0,0,0
+"25","Kec. Cipayung ","Depok","Jawa Barat",0,0,0,0,0
+"26","Kec. Cinere ","Depok","Jawa Barat",0,0,0,0,0
+"27","Kec. Singajaya ","Garut","Jawa Barat",0,0,0,0,0
+"28","Kec. Cilawu ","Garut","Jawa Barat",0,0,0,0,0
+"29","Kec. Cisurupan ","Garut","Jawa Barat",0,0,0,0,0
+"30","Kec. Leles ","Garut","Jawa Barat",0,0,0,0,0
+"31","Kec. Cibiuk ","Garut","Jawa Barat",0,0,0,0,0
+"32","Kec. Selaawi ","Garut","Jawa Barat",0,0,0,0,0
+"33","Kec. Caringin ","Garut","Jawa Barat",0,0,0,0,0
+"34","Kec. Pasirwangi ","Garut","Jawa Barat",0,0,0,0,0
+"35","Kec. Karangtengah ","Garut","Jawa Barat",0,0,0,0,0
+"36","Kec. Cigedug ","Garut","Jawa Barat",0,0,0,0,0
+"37","Kec. Sucinaraja ","Garut","Jawa Barat",0,0,0,0,0
+"38","Kec. Lelea ","Indramayu","Jambi",0,0,0,0,0
+"39","Kec. Bangodua ","Indramayu","Jambi",0,0,0,0,0
+"40","Kec. Widasari ","Indramayu","Jambi",0,0,0,0,0
+"41","Kec. Juntinyuat ","Indramayu","Jambi",0,0,0,0,0
+"42","Kec. Balongan ","Indramayu","Jambi",0,0,0,0,0
+"43","Kec. Bongas ","Indramayu","Jambi",0,0,0,0,0
+"44","Kec. Arahan ","Indramayu","Jambi",0,0,0,0,0
+"45","Kec. Cantigi ","Indramayu","Jambi",0,0,0,0,0
+"46","Kec. Gantar ","Indramayu","Jambi",0,0,0,0,0
+"47","Kec. Sukagumiwang ","Indramayu","Jambi",0,0,0,0,0
+"48","Kec. Patrol ","Indramayu","Jambi",0,0,0,0,0
+"49","Kec. Sagalaherang ","Subang","Jawa Barat",0,0,0,0,0
+"50","Kec. Cibogo ","Subang","Jawa Barat",0,0,0,0,0
+"51","Kec. Binong ","Subang","Jawa Barat",0,0,0,0,0
+"52","Kec. Blanakan ","Subang","Jawa Barat",0,0,0,0,0
+"53","Kec. Serangpanjang ","Subang","Jawa Barat",0,0,0,0,0
+"54","Kec. Kasomalang ","Subang","Jawa Barat",0,0,0,0,0
+"55","Kec. Cibeureum ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"56","Kec. Cipedes ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"57","Kec. Caringin ","Bogor","Jawa Barat",0,0,0,0,0
+"58","Kec. Cisarua ","Bogor","Jawa Barat",0,0,0,0,0
+"59","Kec. Cigudeg ","Bogor","Jawa Barat",0,0,0,0,0
+"60","Kec. Jasinga ","Bogor","Jawa Barat",0,0,0,0,0
+"61","Kec. Sukajaya ","Bogor","Jawa Barat",0,0,0,0,0
+"62","Kec. Cigombong ","Bogor","Jawa Barat",0,0,0,0,0
+"63","Kec. Leuwisadeng ","Bogor","Jawa Barat",0,0,0,0,0
+"64","Kec. Cimaung ","Bandung","Jawa Barat",0,0,0,0,0
+"65","Kec. Pacet ","Bandung","Jawa Barat",0,0,0,0,0
+"66","Kec. Ciparay ","Bandung","Jawa Barat",0,0,0,0,0
+"67","Kec. Arjasari ","Bandung","Jawa Barat",0,0,0,0,0
+"68","Kec. Pameungpeuk ","Bandung","Jawa Barat",0,0,0,0,0
+"69","Kec. Soreang ","Bandung","Jawa Barat",0,0,0,0,0
+"70","Kec. Cilengkrang ","Bandung","Jawa Barat",0,0,0,0,0
+"71","Kec. Cimenyan ","Bandung","Jawa Barat",0,0,0,0,0
+"72","Kec. Rancabali ","Bandung","Jawa Barat",0,0,0,0,0
+"73","Kec. Kadugede ","Kuningan","Jawa Barat",0,0,0,0,0
+"74","Kec. Ciniru ","Kuningan","Jawa Barat",0,0,0,0,0
+"75","Kec. Cidahu ","Kuningan","Jawa Barat",0,0,0,0,0
+"76","Kec. Ciawigebang ","Kuningan","Jawa Barat",0,0,0,0,0
+"77","Kec. Cilimus ","Kuningan","Jawa Barat",0,0,0,0,0
+"78","Kec. Mandirancan ","Kuningan","Jawa Barat",0,0,0,0,0
+"79","Kec. Pasawahan ","Kuningan","Jawa Barat",0,0,0,0,0
+"80","Kec. Pancalang ","Kuningan","Jawa Barat",0,0,0,0,0
+"81","Kec. Gununghalu ","Bandung Barat","Jawa Barat",0,0,0,0,0
+"82","Kec. Cihampelas ","Bandung Barat","Jawa Barat",0,0,0,0,0
+"83","Kec. Padalarang ","Bandung Barat","Jawa Barat",0,0,0,0,0
+"84","Kec. Saguling ","Bandung Barat","Jawa Barat",0,0,0,0,0
+"85","KEC. CIMERAK ","Pangandaran","Jawa Barat",0,0,0,0,0
+"86","KEC. CIGUGUR ","Pangandaran","Jawa Barat",0,0,0,0,0
+"87","KEC. LANGKAPLANCAR ","Pangandaran","Jawa Barat",0,0,0,0,0
+"88","KEC. MANGUNJAYA ","Pangandaran","Jawa Barat",0,0,0,0,0
+"89","KEC. PARIGI ","Pangandaran","Jawa Barat",0,0,0,0,0
+"90","Kec. Bojong Loa Kaler ","Bandung","Jawa Barat",0,0,0,0,0
+"91","Kec. Astanaanyar ","Bandung","Jawa Barat",0,0,0,0,0
+"92","Kec. Bandung Kidul ","Bandung","Jawa Barat",0,0,0,0,0
+"93","Kec. Rancasari ","Bandung","Jawa Barat",0,0,0,0,0
+"94","Kec. Arcamanik ","Bandung","Jawa Barat",0,0,0,0,0
+"95","Kec. Bandung Wetan ","Bandung","Jawa Barat",0,0,0,0,0
+"96","Kec. Surade ","Sukabumi","Jawa Barat",0,0,0,0,0
+"97","Kec. Tegalbuleud ","Sukabumi","Jawa Barat",0,0,0,0,0
+"98","Kec. Cidolog ","Sukabumi","Jawa Barat",0,0,0,0,0
+"99","Kec. Sukabumi ","Sukabumi","Jawa Barat",0,0,0,0,0
+"100","Kec. ","Sukabumi","Jawa Barat",0,0,0,0,0
+"101","Kec. Bantar Gadung ","Sukabumi","Jawa Barat",0,0,0,0,0
+"102","Kec. Cicantayan ","Sukabumi","Jawa Barat",0,0,0,0,0
+"103","Kec. Purabaya ","Sukabumi","Jawa Barat",0,0,0,0,0
+"104","Kec. Caringin ","Sukabumi","Jawa Barat",0,0,0,0,0
+"105","Kec. Cipatujah ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"106","Kec. Karangnunggal ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"107","Kec. Pancatengah ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"108","Kec. Taraju ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"109","Kec. Tanjungjaya ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"110","Kec. Sukaraja ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"111","Kec. Cineam ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"112","Kec. Leuwisari ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"113","Kec. Cisayong ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"114","Kec. Jamanis ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"115","Kec. Pagerageung ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"116","Kec. Bojongasih ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"117","Kec. Puspahiang ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"118","Kec. Jatiwaras ","Tasikmalaya","Jawa Barat",0,0,0,0,0
+"119","Kec. Plered ","Purwakarta","Jawa Barat",0,0,0,0,0
+"120","Kec. Sukasari ","Purwakarta","Jawa Barat",0,0,0,0,0
+"121","Kec. Babakancikao ","Purwakarta","Jawa Barat",0,0,0,0,0
+"122","Kec. Bungursari ","Purwakarta","Jawa Barat",0,0,0,0,0
+"123","Kec. Ciampel ","Karawang","Jawa Barat",0,0,0,0,0
+"124","Kec. Tirtamulya ","Karawang","Jawa Barat",0,0,0,0,0
+"125","Kec. Rawamerta ","Karawang","Jawa Barat",0,0,0,0,0
+"126","Kec. Tempuran ","Karawang","Jawa Barat",0,0,0,0,0
+"127","Kec. Cibuaya ","Karawang","Jawa Barat",0,0,0,0,0
+"128","Kec. Tirtajaya ","Karawang","Jawa Barat",0,0,0,0,0
+"129","Kec. Batujaya ","Karawang","Jawa Barat",0,0,0,0,0
+"130","Kec. Pakisjaya ","Karawang","Jawa Barat",0,0,0,0,0
+"131","Kec. Banyusari ","Karawang","Jawa Barat",0,0,0,0,0
+"132","Kec. Teluk Jambe Barat ","Karawang","Jawa Barat",0,0,0,0,0
+"133","Kec. Tegalwaru ","Karawang","Jawa Barat",0,0,0,0,0
+"134","Kec. Naringgul ","Cianjur","Jambi",0,0,0,0,0
+"135","Kec. Kadupandak ","Cianjur","Jambi",0,0,0,0,0
+"136","Kec. Pagelaran ","Cianjur","Jambi",0,0,0,0,0
+"137","Kec. Sukaluyu ","Cianjur","Jambi",0,0,0,0,0
+"138","Kec. Bojong Picung ","Cianjur","Jambi",0,0,0,0,0
+"139","Kec. Cikadu ","Cianjur","Jambi",0,0,0,0,0
+"140","Kec. Leles ","Cianjur","Jambi",0,0,0,0,0
+"141","Kec. Haurwangi ","Cianjur","Jambi",0,0,0,0,0
+"142","Kec. Pasirkuda ","Cianjur","Jambi",0,0,0,0,0
+"143","Kec. Pamarican ","Ciamis","Jawa Barat",0,0,0,0,0
+"144","Kec. Cimaragas ","Ciamis","Jawa Barat",0,0,0,0,0
+"145","Kec. Jatinagara ","Ciamis","Jawa Barat",0,0,0,0,0
+"146","Kec. Panawangan ","Ciamis","Jawa Barat",0,0,0,0,0
+"147","Kec. Panjalu ","Ciamis","Jawa Barat",0,0,0,0,0
+"148","Kec. Sindangkasih ","Ciamis","Jawa Barat",0,0,0,0,0
+"149","Kec. Lumbung ","Ciamis","Jawa Barat",0,0,0,0,0
+"150","Kec. Kedung Waringin ","Bekasi","Jawa Barat",0,0,0,0,0
+"151","Kec. Pebayuran ","Bekasi","Jawa Barat",0,0,0,0,0
+"152","Kec. Muara Gembong ","Bekasi","Jawa Barat",0,0,0,0,0
+"153","Kec. Karang Bahagia ","Bekasi","Jawa Barat",0,0,0,0,0
+"154","Kec. Cikarang Timur ","Bekasi","Jawa Barat",0,0,0,0,0
+"155","Kec. Sukakarya ","Bekasi","Jawa Barat",0,0,0,0,0
+"156","Kec. Salam ","Magelang","Jawa Tengah",0,0,0,0,0
+"157","Kec. Mungkid ","Magelang","Jawa Tengah",0,0,0,0,0
+"158","Kec. Tempuran ","Magelang","Jawa Tengah",0,0,0,0,0
+"159","Kec. Kaliangkrik ","Magelang","Jawa Tengah",0,0,0,0,0
+"160","Kec. Sukolilo ","Pati","Jawa Tengah",0,0,0,0,0
+"161","Kec. Batangan ","Pati","Jawa Tengah",0,0,0,0,0
+"162","Kec. Jakenan ","Pati","Jawa Tengah",0,0,0,0,0
+"163","Kec. Wedarijaksa ","Pati","Jawa Tengah",0,0,0,0,0
+"164","Kec. Margoyoso ","Pati","Jawa Tengah",0,0,0,0,0
+"165","Kec. Dukuhseti ","Pati","Jawa Tengah",0,0,0,0,0
+"166","Kec. Bandar ","Batang","Jawa Barat",0,0,0,0,0
+"167","Kec. Gringsing ","Batang","Jawa Barat",0,0,0,0,0
+"168","Kec. Limpung ","Batang","Jawa Barat",0,0,0,0,0
+"169","Kec. Subah ","Batang","Jawa Barat",0,0,0,0,0
+"170","Kec. Banyuputih ","Batang","Jawa Barat",0,0,0,0,0
+"171","Kec. Doro ","Pekalongan","Jawa Barat",0,0,0,0,0
+"172","Kec. Karanganyar ","Pekalongan","Jawa Barat",0,0,0,0,0
+"173","Kec. Kajen ","Pekalongan","Jawa Barat",0,0,0,0,0
+"174","Kec. Kesesi ","Pekalongan","Jawa Barat",0,0,0,0,0
+"175","Kec. Bojong ","Pekalongan","Jawa Barat",0,0,0,0,0
+"176","Kec. Purwareja Klampok ","Banjarnegara","Jawa Tengah",0,0,0,0,0
+"177","Kec. Mandiraja ","Banjarnegara","Jawa Tengah",0,0,0,0,0
+"178","Kec. Purwanegara ","Banjarnegara","Jawa Tengah",0,0,0,0,0
+"179","Kec. Sigaluh ","Banjarnegara","Jawa Tengah",0,0,0,0,0
+"180","Kec. Grogol ","Sukoharjo","Jawa Tengah",0,0,0,0,0
+"181","Kec. Baki ","Sukoharjo","Jawa Tengah",0,0,0,0,0
+"182","Kec. Pekalongan Barat ","Pekalongan","Jawa Barat",0,0,0,0,0
+"183","Kec. Pekalongan Selatan ","Pekalongan","Jawa Barat",0,0,0,0,0
+"184","Kec. Margadana ","Tegal","Jawa Tengah",0,0,0,0,0
+"185","Kec. Musuk ","Boyolali","Jawa Barat",0,0,0,0,0
+"186","Kec. Banyudono ","Boyolali","Jawa Barat",0,0,0,0,0
+"187","Kec. Nogosari ","Boyolali","Jawa Barat",0,0,0,0,0
+"188","Kec. Kemusu ","Boyolali","Jawa Barat",0,0,0,0,0
+"189","Kec. Ngawen ","Klaten","Jawa Barat",0,0,0,0,0
+"190","Kec. Ceper ","Klaten","Jawa Barat",0,0,0,0,0
+"191","Kec. Juwiring ","Klaten","Jawa Barat",0,0,0,0,0
+"192","Kec. Wonosari ","Klaten","Jawa Barat",0,0,0,0,0
+"193","Kec. Karanganom ","Klaten","Jawa Barat",0,0,0,0,0
+"194","Kec. Klaten Tengah ","Klaten","Jawa Barat",0,0,0,0,0
+"195","Kec. Magelang Selatan ","Magelang","Jawa Tengah",0,0,0,0,0
+"196","Kec. Magelang Utara ","Magelang","Jawa Tengah",0,0,0,0,0
+"197","Kec. Tembalang ","Semarang","Jawa Tengah",0,0,0,0,0
+"198","Kec. Tugu ","Semarang","Jawa Tengah",0,0,0,0,0
+"199","Kec. Ngaliyan ","Semarang","Jawa Tengah",0,0,0,0,0
+"200","Kec. Kawunganten ","Cilacap","Jawa Tengah",0,0,0,0,0
+"201","Kec. Jeruklegi ","Cilacap","Jawa Tengah",0,0,0,0,0
+"202","Kec. Adipala ","Cilacap","Jawa Tengah",0,0,0,0,0
+"203","Kec. Kroya ","Cilacap","Jawa Tengah",0,0,0,0,0
+"204","Kec. Bodeh ","Pemalang","Jawa Tengah",0,0,0,0,0
+"205","Kec. Ulujami ","Pemalang","Jawa Tengah",0,0,0,0,0
+"206","Kec. Rawalo ","Banyumas","Jawa Tengah",0,0,0,0,0
+"207","Kec. Kemranjen ","Banyumas","Jawa Tengah",0,0,0,0,0
+"208","Kec. Cilongok ","Banyumas","Jawa Tengah",0,0,0,0,0
+"209","Kec. Karanglewas ","Banyumas","Jawa Tengah",0,0,0,0,0
+"210","Kec. Kedung Banteng ","Banyumas","Jawa Tengah",0,0,0,0,0
+"211","Kec. Purwokerto Selatan ","Banyumas","Jawa Tengah",0,0,0,0,0
+"212","Kec. Kutasari ","Purbalingga","Jawa Tengah",0,0,0,0,0
+"213","Kec. Karanganyar ","Purbalingga","Jawa Tengah",0,0,0,0,0
+"214","Kec. Karangmoncol ","Purbalingga","Jawa Tengah",0,0,0,0,0
+"215","Kec. Balapulang ","Tegal","Jawa Tengah",0,0,0,0,0
+"216","Kec. Pagerbarang ","Tegal","Jawa Tengah",0,0,0,0,0
+"217","Kec. Lebaksiu ","Tegal","Jawa Tengah",0,0,0,0,0
+"218","Kec. Pangkah ","Tegal","Jawa Tengah",0,0,0,0,0
+"219","Kec. Kramat ","Tegal","Jawa Tengah",0,0,0,0,0
+"220","Kec. Bantarkawung ","Brebes","Jawa Tengah",0,0,0,0,0
+"221","Kec. Larangan ","Brebes","Jawa Tengah",0,0,0,0,0
+"222","Kec. Banjarharjo ","Brebes","Jawa Tengah",0,0,0,0,0
+"223","Kec. Wanasari ","Brebes","Jawa Tengah",0,0,0,0,0
+"224","Kec. Songgom ","Brebes","Jawa Tengah",0,0,0,0,0
+"225","Kec. Jatibarang ","Brebes","Jawa Tengah",0,0,0,0,0
+"226","Kec. Kaliwiro ","Wonosobo","Jawa Barat",0,0,0,0,0
+"227","Kec. Kertek ","Wonosobo","Jawa Barat",0,0,0,0,0
+"228","Kec. Watumalang ","Wonosobo","Jawa Barat",0,0,0,0,0
+"229","Kec. Randublatung ","Blora","Jawa Tengah",0,0,0,0,0
+"230","Kec. Jiken ","Blora","Jawa Tengah",0,0,0,0,0
+"231","Kec. Tunjungan ","Blora","Jawa Tengah",0,0,0,0,0
+"232","Kec. Todanan ","Blora","Jawa Tengah",0,0,0,0,0
+"233","Kec. Plantungan ","Kendal","Jawa Tengah",0,0,0,0,0
+"234","Kec. Patean ","Kendal","Jawa Tengah",0,0,0,0,0
+"235","Kec. Limbangan ","Kendal","Jawa Tengah",0,0,0,0,0
+"236","Kec. Brangsong ","Kendal","Jawa Tengah",0,0,0,0,0
+"237","Kec. Kangkung ","Kendal","Jawa Tengah",0,0,0,0,0
+"238","Kec. Kaliwungu Selatan ","Kendal","Jawa Tengah",0,0,0,0,0
+"239","Kec. Ayah ","Kebumen","Jawa Tengah",0,0,0,0,0
+"240","Kec. Buluspesantren ","Kebumen","Jawa Tengah",0,0,0,0,0
+"241","Kec. Rowokele ","Kebumen","Jawa Tengah",0,0,0,0,0
+"242","Kec. Pracimantoro ","Wonogiri","Jawa Barat",0,0,0,0,0
+"243","Kec. Tirtomoyo ","Wonogiri","Jawa Barat",0,0,0,0,0
+"244","Kec. Nguntoronadi ","Wonogiri","Jawa Barat",0,0,0,0,0
+"245","Kec. Purwantoro ","Wonogiri","Jawa Barat",0,0,0,0,0
+"246","Kec. Slogohimo ","Wonogiri","Jawa Barat",0,0,0,0,0
+"247","Kec. Girimarto ","Wonogiri","Jawa Barat",0,0,0,0,0
+"248","Kec. Jumapolo ","Karanganyar","Jawa Tengah",0,0,0,0,0
+"249","Kec. Jumantono ","Karanganyar","Jawa Tengah",0,0,0,0,0
+"250","Kec. Kebakkramat ","Karanganyar","Jawa Tengah",0,0,0,0,0
+"251","Kec. Mojogedang ","Karanganyar","Jawa Tengah",0,0,0,0,0
+"252","Kec. Jenawi ","Karanganyar","Jawa Tengah",0,0,0,0,0
+"253","Kec. Kedung ","Jepara","Jawa Tengah",0,0,0,0,0
+"254","Kec. Nalumsari ","Jepara","Jawa Tengah",0,0,0,0,0
+"255","Kec. Batealit ","Jepara","Jawa Tengah",0,0,0,0,0
+"256","Kec. Tahunan ","Jepara","Jawa Tengah",0,0,0,0,0
+"257","Kec. Bangsri ","Jepara","Jawa Tengah",0,0,0,0,0
+"258","Kec. Kalinyamatan ","Jepara","Jawa Tengah",0,0,0,0,0
+"259","Kec. Bonang ","Demak","Jawa Barat",0,0,0,0,0
+"260","Kec. Dempet ","Demak","Jawa Barat",0,0,0,0,0
+"261","Kec. Gajah ","Demak","Jawa Barat",0,0,0,0,0
+"262","Kec. Karanganyar ","Demak","Jawa Barat",0,0,0,0,0
+"263","Kec. Grabag ","Purworejo","Jawa Tengah",0,0,0,0,0
+"264","Kec. Bayan ","Purworejo","Jawa Tengah",0,0,0,0,0
+"265","Kec. Butuh ","Purworejo","Jawa Tengah",0,0,0,0,0
+"266","Kec. Kemiri ","Purworejo","Jawa Tengah",0,0,0,0,0
+"267","Kec. Bruno ","Purworejo","Jawa Tengah",0,0,0,0,0
+"268","Kec. Gebang ","Purworejo","Jawa Tengah",0,0,0,0,0
+"269","Kec. Gondang ","Sragen","Jawa Tengah",0,0,0,0,0
+"270","Kec. Sambung Macan ","Sragen","Jawa Tengah",0,0,0,0,0
+"271","Kec. Sukodono ","Sragen","Jawa Tengah",0,0,0,0,0
+"272","Kec. Penawangan ","Grobogan","Jawa Barat",0,0,0,0,0
+"273","Kec. Banyubiru ","Semarang","Jawa Tengah",0,0,0,0,0
+"274","Kec. Ambarawa ","Semarang","Jawa Tengah",0,0,0,0,0
+"275","Kec. Bawen ","Semarang","Jawa Tengah",0,0,0,0,0
+"276","Kec. Ungaran Timur ","Semarang","Jawa Tengah",0,0,0,0,0
+"277","Kec. Kaloran ","Temanggung","Jawa Barat",0,0,0,0,0
+"278","Kec. Kedu ","Temanggung","Jawa Barat",0,0,0,0,0
+"279","Kec. Candiroto ","Temanggung","Jawa Barat",0,0,0,0,0
+"280","Kec. Srandakan ","Bantul","DI Yogyakarta",0,0,0,0,0
+"281","Kec. Sanden ","Bantul","DI Yogyakarta",0,0,0,0,0
+"282","Kec. Pundong ","Bantul","DI Yogyakarta",0,0,0,0,0
+"283","Kec. Jetis ","Bantul","DI Yogyakarta",0,0,0,0,0
+"284","Kec. Dlingo ","Bantul","DI Yogyakarta",0,0,0,0,0
+"285","Kec. Moyudan ","Sleman","DI Yogyakarta",0,0,0,0,0
+"286","Kec. Minggir ","Sleman","DI Yogyakarta",0,0,0,0,0
+"287","Kec. Godean ","Sleman","DI Yogyakarta",0,0,0,0,0
+"288","Kec. Berbah ","Sleman","DI Yogyakarta",0,0,0,0,0
+"289","Kec. Panggang ","Gunung Kidul","Bengkulu",0,0,0,0,0
+"290","Kec. Rongkop ","Gunung Kidul","Bengkulu",0,0,0,0,0
+"291","Kec. Karangmojo ","Gunung Kidul","Bengkulu",0,0,0,0,0
+"292","Kec. Nglipar ","Gunung Kidul","Bengkulu",0,0,0,0,0
+"293","Kec. Temon ","Kulon Progo","DI Yogyakarta",0,0,0,0,0
+"294","Kec. Lendah ","Kulon Progo","DI Yogyakarta",0,0,0,0,0
+"295","Kec. Kalibawang ","Kulon Progo","DI Yogyakarta",0,0,0,0,0
+"296","Kec. Mantrijeron ","Yogyakarta","Bengkulu",0,0,0,0,0
+"297","Kec. Kraton ","Yogyakarta","Bengkulu",0,0,0,0,0
+"298","Kec. Wirobrajan ","Yogyakarta","Bengkulu",0,0,0,0,0
+"299","Kec. Gedongtengen ","Yogyakarta","Bengkulu",0,0,0,0,0
+"300","Kec. Tegalrejo ","Yogyakarta","Bengkulu",0,0,0,0,0
+"301","Kec. Panggul ","Trenggalek","Jawa Timur",0,0,0,0,0
+"302","Kec. Munjungan ","Trenggalek","Jawa Timur",0,0,0,0,0
+"303","Kec. Kampak ","Trenggalek","Jawa Timur",0,0,0,0,0
+"304","Kec. Pule ","Trenggalek","Jawa Timur",0,0,0,0,0
+"305","Kec. Tugu ","Trenggalek","Jawa Timur",0,0,0,0,0
+"306","Kec. Pagak ","Malang","Jawa Timur",0,0,0,0,0
+"307","Kec. Gedangan ","Malang","Jawa Timur",0,0,0,0,0
+"308","Kec. Ampelgading ","Malang","Jawa Timur",0,0,0,0,0
+"309","Kec. Sumberpucung ","Malang","Jawa Timur",0,0,0,0,0
+"310","Kec. Kromengan ","Malang","Jawa Timur",0,0,0,0,0
+"311","Kec. Ngajum ","Malang","Jawa Timur",0,0,0,0,0
+"312","Kec. Pakisaji ","Malang","Jawa Timur",0,0,0,0,0
+"313","Kec. Tajinan ","Malang","Jawa Timur",0,0,0,0,0
+"314","Kec. Karangploso ","Malang","Jawa Timur",0,0,0,0,0
+"315","Kec. Pujon ","Malang","Jawa Timur",0,0,0,0,0
+"316","Kec. Ngantang ","Malang","Jawa Timur",0,0,0,0,0
+"317","Kec. Giligenteng ","Sumenep","Jawa Timur",0,0,0,0,0
+"318","Kec. Kalianget ","Sumenep","Jawa Timur",0,0,0,0,0
+"319","Kec. Pasongsongan ","Sumenep","Jawa Timur",0,0,0,0,0
+"320","Kec. Dasuk ","Sumenep","Jawa Timur",0,0,0,0,0
+"321","Kec. Batuputih ","Sumenep","Jawa Timur",0,0,0,0,0
+"322","Kec. Batuan ","Sumenep","Jawa Timur",0,0,0,0,0
+"323","Kec. Kamal ","Bangkalan","Jawa Tengah",0,0,0,0,0
+"324","Kec. Kwanyar ","Bangkalan","Jawa Tengah",0,0,0,0,0
+"325","Kec. Tragah ","Bangkalan","Jawa Tengah",0,0,0,0,0
+"326","Kec. Socah ","Bangkalan","Jawa Tengah",0,0,0,0,0
+"327","Kec. Klampis ","Bangkalan","Jawa Tengah",0,0,0,0,0
+"328","Kec. Gudo ","Jombang","Jawa Tengah",0,0,0,0,0
+"329","Kec. Mojoagung ","Jombang","Jawa Tengah",0,0,0,0,0
+"330","Kec. Tembelang ","Jombang","Jawa Tengah",0,0,0,0,0
+"331","Kec. Kesamben ","Jombang","Jawa Tengah",0,0,0,0,0
+"332","Kec. Ploso ","Jombang","Jawa Tengah",0,0,0,0,0
+"333","Kec. Ngambon ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"334","Kec. Bubulan ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"335","Kec. Temayang ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"336","Kec. Baureno ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"337","Kec. Balen ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"338","Kec. Kapas ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"339","Kec. Ngasem ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"340","Kec. Purwosari ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"341","Kec. Padangan ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"342","Kec. Kasiman ","Bojonegoro","Jawa Tengah",0,0,0,0,0
+"343","Kec. Slahung ","Ponorogo","Jawa Timur",0,0,0,0,0
+"344","Kec. Sambit ","Ponorogo","Jawa Timur",0,0,0,0,0
+"345","Kec. Mlarak ","Ponorogo","Jawa Timur",0,0,0,0,0
+"346","Kec. Siman ","Ponorogo","Jawa Timur",0,0,0,0,0
+"347","Kec. Jambon ","Ponorogo","Jawa Timur",0,0,0,0,0
+"348","Kec. Sampung ","Ponorogo","Jawa Timur",0,0,0,0,0
+"349","Kec. Babadan ","Ponorogo","Jawa Timur",0,0,0,0,0
+"350","Kec. Jenangan ","Ponorogo","Jawa Timur",0,0,0,0,0
+"351","Kec. Sumber ","Probolinggo","Jawa Timur",0,0,0,0,0
+"352","Kec. Kuripan ","Probolinggo","Jawa Timur",0,0,0,0,0
+"353","Kec. Pakuniran ","Probolinggo","Jawa Timur",0,0,0,0,0
+"354","Kec. Besuk ","Probolinggo","Jawa Timur",0,0,0,0,0
+"355","Kec. Blimbing ","Malang","Jawa Timur",0,0,0,0,0
+"356","Kec. Pesantren ","Kediri","Jawa Tengah",0,0,0,0,0
+"357","Kec. Gadingrejo ","Pasuruan","Jawa Timur",0,0,0,0,0
+"358","Kec. Bugul Kidul ","Pasuruan","Jawa Timur",0,0,0,0,0
+"359","Kec. Kademangan ","Probolinggo","Jawa Timur",0,0,0,0,0
+"360","Kec. Wonoasih ","Probolinggo","Jawa Timur",0,0,0,0,0
+"361","Kec. Mayangan ","Probolinggo","Jawa Timur",0,0,0,0,0
+"362","Kec. Junrejo ","Batu","Jawa Tengah",0,0,0,0,0
+"363","Kec. Bumiaji ","Batu","Jawa Tengah",0,0,0,0,0
+"364","Kec. Bangilan ","Tuban","Jawa Timur",0,0,0,0,0
+"365","Kec. Montong ","Tuban","Jawa Timur",0,0,0,0,0
+"366","Kec. Widang ","Tuban","Jawa Timur",0,0,0,0,0
+"367","Kec. Semanding ","Tuban","Jawa Timur",0,0,0,0,0
+"368","Kec. Jenu ","Tuban","Jawa Timur",0,0,0,0,0
+"369","Kec. Kerek ","Tuban","Jawa Timur",0,0,0,0,0
+"370","Kec. Jatirogo ","Tuban","Jawa Timur",0,0,0,0,0
+"371","Kec. Pace ","Nganjuk","Jawa Timur",0,0,0,0,0
+"372","Kec. Patianrowo ","Nganjuk","Jawa Timur",0,0,0,0,0
+"373","Kec. Rejoso ","Nganjuk","Jawa Timur",0,0,0,0,0
+"374","Kec. Lengkong ","Nganjuk","Jawa Timur",0,0,0,0,0
+"375","Kec. Puger ","Jember","Jawa Tengah",0,0,0,0,0
+"376","Kec. Tempurejo ","Jember","Jawa Tengah",0,0,0,0,0
+"377","Kec. Silo ","Jember","Jawa Tengah",0,0,0,0,0
+"378","Kec. Mumbulsari ","Jember","Jawa Tengah",0,0,0,0,0
+"379","Kec. Jenggawah ","Jember","Jawa Tengah",0,0,0,0,0
+"380","Kec. Semboro ","Jember","Jawa Tengah",0,0,0,0,0
+"381","Kec. Sumberbaru ","Jember","Jawa Tengah",0,0,0,0,0
+"382","Kec. Bangsalsari ","Jember","Jawa Tengah",0,0,0,0,0
+"383","Kec. Pakusari ","Jember","Jawa Tengah",0,0,0,0,0
+"384","Kec. Jelbuk ","Jember","Jawa Tengah",0,0,0,0,0
+"385","Kec. Pesanggaran ","Banyuwangi","Jawa Tengah",0,0,0,0,0
+"386","Kec. Tegaldlimo ","Banyuwangi","Jawa Tengah",0,0,0,0,0
+"387","Kec. Kalibaru ","Banyuwangi","Jawa Tengah",0,0,0,0,0
+"388","Kec. Singojuruh ","Banyuwangi","Jawa Tengah",0,0,0,0,0
+"389","Kec. Sempu ","Banyuwangi","Jawa Tengah",0,0,0,0,0
+"390","Kec. Giri ","Banyuwangi","Jawa Tengah",0,0,0,0,0
+"391","Kec. Kalipuro ","Banyuwangi","Jawa Tengah",0,0,0,0,0
+"392","Kec. Tegalsari ","Banyuwangi","Jawa Tengah",0,0,0,0,0
+"393","Kec. Punung ","Pacitan","Jawa Timur",0,0,0,0,0
+"394","Kec. Pacitan ","Pacitan","Jawa Timur",0,0,0,0,0
+"395","Kec. Nawangan ","Pacitan","Jawa Timur",0,0,0,0,0
+"396","Kec. Sudimoro ","Pacitan","Jawa Timur",0,0,0,0,0
+"397","Kec. Kras ","Kediri","Jawa Tengah",0,0,0,0,0
+"398","Kec. Plosoklaten ","Kediri","Jawa Tengah",0,0,0,0,0
+"399","Kec. Semen ","Kediri","Jawa Tengah",0,0,0,0,0
+"400","Kec. Gurah ","Kediri","Jawa Tengah",0,0,0,0,0
+"401","Kec. Papar ","Kediri","Jawa Tengah",0,0,0,0,0
+"402","Kec. Purwoasri ","Kediri","Jawa Tengah",0,0,0,0,0
+"403","Kec. Tempursari ","Lumajang","Jawa Tengah",0,0,0,0,0
+"404","Kec. Pronojiwo ","Lumajang","Jawa Tengah",0,0,0,0,0
+"405","Kec. Tempeh ","Lumajang","Jawa Tengah",0,0,0,0,0
+"406","Kec. Tekung ","Lumajang","Jawa Tengah",0,0,0,0,0
+"407","Kec. Senduro ","Lumajang","Jawa Tengah",0,0,0,0,0
+"408","Kec. Jatiroto ","Lumajang","Jawa Tengah",0,0,0,0,0
+"409","Kec. Randuagung ","Lumajang","Jawa Tengah",0,0,0,0,0
+"410","Kec. Ranuyoso ","Lumajang","Jawa Tengah",0,0,0,0,0
+"411","Kec. Grujugan ","Bondowoso","Jawa Tengah",0,0,0,0,0
+"412","Kec. Pujer ","Bondowoso","Jawa Tengah",0,0,0,0,0
+"413","Kec. Tlogosari ","Bondowoso","Jawa Tengah",0,0,0,0,0
+"414","Kec. Tapen ","Bondowoso","Jawa Tengah",0,0,0,0,0
+"415","Kec. Jambesari Darus Sholah ","Bondowoso","Jawa Tengah",0,0,0,0,0
+"416","Kec. Besuki ","Situbondo","Jawa Timur",0,0,0,0,0
+"417","Kec. Panarukan ","Situbondo","Jawa Timur",0,0,0,0,0
+"418","Kec. Kapongan ","Situbondo","Jawa Timur",0,0,0,0,0
+"419","Kec. Arjasa ","Situbondo","Jawa Timur",0,0,0,0,0
+"420","Kec. Gondang ","Mojokerto","Jawa Timur",0,0,0,0,0
+"421","Kec. Trawas ","Mojokerto","Jawa Timur",0,0,0,0,0
+"422","Kec. Kutorejo ","Mojokerto","Jawa Timur",0,0,0,0,0
+"423","Kec. Bangsal ","Mojokerto","Jawa Timur",0,0,0,0,0
+"424","Kec. Dlanggu ","Mojokerto","Jawa Timur",0,0,0,0,0
+"425","Kec. Trowulan ","Mojokerto","Jawa Timur",0,0,0,0,0
+"426","Kec. Kemlagi ","Mojokerto","Jawa Timur",0,0,0,0,0
+"427","Kec. Mojoanyar ","Mojokerto","Jawa Timur",0,0,0,0,0
+"428","Kec. Sine ","Ngawi","Jawa Timur",0,0,0,0,0
+"429","Kec. Geneng ","Ngawi","Jawa Timur",0,0,0,0,0
+"430","Kec. Kwadungan ","Ngawi","Jawa Timur",0,0,0,0,0
+"431","Kec. Parang ","Magetan","Jawa Timur",0,0,0,0,0
+"432","Kec. Kawedanan ","Magetan","Jawa Timur",0,0,0,0,0
+"433","Kec. Plaosan ","Magetan","Jawa Timur",0,0,0,0,0
+"434","Kec. Sukomoro ","Magetan","Jawa Timur",0,0,0,0,0
+"435","Kec. Barat ","Magetan","Jawa Timur",0,0,0,0,0
+"436","Kec. Purwodadi ","Pasuruan","Jawa Timur",0,0,0,0,0
+"437","Kec. Wonorejo ","Pasuruan","Jawa Timur",0,0,0,0,0
+"438","Kec. Kraton ","Pasuruan","Jawa Timur",0,0,0,0,0
+"439","Kec. Lekok ","Pasuruan","Jawa Timur",0,0,0,0,0
+"440","Kec. Gubeng ","Surabaya","Jawa Timur",0,0,0,0,0
+"441","Kec. Dukuh Pakis ","Surabaya","Jawa Timur",0,0,0,0,0
+"442","Kec. Tegal Sari ","Surabaya","Jawa Timur",0,0,0,0,0
+"443","Kec. Semampir ","Surabaya","Jawa Timur",0,0,0,0,0
+"444","Kec. Bubutan ","Surabaya","Jawa Timur",0,0,0,0,0
+"445","Kec. Asemrowo ","Surabaya","Jawa Timur",0,0,0,0,0
+"446","Kec. Benowo ","Surabaya","Jawa Timur",0,0,0,0,0
+"447","Kec. Sambi Kerep ","Surabaya","Jawa Timur",0,0,0,0,0
+"448","Kec. Wringin Anom ","Gresik","Jawa Tengah",0,0,0,0,0
+"449","Kec. Duduk Sampeyan ","Gresik","Jawa Tengah",0,0,0,0,0
+"450","Kec. Panceng ","Gresik","Jawa Tengah",0,0,0,0,0
+"451","Kec. Tambak ","Gresik","Jawa Tengah",0,0,0,0,0
+"452","Kec. Sukorame ","Lamongan","Jawa Tengah",0,0,0,0,0
+"453","Kec. Sambeng ","Lamongan","Jawa Tengah",0,0,0,0,0
+"454","Kec. Mantup ","Lamongan","Jawa Tengah",0,0,0,0,0
+"455","Kec. Kedungpring ","Lamongan","Jawa Tengah",0,0,0,0,0
+"456","Kec. Deket ","Lamongan","Jawa Tengah",0,0,0,0,0
+"457","Kec. Kalitengah ","Lamongan","Jawa Tengah",0,0,0,0,0
+"458","Kec. Karang Geneng ","Lamongan","Jawa Tengah",0,0,0,0,0
+"459","Kec. Wates ","Blitar","Jawa Tengah",0,0,0,0,0
+"460","Kec. Sutojayan ","Blitar","Jawa Tengah",0,0,0,0,0
+"461","Kec. Wlingi ","Blitar","Jawa Tengah",0,0,0,0,0
+"462","Kec. Wonodadi ","Blitar","Jawa Tengah",0,0,0,0,0
+"463","Kec. Besuki ","Tulungagung","Jawa Timur",0,0,0,0,0
+"464","Kec. Pakel ","Tulungagung","Jawa Timur",0,0,0,0,0
+"465","Kec. Boyolangu ","Tulungagung","Jawa Timur",0,0,0,0,0
+"466","Kec. Gondang ","Tulungagung","Jawa Timur",0,0,0,0,0
+"467","Kec. Sendang ","Tulungagung","Jawa Timur",0,0,0,0,0
+"468","Kec. Sreseh ","Sampang","Jawa Timur",0,0,0,0,0
+"469","Kec. Omben ","Sampang","Jawa Timur",0,0,0,0,0
+"470","Kec. Tarik ","Sidoarjo","Jawa Timur",0,0,0,0,0
+"471","Kec. Candi ","Sidoarjo","Jawa Timur",0,0,0,0,0
+"472","Kec. Wonoayu ","Sidoarjo","Jawa Timur",0,0,0,0,0
+"473","Kec. Buduran ","Sidoarjo","Jawa Timur",0,0,0,0,0
+"474","Kec. Pilangkenceng ","Madiun","Jawa Tengah",0,0,0,0,0
+"475","Kec. Sawang ","Aceh Utara","Maluku",0,0,0,0,0
+"476","Kec. Nisam ","Aceh Utara","Maluku",0,0,0,0,0
+"477","Kec. Baktiya ","Aceh Utara","Maluku",0,0,0,0,0
+"478","Kec. Tanah Luas ","Aceh Utara","Maluku",0,0,0,0,0
+"479","Kec. Samudera ","Aceh Utara","Maluku",0,0,0,0,0
+"480","Kec. Simpang Keramat ","Aceh Utara","Maluku",0,0,0,0,0
+"481","Kec. Nibong ","Aceh Utara","Maluku",0,0,0,0,0
+"482","Kec. Geureudong Pase ","Aceh Utara","Maluku",0,0,0,0,0
+"483","Kec. Banda Baro ","Aceh Utara","Maluku",0,0,0,0,0
+"484","Kec. Kluet Utara ","Aceh Selatan","Maluku",0,0,0,0,0
+"485","Kec. Samadua ","Aceh Selatan","Maluku",0,0,0,0,0
+"486","Kec. Sawang ","Aceh Selatan","Maluku",0,0,0,0,0
+"487","Kec. Pasie Raja ","Aceh Selatan","Maluku",0,0,0,0,0
+"488","Kec. Kluet Timur ","Aceh Selatan","Maluku",0,0,0,0,0
+"489","Kec. Labuhan Haji Barat ","Aceh Selatan","Maluku",0,0,0,0,0
+"490","Kec. Trumon Tengah ","Aceh Selatan","Maluku",0,0,0,0,0
+"491","Kec. Darul Hasanah ","Aceh Tenggara","Maluku",0,0,0,0,0
+"492","Kec. Lawe Bulan ","Aceh Tenggara","Maluku",0,0,0,0,0
+"493","Kec. Semadam ","Aceh Tenggara","Maluku",0,0,0,0,0
+"494","Kec. Babul Rahmat ","Aceh Tenggara","Maluku",0,0,0,0,0
+"495","Kec. Ketambe ","Aceh Tenggara","Maluku",0,0,0,0,0
+"496","Kec. Lawe Sumur ","Aceh Tenggara","Maluku",0,0,0,0,0
+"497","Kec. Penanggalan ","Subulussalam","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"498","Kec. Sultan Daulat ","Subulussalam","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"499","Kec. Mesjid Raya ","Aceh Besar","Maluku",0,0,0,0,0
+"500","Kec. Peukan Bada ","Aceh Besar","Maluku",0,0,0,0,0
+"501","Kec. Leupung ","Aceh Besar","Maluku",0,0,0,0,0
+"502","Kec. Kuta Malaka ","Aceh Besar","Maluku",0,0,0,0,0
+"503","Kec. Lembah Seulawah ","Aceh Besar","Maluku",0,0,0,0,0
+"504","Kec. Simpang Tiga ","Aceh Besar","Maluku",0,0,0,0,0
+"505","Kec. Blang Bintang ","Aceh Besar","Maluku",0,0,0,0,0
+"506","Kec. Nurussalam ","Aceh Timur","Maluku",0,0,0,0,0
+"507","Kec. Julok ","Aceh Timur","Maluku",0,0,0,0,0
+"508","Kec. Sungai Raya ","Aceh Timur","Maluku",0,0,0,0,0
+"509","Kec. Peureulak Barat ","Aceh Timur","Maluku",0,0,0,0,0
+"510","Kec. Peudawa ","Aceh Timur","Maluku",0,0,0,0,0
+"511","Kec. Madat ","Aceh Timur","Maluku",0,0,0,0,0
+"512","Kec. Darul Ihsan ","Aceh Timur","Maluku",0,0,0,0,0
+"513","Kec. Darul Falah ","Aceh Timur","Maluku",0,0,0,0,0
+"514","Kec. Pandrah ","Bireuen","Maluku Utara",0,0,0,0,0
+"515","Kec. Peudada ","Bireuen","Maluku Utara",0,0,0,0,0
+"516","Kec. Juli ","Bireuen","Maluku Utara",0,0,0,0,0
+"517","Kec. Jeumpa ","Bireuen","Maluku Utara",0,0,0,0,0
+"518","Kec. Jangka ","Bireuen","Maluku Utara",0,0,0,0,0
+"519","Kec. Ganda Pura ","Bireuen","Maluku Utara",0,0,0,0,0
+"520","Kec. Peulimbang ","Bireuen","Maluku Utara",0,0,0,0,0
+"521","Kec. Peusangan Selatan ","Bireuen","Maluku Utara",0,0,0,0,0
+"522","Kec. Peusangan Siblah Krueng ","Bireuen","Maluku Utara",0,0,0,0,0
+"523","Kec. Mutiara ","Pidie","Maluku Utara",0,0,0,0,0
+"524","Kec. Sakti ","Pidie","Maluku Utara",0,0,0,0,0
+"525","Kec. Mila ","Pidie","Maluku Utara",0,0,0,0,0
+"526","Kec. Delima ","Pidie","Maluku Utara",0,0,0,0,0
+"527","Kec. Peukan Baro ","Pidie","Maluku Utara",0,0,0,0,0
+"528","Kec. Kembang Tanjung ","Pidie","Maluku Utara",0,0,0,0,0
+"529","Kec. Simpang Tiga ","Pidie","Maluku Utara",0,0,0,0,0
+"530","Kec. Muara Tiga ","Pidie","Maluku Utara",0,0,0,0,0
+"531","Kec. Mutiara Timur ","Pidie","Maluku Utara",0,0,0,0,0
+"532","Kec. Keumala ","Pidie","Maluku Utara",0,0,0,0,0
+"533","Kec. Linge ","Aceh Tengah","Maluku",0,0,0,0,0
+"534","Kec. Bintang ","Aceh Tengah","Maluku",0,0,0,0,0
+"535","Kec. Laut Tawar ","Aceh Tengah","Maluku",0,0,0,0,0
+"536","Kec. Jagong Jeget ","Aceh Tengah","Maluku",0,0,0,0,0
+"537","Kec. Pintu Rime Gayo ","Bener Meriah","Maluku Utara",0,0,0,0,0
+"538","Kec. Wih Pesam ","Bener Meriah","Maluku Utara",0,0,0,0,0
+"539","Kec. Syiah Utama ","Bener Meriah","Maluku Utara",0,0,0,0,0
+"540","Kec. Bener Kelipah ","Bener Meriah","Maluku Utara",0,0,0,0,0
+"541","Kec. Mesidah ","Bener Meriah","Maluku Utara",0,0,0,0,0
+"542","Kec. Gajah Putih ","Bener Meriah","Maluku Utara",0,0,0,0,0
+"543","Kec. Panga ","Aceh Jaya","Maluku",0,0,0,0,0
+"544","Kec. Indra Jaya ","Aceh Jaya","Maluku",0,0,0,0,0
+"545","Kec. Darul Hikmah ","Aceh Jaya","Maluku",0,0,0,0,0
+"546","Kec. Pasie Raya ","Aceh Jaya","Maluku",0,0,0,0,0
+"547","Kec. Babahrot ","Aceh Barat Daya","Maluku",0,0,0,0,0
+"548","Kec. Setia ","Aceh Barat Daya","Maluku",0,0,0,0,0
+"549","Kec. Jeumpa ","Aceh Barat Daya","Maluku",0,0,0,0,0
+"550","Kec. Blangkejeren ","Gayo Lues","Maluku Utara",0,0,0,0,0
+"551","Kec. Kutapanjang ","Gayo Lues","Maluku Utara",0,0,0,0,0
+"552","Kec. Pining ","Gayo Lues","Maluku Utara",0,0,0,0,0
+"553","Kec. Blangjerango ","Gayo Lues","Maluku Utara",0,0,0,0,0
+"554","Kec. Pantan Cuaca ","Gayo Lues","Maluku Utara",0,0,0,0,0
+"555","Kec. Pulau Banyak ","Aceh Singkil","Maluku",0,0,0,0,0
+"556","Kec. Singkil ","Aceh Singkil","Maluku",0,0,0,0,0
+"557","Kec. Suro Makmur ","Aceh Singkil","Maluku",0,0,0,0,0
+"558","Kec. Kuta Baharu ","Aceh Singkil","Maluku",0,0,0,0,0
+"559","Kec. Pulau Banyak Barat ","Aceh Singkil","Maluku",0,0,0,0,0
+"560","Kec. Karang Baru ","Aceh Tamiang","Maluku",0,0,0,0,0
+"561","Kec. Rantau ","Aceh Tamiang","Maluku",0,0,0,0,0
+"562","Kec. Banda Mulya ","Aceh Tamiang","Maluku",0,0,0,0,0
+"563","Kec. Bandar Pusaka ","Aceh Tamiang","Maluku",0,0,0,0,0
+"564","Kec. Sekerak ","Aceh Tamiang","Maluku",0,0,0,0,0
+"565","Kec. Beutong ","Nagan Raya","Maluku Utara",0,0,0,0,0
+"566","Kec. Seunagan Timur ","Nagan Raya","Maluku Utara",0,0,0,0,0
+"567","Kec. Tadu Raya ","Nagan Raya","Maluku Utara",0,0,0,0,0
+"568","Kec. Suka Makmue ","Nagan Raya","Maluku Utara",0,0,0,0,0
+"569","Kec. Salang ","Simeulue","Maluku Utara",0,0,0,0,0
+"570","Kec. Teupah Tengah ","Simeulue","Maluku Utara",0,0,0,0,0
+"571","Kec. Simeulue Cut ","Simeulue","Maluku Utara",0,0,0,0,0
+"572","Kec. Samatiga ","Aceh Barat","Maluku",0,0,0,0,0
+"573","Kec. Woyla ","Aceh Barat","Maluku",0,0,0,0,0
+"574","Kec. Kaway XVI ","Aceh Barat","Maluku",0,0,0,0,0
+"575","Kec. Sungai Mas ","Aceh Barat","Maluku",0,0,0,0,0
+"576","Kec. Arongan Lambalek ","Aceh Barat","Maluku",0,0,0,0,0
+"577","Kec. Woyla Barat ","Aceh Barat","Maluku",0,0,0,0,0
+"578","Kec. Woyla Timur ","Aceh Barat","Maluku",0,0,0,0,0
+"579","Kec. Meurah Dua ","Pidie Jaya","Maluku Utara",0,0,0,0,0
+"580","Kec. Trienggadeng ","Pidie Jaya","Maluku Utara",0,0,0,0,0
+"581","Kec. Syiah Kuala ","Banda Aceh","Maluku Utara",0,0,0,0,0
+"582","Kec. Lueng Bata ","Banda Aceh","Maluku Utara",0,0,0,0,0
+"583","Kec. Gunung Meriah ","Deli Serdang","Sumatera Barat",0,0,0,0,0
+"584","Kec. Sinembah Tnjng Muda Hulu ","Deli Serdang","Sumatera Barat",0,0,0,0,0
+"585","Kec. Sibiru-biru ","Deli Serdang","Sumatera Barat",0,0,0,0,0
+"586","Kec. Labuhan Deli ","Deli Serdang","Sumatera Barat",0,0,0,0,0
+"587","Kec. Bilah Hulu ","Labuhan Batu","0",0,0,0,0,0
+"588","Kec. Pangkatan ","Labuhan Batu","0",0,0,0,0,0
+"589","Kec. Rantau Selatan ","Labuhan Batu","0",0,0,0,0,0
+"590","Kec. Parmonangan ","Tapanuli Utara","Sumatera Selatan",0,0,0,0,0
+"591","Kec. Pahae Jae ","Tapanuli Utara","Sumatera Selatan",0,0,0,0,0
+"592","Kec. Pahae Julu ","Tapanuli Utara","Sumatera Selatan",0,0,0,0,0
+"593","Kec. Garoga ","Tapanuli Utara","Sumatera Selatan",0,0,0,0,0
+"594","Kec. Sipahutar ","Tapanuli Utara","Sumatera Selatan",0,0,0,0,0
+"595","Kec. Pagaran ","Tapanuli Utara","Sumatera Selatan",0,0,0,0,0
+"596","Kec. Muara ","Tapanuli Utara","Sumatera Selatan",0,0,0,0,0
+"597","Kec. Purbatua ","Tapanuli Utara","Sumatera Selatan",0,0,0,0,0
+"598","Kec. Simangumban ","Tapanuli Utara","Sumatera Selatan",0,0,0,0,0
+"599","Kec. Sorkam ","Tapanuli Tengah","Sumatera Selatan",0,0,0,0,0
+"600","Kec. Barus ","Tapanuli Tengah","Sumatera Selatan",0,0,0,0,0
+"601","Kec. Sosor Gadong ","Tapanuli Tengah","Sumatera Selatan",0,0,0,0,0
+"602","Kec. Badiri ","Tapanuli Tengah","Sumatera Selatan",0,0,0,0,0
+"603","Kec. Sirandorung ","Tapanuli Tengah","Sumatera Selatan",0,0,0,0,0
+"604","Kec. Pinang Sori ","Tapanuli Tengah","Sumatera Selatan",0,0,0,0,0
+"605","Kec. Sarudik ","Tapanuli Tengah","Sumatera Selatan",0,0,0,0,0
+"606","Kec. Salak ","Pakpak Bharat","Sumatera Barat",0,0,0,0,0
+"607","Kec. Kerajaan ","Pakpak Bharat","Sumatera Barat",0,0,0,0,0
+"608","Kec. Sitelutali Urang Jehe ","Pakpak Bharat","Sumatera Barat",0,0,0,0,0
+"609","Kec. Tinada ","Pakpak Bharat","Sumatera Barat",0,0,0,0,0
+"610","Kec. Sitelu Tali Urang Julu ","Pakpak Bharat","Sumatera Barat",0,0,0,0,0
+"611","Kec. Parlilitan ","Humbang Hasudutan","0",0,0,0,0,0
+"612","Kec. Pollung ","Humbang Hasudutan","0",0,0,0,0,0
+"613","Kec. Bakti Raja ","Humbang Hasudutan","0",0,0,0,0,0
+"614","Kec. Sijamapolang ","Humbang Hasudutan","0",0,0,0,0,0
+"615","Kec. Tarabintang ","Humbang Hasudutan","0",0,0,0,0,0
+"616","Kec. Laubaleng ","Karo","Sumatera Barat",0,0,0,0,0
+"617","Kec. Tigabinanga ","Karo","Sumatera Barat",0,0,0,0,0
+"618","Kec. Juhar ","Karo","Sumatera Barat",0,0,0,0,0
+"619","Kec. Munte ","Karo","Sumatera Barat",0,0,0,0,0
+"620","Kec. Kutabuluh ","Karo","Sumatera Barat",0,0,0,0,0
+"621","Kec. Simpangempat ","Karo","Sumatera Barat",0,0,0,0,0
+"622","Kec. ","Karo","Sumatera Barat",0,0,0,0,0
+"623","Kec. Tigapanah ","Karo","Sumatera Barat",0,0,0,0,0
+"624","Kec. Tiganderket ","Karo","Sumatera Barat",0,0,0,0,0
+"625","Kec. Dolok Pardamean ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"626","Kec. Sidamanik ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"627","Kec. Dolok Panribuan ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"628","Kec. Panei ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"629","Kec. Dolok Silau ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"630","Kec. Silau Kahean ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"631","Kec. Raya Kahean ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"632","Kec. Pematang Bandar ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"633","Kec. Bandar ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"634","Kec. Bosar Maligas ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"635","Kec. Ujung Padang ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"636","Kec. Bandar Huluan ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"637","Kec. Jawa Maraja Bah Jambi ","Simalungun","Sumatera Selatan",0,0,0,0,0
+"638","Kec. Idanogawo ","Nias","Sumatera Barat",0,0,0,0,0
+"639","Kec. Hiliduho ","Nias","Sumatera Barat",0,0,0,0,0
+"640","Kec. Bawolato ","Nias","Sumatera Barat",0,0,0,0,0
+"641","Kec. Mau ","Nias","Sumatera Barat",0,0,0,0,0
+"642","Kec. Hiliserangkai ","Nias","Sumatera Barat",0,0,0,0,0
+"643","Kec. Botomuzoi ","Nias","Sumatera Barat",0,0,0,0,0
+"644","Kec. Medang Deras ","Batubara","0",0,0,0,0,0
+"645","Kec. Air Putih ","Batubara","0",0,0,0,0,0
+"646","Kec. Talawi ","Batubara","0",0,0,0,0,0
+"647","Kec. Padang Bolak Julu ","Padang Lawas utara","0",0,0,0,0,0
+"648","Kec. Padang Bolak ","Padang Lawas utara","0",0,0,0,0,0
+"649","Kec. Halongonan ","Padang Lawas utara","0",0,0,0,0,0
+"650","Kec. Dolok Sigompulon ","Padang Lawas utara","0",0,0,0,0,0
+"651","Kec. Portibi ","Padang Lawas utara","0",0,0,0,0,0
+"652","Kec. Batang Onang ","Padang Lawas utara","0",0,0,0,0,0
+"653","Kec. Parbuluan ","Dairi","Sulawesi Utara",0,0,0,0,0
+"654","Kec. Siempat Nempu ","Dairi","Sulawesi Utara",0,0,0,0,0
+"655","Kec. Silima Pungga-Pungga ","Dairi","Sulawesi Utara",0,0,0,0,0
+"656","Kec. Siempat Nempu Hilir ","Dairi","Sulawesi Utara",0,0,0,0,0
+"657","Kec. Tanah Pinem ","Dairi","Sulawesi Utara",0,0,0,0,0
+"658","Kec. Lae Parira ","Dairi","Sulawesi Utara",0,0,0,0,0
+"659","Kec. Sitinjo ","Dairi","Sulawesi Utara",0,0,0,0,0
+"660","Kec. Silahi Sabungan ","Dairi","Sulawesi Utara",0,0,0,0,0
+"661","Kec. Habinsaran ","Toba Samosir","Sumatera Selatan",0,0,0,0,0
+"662","Kec. Silaen ","Toba Samosir","Sumatera Selatan",0,0,0,0,0
+"663","Kec. Lumban Julu ","Toba Samosir","Sumatera Selatan",0,0,0,0,0
+"664","Kec. Uluan ","Toba Samosir","Sumatera Selatan",0,0,0,0,0
+"665","Kec. Ajibata ","Toba Samosir","Sumatera Selatan",0,0,0,0,0
+"666","Kec. Borbor ","Toba Samosir","Sumatera Selatan",0,0,0,0,0
+"667","Kec. Siantar Narumonda ","Toba Samosir","Sumatera Selatan",0,0,0,0,0
+"668","Kec. Parmaksian ","Toba Samosir","Sumatera Selatan",0,0,0,0,0
+"669","Kec. Tuhemberua ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"670","Kec. Lotu ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"671","Kec. Sawo ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"672","Kec. Alasa ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"673","Kec. Namohalu Esiwa ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"674","Kec. Alasa Talumuzoi ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"675","Kec. Tugala Oyo ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"676","Kec. Lahewa ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"677","Kec. Afulu ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"678","Kec. Lahewa Timur ","Nias Utara","Sumatera Barat",0,0,0,0,0
+"679","Kec. Medan Maimun ","Medan","Sumatera Barat",0,0,0,0,0
+"680","Kec. Medan ","Medan","Sumatera Barat",0,0,0,0,0
+"681","Kec. Batahan ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"682","Kec. Batang Natal ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"683","Kec. ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"684","Kec. Muara Sipongi ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"685","Kec. Natal ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"686","Kec. Muara Batang Gadis ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"687","Kec. Panyabungan Utara ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"688","Kec. Panyabungan Timur ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"689","Kec. Panyabungan Selatan ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"690","Kec. Lingga Bayu ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"691","Kec. Ranto Baek ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"692","Kec. Huta Bargot ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"693","Kec. Naga Juang ","Mandailing Natal","Sumatera Barat",0,0,0,0,0
+"694","Kec. Sosa ","Padang Lawas","Sumatera Barat",0,0,0,0,0
+"695","Kec. Ulu Barumun ","Padang Lawas","Sumatera Barat",0,0,0,0,0
+"696","Kec. Sosopan ","Padang Lawas","Sumatera Barat",0,0,0,0,0
+"697","Kec. Barumun Selatan ","Padang Lawas","Sumatera Barat",0,0,0,0,0
+"698","Kec. Sihapas Barumun ","Padang Lawas","Sumatera Barat",0,0,0,0,0
+"699","Kec. Na. IX-X ","Labuhan Batu Utara","0",0,0,0,0,0
+"700","Kec. Aek Natas ","Labuhan Batu Utara","0",0,0,0,0,0
+"701","Kec. Kualuh Hilir ","Labuhan Batu Utara","0",0,0,0,0,0
+"702","Kec. Kualuh Leidong ","Labuhan Batu Utara","0",0,0,0,0,0
+"703","Kec. Sungai Kanan ","Labuhan Batu Selatan","0",0,0,0,0,0
+"704","Kec. Kampung Rakyat ","Labuhan Batu Selatan","0",0,0,0,0,0
+"705","Kec. Lolofitu Moi ","Nias Barat","Sumatera Barat",0,0,0,0,0
+"706","Kec. Sirombu ","Nias Barat","Sumatera Barat",0,0,0,0,0
+"707","Kec. Lahomi ","Nias Barat","Sumatera Barat",0,0,0,0,0
+"708","Kec. Ulu Moro o ","Nias Barat","Sumatera Barat",0,0,0,0,0
+"709","Kec. Mandrehe Utara ","Nias Barat","Sumatera Barat",0,0,0,0,0
+"710","Kec. Batang Serangan ","Langkat","Sumatera Barat",0,0,0,0,0
+"711","Kec. Sawit Seberang ","Langkat","Sumatera Barat",0,0,0,0,0
+"712","Kec. Hinai ","Langkat","Sumatera Barat",0,0,0,0,0
+"713","Kec. Secanggang ","Langkat","Sumatera Barat",0,0,0,0,0
+"714","Kec. Besitang ","Langkat","Sumatera Barat",0,0,0,0,0
+"715","Kec. Batang Angkola ","Tapanuli Selatan","Sumatera Selatan",0,0,0,0,0
+"716","Kec. Batang Toru ","Tapanuli Selatan","Sumatera Selatan",0,0,0,0,0
+"717","Kec. Saipar Dolok Hole ","Tapanuli Selatan","Sumatera Selatan",0,0,0,0,0
+"718","Kec. Marancar ","Tapanuli Selatan","Sumatera Selatan",0,0,0,0,0
+"719","Kec. Sayur Matinggi ","Tapanuli Selatan","Sumatera Selatan",0,0,0,0,0
+"720","Kec. Angkola Barat ","Tapanuli Selatan","Sumatera Selatan",0,0,0,0,0
+"721","Kec. Angkola Selatan ","Tapanuli Selatan","Sumatera Selatan",0,0,0,0,0
+"722","Kec. Tantom Angkola ","Tapanuli Selatan","Sumatera Selatan",0,0,0,0,0
+"723","Kec. Sianjur Mula Mula ","Samosir","Sumatera Selatan",0,0,0,0,0
+"724","Kec. Onanrunggu  ","Samosir","Sumatera Selatan",0,0,0,0,0
+"725","Kec. Palipi ","Samosir","Sumatera Selatan",0,0,0,0,0
+"726","Kec. Nainggolan ","Samosir","Sumatera Selatan",0,0,0,0,0
+"727","Kec. Sitiotio ","Samosir","Sumatera Selatan",0,0,0,0,0
+"728","Kec. ","Serdang Bedagai","Sumatera Selatan",0,0,0,0,0
+"729","Kec. Dolok Merawan ","Serdang Bedagai","Sumatera Selatan",0,0,0,0,0
+"730","Kec. Bandar Khalifah ","Serdang Bedagai","Sumatera Selatan",0,0,0,0,0
+"731","Kec. Tanjung Beringin ","Serdang Bedagai","Sumatera Selatan",0,0,0,0,0
+"732","Kec. Teluk Mengkudu ","Serdang Bedagai","Sumatera Selatan",0,0,0,0,0
+"733","Kec. Silinda ","Serdang Bedagai","Sumatera Selatan",0,0,0,0,0
+"734","Kec. Bandar Pasir Mandoge ","Asahan","Sulawesi Utara",0,0,0,0,0
+"735","Kec. Bandar Pulau ","Asahan","Sulawesi Utara",0,0,0,0,0
+"736","Kec. Pulau Rakyat ","Asahan","Sulawesi Utara",0,0,0,0,0
+"737","Kec. Tanjung Balai ","Asahan","Sulawesi Utara",0,0,0,0,0
+"738","Kec. Air Batu ","Asahan","Sulawesi Utara",0,0,0,0,0
+"739","Kec. Meranti ","Asahan","Sulawesi Utara",0,0,0,0,0
+"740","Kec. Aek Kuasan ","Asahan","Sulawesi Utara",0,0,0,0,0
+"741","Kec. Sei dadap ","Asahan","Sulawesi Utara",0,0,0,0,0
+"742","Kec. Tinggi Raja ","Asahan","Sulawesi Utara",0,0,0,0,0
+"743","Kec. Rawang Panca Arga ","Asahan","Sulawesi Utara",0,0,0,0,0
+"744","Kec. Pulau-Pulau Batu ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"745","Kec. Lahusa ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"746","Kec. Lolomatua ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"747","Kec. Lolowau ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"748","Kec. Hibala ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"749","Kec. Susua ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"750","Kec. Mazino ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"751","Kec. Umbunasi ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"752","Kec. Mazo ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"753","Kec. Ulunoyo ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"754","Kec. Oou ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"755","Kec. Onohazumba ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"756","Kec. Ulususua ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"757","Kec. Siduaori ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"758","Kec. Boronadu ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"759","Kec. Ulu Idanotae ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"760","Kec. Idanotae ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"761","Kec. Pulau-pulau Batu Barat ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"762","Kec. Simuk ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"763","Kec. Tanah Masa ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"764","Kec. Onolalu ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"765","Kec. Luahagundre Maniamolo ","Nias Selatan","Sumatera Barat",0,0,0,0,0
+"766","Kec. Padang Hulu ","Tebing Tinggi","Sumatera Selatan",0,0,0,0,0
+"767","Kec. Padang Hilir ","Tebing Tinggi","Sumatera Selatan",0,0,0,0,0
+"768","Kec. Bajenis ","Tebing Tinggi","Sumatera Selatan",0,0,0,0,0
+"769","Kec. Siantar Utara ","Pematangsiantar","0",0,0,0,0,0
+"770","Kec. Siantar Marimbun ","Pematangsiantar","0",0,0,0,0,0
+"771","Kec. Siantar Sitalasari ","Pematangsiantar","0",0,0,0,0,0
+"772","Kec. Datuk Bandar ","Tanjung Balai","Sumatera Selatan",0,0,0,0,0
+"773","Kec. S. Tualang Raso ","Tanjung Balai","Sumatera Selatan",0,0,0,0,0
+"774","Kec. Sibolga ","Sibolga","Sumatera Selatan",0,0,0,0,0
+"775","Kec. Padang Sidimpuan Tenggara ","Padang Sidimpuan","0",0,0,0,0,0
+"776","Kec. Angkola Julu ","Padang Sidimpuan","0",0,0,0,0,0
+"777","Kec. Gunungsitoli Idanoi ","Gunungsitoli","Sumatera Barat",0,0,0,0,0
+"778","Kec. Gunungsitoli Selatan ","Gunungsitoli","Sumatera Barat",0,0,0,0,0
+"779","Kec. Lubuk Sikaping ","Pasaman","Sulawesi Tenggara",0,0,0,0,0
+"780","Kec.Tigo Nagari ","Pasaman","Sulawesi Tenggara",0,0,0,0,0
+"781","Kec. Rao ","Pasaman","Sulawesi Tenggara",0,0,0,0,0
+"782","Kec. Mapat Tunggul Selatan ","Pasaman","Sulawesi Tenggara",0,0,0,0,0
+"783","Kec. Rao Utara ","Pasaman","Sulawesi Tenggara",0,0,0,0,0
+"784","Kec. Rao Selatan ","Pasaman","Sulawesi Tenggara",0,0,0,0,0
+"785","Kec. Payakumbuh ","Lima Puluh Koto","0",0,0,0,0,0
+"786","Kec. Luak ","Lima Puluh Koto","0",0,0,0,0,0
+"787","Kec. Suliki ","Lima Puluh Koto","0",0,0,0,0,0
+"788","Kec. Gunuang Omeh ","Lima Puluh Koto","0",0,0,0,0,0
+"789","Kec. Kapur IX ","Lima Puluh Koto","0",0,0,0,0,0
+"790","Kec. Akabiluru ","Lima Puluh Koto","0",0,0,0,0,0
+"791","Kec. Situjuah Limo Nagari ","Lima Puluh Koto","0",0,0,0,0,0
+"792","Kec. Pantai Cermin ","Solok","Sulawesi Tenggara",0,0,0,0,0
+"793","Kec. Payung Sekaki ","Solok","Sulawesi Tenggara",0,0,0,0,0
+"794","Kec. IX Koto Sungai Lasi ","Solok","Sulawesi Tenggara",0,0,0,0,0
+"795","Kec. X Koto Diatas ","Solok","Sulawesi Tenggara",0,0,0,0,0
+"796","Kec. Tigo Lurah ","Solok","Sulawesi Tenggara",0,0,0,0,0
+"797","Kec. Kupitan ","Sijunjung","Sulawesi Tenggara",0,0,0,0,0
+"798","Kec. Sumpur Kudus ","Sijunjung","Sulawesi Tenggara",0,0,0,0,0
+"799","Kec. Lubuk Tarok ","Sijunjung","Sulawesi Tenggara",0,0,0,0,0
+"800","Kec. Pagai Utara ","Kepulauan Mentawai","Sulawesi Tengah",0,0,0,0,0
+"801","Kec. Sipora Selatan ","Kepulauan Mentawai","Sulawesi Tengah",0,0,0,0,0
+"802","Kec. Siberut Utara ","Kepulauan Mentawai","Sulawesi Tengah",0,0,0,0,0
+"803","Kec. Siberut Barat ","Kepulauan Mentawai","Sulawesi Tengah",0,0,0,0,0
+"804","Kec. Siberut Barat Daya ","Kepulauan Mentawai","Sulawesi Tengah",0,0,0,0,0
+"805","Kec. Siberut Tengah ","Kepulauan Mentawai","Sulawesi Tengah",0,0,0,0,0
+"806","Kec. Pagai Selatan ","Kepulauan Mentawai","Sulawesi Tengah",0,0,0,0,0
+"807","Kec. Sungai Pagu ","Solok Selatan","Sulawesi Tenggara",0,0,0,0,0
+"808","Kec. Sangir Jujuan ","Solok Selatan","Sulawesi Tenggara",0,0,0,0,0
+"809","Kec. Pauh Duo ","Solok Selatan","Sulawesi Tenggara",0,0,0,0,0
+"810","Kec. Timpeh ","Dharmasraya","Sulawesi Tengah",0,0,0,0,0
+"811","Kec. Koto Salak ","Dharmasraya","Sulawesi Tengah",0,0,0,0,0
+"812","Kec. Asam Jujuhan ","Dharmasraya","Sulawesi Tengah",0,0,0,0,0
+"813","Kec. Koto Besar ","Dharmasraya","Sulawesi Tengah",0,0,0,0,0
+"814","Kec. Pariaman Tengah ","Pariaman","Sulawesi Tenggara",0,0,0,0,0
+"815","Kec. Sungai Beremas ","Pasaman Barat","Sulawesi Tenggara",0,0,0,0,0
+"816","Kec. Koto Balingka ","Pasaman Barat","Sulawesi Tenggara",0,0,0,0,0
+"817","Kec. Sasak Ranah Pesisir ","Pasaman Barat","Sulawesi Tenggara",0,0,0,0,0
+"818","Kec. Sungai Aur ","Pasaman Barat","Sulawesi Tenggara",0,0,0,0,0
+"819","Kec. Padang Panjang Barat ","Padang Panjang","Sulawesi Tengah",0,0,0,0,0
+"820","Kec. Silungkang ","Sawah Lunto","Sulawesi Tenggara",0,0,0,0,0
+"821","Kec. Barangin ","Sawah Lunto","Sulawesi Tenggara",0,0,0,0,0
+"822","Kec. Lubuk Sikarah ","Solok","Sulawesi Tenggara",0,0,0,0,0
+"823","Kec. Payakumbuh Timur ","Payakumbuh","Sulawesi Tenggara",0,0,0,0,0
+"824","Kec. Payakumbuh Selatan ","Payakumbuh","Sulawesi Tenggara",0,0,0,0,0
+"825","Kec. Ulakan Tapakis ","Padang Pariaman","Sulawesi Tenggara",0,0,0,0,0
+"826","Kec. 2 x 11 VI Lingkung ","Padang Pariaman","Sulawesi Tenggara",0,0,0,0,0
+"827","Kec. VII Koto Sungai Sarik ","Padang Pariaman","Sulawesi Tenggara",0,0,0,0,0
+"828","Kec. V Koto Kampung Dalam ","Padang Pariaman","Sulawesi Tenggara",0,0,0,0,0
+"829","Kec. Batang Gasan ","Padang Pariaman","Sulawesi Tenggara",0,0,0,0,0
+"830","Kec. Patamuan ","Padang Pariaman","Sulawesi Tenggara",0,0,0,0,0
+"831","Kec. Padang Sago ","Padang Pariaman","Sulawesi Tenggara",0,0,0,0,0
+"832","Kec. VI Lingkung ","Padang Pariaman","Sulawesi Tenggara",0,0,0,0,0
+"833","Kec. Lunang ","Pesisir Selatan","Sulawesi Tenggara",0,0,0,0,0
+"834","Kec. Linggo Saribaganti ","Pesisir Selatan","Sulawesi Tenggara",0,0,0,0,0
+"835","Kec. Bayang Utara ","Pesisir Selatan","Sulawesi Tenggara",0,0,0,0,0
+"836","Kec. Silaut ","Pesisir Selatan","Sulawesi Tenggara",0,0,0,0,0
+"837","Kec. Batipuh ","Tanah Datar","Sulawesi Tenggara",0,0,0,0,0
+"838","Kec. Pariangan ","Tanah Datar","Sulawesi Tenggara",0,0,0,0,0
+"839","Kec. Tanjung Emas ","Tanah Datar","Sulawesi Tenggara",0,0,0,0,0
+"840","Kec. Padang Ganting ","Tanah Datar","Sulawesi Tenggara",0,0,0,0,0
+"841","Kec. Lintau Buo ","Tanah Datar","Sulawesi Tenggara",0,0,0,0,0
+"842","Kec. Sungayang ","Tanah Datar","Sulawesi Tenggara",0,0,0,0,0
+"843","Kec. Sungai Tarab ","Tanah Datar","Sulawesi Tenggara",0,0,0,0,0
+"844","Kec. Salimpaung ","Tanah Datar","Sulawesi Tenggara",0,0,0,0,0
+"845","Kec. Tanjung Mutiara ","Agam","Sulawesi Tengah",0,0,0,0,0
+"846","Kec. Palembayan ","Agam","Sulawesi Tengah",0,0,0,0,0
+"847","Kec. Palupuh ","Agam","Sulawesi Tengah",0,0,0,0,0
+"848","Kec. Kamang Magek ","Agam","Sulawesi Tengah",0,0,0,0,0
+"849","Kec. Banuhampu ","Agam","Sulawesi Tengah",0,0,0,0,0
+"850","Kec. Ampek Nagari ","Agam","Sulawesi Tengah",0,0,0,0,0
+"851","Kec. Langgam ","Pelalawan","Papua",0,0,0,0,0
+"852","Kec. Pangkalan Kuras ","Pelalawan","Papua",0,0,0,0,0
+"853","Kec. Bunut ","Pelalawan","Papua",0,0,0,0,0
+"854","Kec. Ukui ","Pelalawan","Papua",0,0,0,0,0
+"855","Kec. Pangkalan Lesung ","Pelalawan","Papua",0,0,0,0,0
+"856","Kec. Pelalawan ","Pelalawan","Papua",0,0,0,0,0
+"857","Kec. Bandar Sei Kijang ","Pelalawan","Papua",0,0,0,0,0
+"858","Kec. Bandar Petalangan ","Pelalawan","Papua",0,0,0,0,0
+"859","Kec. Tambusai ","Rokan Hulu","Papua",0,0,0,0,0
+"860","Kec. Rambah Samo ","Rokan Hulu","Papua",0,0,0,0,0
+"861","Kec. Bangun Purba ","Rokan Hulu","Papua",0,0,0,0,0
+"862","Kec. ","Rokan Hulu","Papua",0,0,0,0,0
+"863","Kec. Bonai Darussalam ","Rokan Hulu","Papua",0,0,0,0,0
+"864","Kec. Pagaran Tapah Darussalam ","Rokan Hulu","Papua",0,0,0,0,0
+"865","Kec. Kepenuhan Hulu ","Rokan Hulu","Papua",0,0,0,0,0
+"866","Kec. Singingi ","Kuantan Singingi","Papua",0,0,0,0,0
+"867","Kec. Cerenti ","Kuantan Singingi","Papua",0,0,0,0,0
+"868","Kec. Pangean ","Kuantan Singingi","Papua",0,0,0,0,0
+"869","Kec. Logas Tanah Darat ","Kuantan Singingi","Papua",0,0,0,0,0
+"870","Kec. Hulu Kuantan ","Kuantan Singingi","Papua",0,0,0,0,0
+"871","Kec. Gunung Toar ","Kuantan Singingi","Papua",0,0,0,0,0
+"872","Kec. Kuantan Hilir Seberang ","Kuantan Singingi","Papua",0,0,0,0,0
+"873","Kec. Merbau ","Kepulauan Meranti","Papua",0,0,0,0,0
+"874","Kec. Rangsang ","Kepulauan Meranti","Papua",0,0,0,0,0
+"875","Kec. Tasik Putri Puyu ","Kepulauan Meranti","Papua",0,0,0,0,0
+"876","Kec. Pulau Merbau ","Kepulauan Meranti","Papua",0,0,0,0,0
+"877","Kec. Kampar Kiri ","Kampar","Papua",0,0,0,0,0
+"878","Kec. Kampar ","Kampar","Papua",0,0,0,0,0
+"879","Kec. Tambang ","Kampar","Papua",0,0,0,0,0
+"880","Kec. Bangkinang ","Kampar","Papua",0,0,0,0,0
+"881","Kec. Kampar Kiri Hulu ","Kampar","Papua",0,0,0,0,0
+"882","Kec. Kampar Kiri Hilir ","Kampar","Papua",0,0,0,0,0
+"883","Kec. Tapung Hulu ","Kampar","Papua",0,0,0,0,0
+"884","Kec. Salo ","Kampar","Papua",0,0,0,0,0
+"885","Kec. Kampar Utara ","Kampar","Papua",0,0,0,0,0
+"886","Kec. Gunung Sahilan ","Kampar","Papua",0,0,0,0,0
+"887","Kec. Rupat Utara ","Bengkalis","Papua",0,0,0,0,0
+"888","Kec. Siak Kecil ","Bengkalis","Papua",0,0,0,0,0
+"889","Kec. Bathin Solapan ","Bengkalis","Papua",0,0,0,0,0
+"890","Kec. Talang Muandau ","Bengkalis","Papua",0,0,0,0,0
+"891","Kec. Bukit Kapur ","Dumai","Papua",0,0,0,0,0
+"892","Kec. Dumai Barat ","Dumai","Papua",0,0,0,0,0
+"893","Kec. Dumai Timur ","Dumai","Papua",0,0,0,0,0
+"894","Kec. Sungai Sembilan ","Dumai","Papua",0,0,0,0,0
+"895","Kec. Kubu ","Rokan Hilir","Papua",0,0,0,0,0
+"896","Kec. Sinaboi ","Rokan Hilir","Papua",0,0,0,0,0
+"897","Kec. Tanah Pth Tanjung Melawan ","Rokan Hilir","Papua",0,0,0,0,0
+"898","Kec. Batu Hampar ","Rokan Hilir","Papua",0,0,0,0,0
+"899","Kec. Pekaitan ","Rokan Hilir","Papua",0,0,0,0,0
+"900","Kec. Sungai Apit ","Siak","Papua",0,0,0,0,0
+"901","Kec. Tualang ","Siak","Papua",0,0,0,0,0
+"902","Kec. Dayun ","Siak","Papua",0,0,0,0,0
+"903","Kec. Lubuk Dalam ","Siak","Papua",0,0,0,0,0
+"904","Kec. Koto Gasib ","Siak","Papua",0,0,0,0,0
+"905","Kec. Mempura ","Siak","Papua",0,0,0,0,0
+"906","Kec. Seberida ","Indragiri Hulu","Papua",0,0,0,0,0
+"907","Kec. Rengat Barat ","Indragiri Hulu","Papua",0,0,0,0,0
+"908","Kec. Lirik ","Indragiri Hulu","Papua",0,0,0,0,0
+"909","Kec. Batang Gansal ","Indragiri Hulu","Papua",0,0,0,0,0
+"910","Kec. Lubuk Batu Jaya ","Indragiri Hulu","Papua",0,0,0,0,0
+"911","Kec. Sei Lala ","Indragiri Hulu","Papua",0,0,0,0,0
+"912","Kec. Kuala Cenaku ","Indragiri Hulu","Papua",0,0,0,0,0
+"913","Kec. Reteh ","Indragiri Hilir","Papua",0,0,0,0,0
+"914","Kec. Enok ","Indragiri Hilir","Papua",0,0,0,0,0
+"915","Kec. Tempuling ","Indragiri Hilir","Papua",0,0,0,0,0
+"916","Kec. Batang Tuaka ","Indragiri Hilir","Papua",0,0,0,0,0
+"917","Kec. Tembilahan Hulu ","Indragiri Hilir","Papua",0,0,0,0,0
+"918","Kec. Concong ","Indragiri Hilir","Papua",0,0,0,0,0
+"919","Kec. Kempas ","Indragiri Hilir","Papua",0,0,0,0,0
+"920","Kec. Sungai Batang ","Indragiri Hilir","Papua",0,0,0,0,0
+"921","Kec. Tebo Ilir ","Tebo","Gorontalo",0,0,0,0,0
+"922","Kec. Tebo Ulu ","Tebo","Gorontalo",0,0,0,0,0
+"923","Kec. Tengah Ilir ","Tebo","Gorontalo",0,0,0,0,0
+"924","Kec. Danau Teluk ","Jambi","Jambi",0,0,0,0,0
+"925","Kec. Hamparan Rawang ","Sungai Penuh","0",0,0,0,0,0
+"926","Kec. Koto Baru ","Sungai Penuh","0",0,0,0,0,0
+"927","Kec. Sungai Bungkal ","Sungai Penuh","0",0,0,0,0,0
+"928","Kec. Mersam ","Batang Hari","Jambi",0,0,0,0,0
+"929","Kec. Muara Tembesi ","Batang Hari","Jambi",0,0,0,0,0
+"930","Kec. Maro Sebo Ilir ","Batang Hari","Jambi",0,0,0,0,0
+"931","Kec. Tanah Tumbuh ","Bungo","Jambi",0,0,0,0,0
+"932","Kec. Tanah Sepenggal ","Bungo","Jambi",0,0,0,0,0
+"933","Kec. Jujuhan ","Bungo","Jambi",0,0,0,0,0
+"934","Kec. Pelepat ","Bungo","Jambi",0,0,0,0,0
+"935","Kec. Bathin II Babeko ","Bungo","Jambi",0,0,0,0,0
+"936","Kec. Muko Muko Batin VII ","Bungo","Jambi",0,0,0,0,0
+"937","Kec. Bathin III ","Bungo","Jambi",0,0,0,0,0
+"938","Kec. Bathin II Pelayang ","Bungo","Jambi",0,0,0,0,0
+"939","Kec. Jujuhan Ilir ","Bungo","Jambi",0,0,0,0,0
+"940","Kec. Maro Sebo ","Muaro Jambi","Jambi",0,0,0,0,0
+"941","Kec. Sungai Bahar ","Muaro Jambi","Jambi",0,0,0,0,0
+"942","Kec. Bahar Utara ","Muaro Jambi","Jambi",0,0,0,0,0
+"943","Kec. Bahar Selatan ","Muaro Jambi","Jambi",0,0,0,0,0
+"944","Kec. Mendahara ","Tanjung Jabung Timur","Jambi",0,0,0,0,0
+"945","Kec. Dendang ","Tanjung Jabung Timur","Jambi",0,0,0,0,0
+"946","Kec. Nipah Panjang ","Tanjung Jabung Timur","Jambi",0,0,0,0,0
+"947","Kec. Rantau Rasau ","Tanjung Jabung Timur","Jambi",0,0,0,0,0
+"948","Kec. Muara Sabak Barat ","Tanjung Jabung Timur","Jambi",0,0,0,0,0
+"949","Kec. Berbak ","Tanjung Jabung Timur","Jambi",0,0,0,0,0
+"950","Kec. Jangkat ","Merangin","Gorontalo",0,0,0,0,0
+"951","Kec. Muara Siau ","Merangin","Gorontalo",0,0,0,0,0
+"952","Kec. Tabir ","Merangin","Gorontalo",0,0,0,0,0
+"953","Kec. Lembah Masurai ","Merangin","Gorontalo",0,0,0,0,0
+"954","Kec. Tabir Selatan ","Merangin","Gorontalo",0,0,0,0,0
+"955","Kec. Nalo Tantan ","Merangin","Gorontalo",0,0,0,0,0
+"956","Kec. Renah Pemparap ","Merangin","Gorontalo",0,0,0,0,0
+"957","Kec. Tiang Pumpung ","Merangin","Gorontalo",0,0,0,0,0
+"958","Kec. Renah Pamenang  ","Merangin","Gorontalo",0,0,0,0,0
+"959","Kec. Tabir Lintas ","Merangin","Gorontalo",0,0,0,0,0
+"960","Kec. Tabir Barat ","Merangin","Gorontalo",0,0,0,0,0
+"961","Kec. Limun ","Sarolangun","Jambi",0,0,0,0,0
+"962","Kec. Air Hitam ","Sarolangun","Jambi",0,0,0,0,0
+"963","Kec. Bram Itam ","Tanjung Jabung Barat","Gorontalo",0,0,0,0,0
+"964","Kec. Kuala Betara ","Tanjung Jabung Barat","Gorontalo",0,0,0,0,0
+"965","Kec. Gunung Raya ","Kerinci","Jambi",0,0,0,0,0
+"966","Kec. Sitinjau Laut ","Kerinci","Jambi",0,0,0,0,0
+"967","Kec. Gunung Kerinci ","Kerinci","Jambi",0,0,0,0,0
+"968","Kec. Air Hangat Timur ","Kerinci","Jambi",0,0,0,0,0
+"969","Kec. Air Hangat Barat ","Kerinci","Jambi",0,0,0,0,0
+"970","Kec. Pemulutan ","Ogan Ilir","Sulawesi Utara",0,0,0,0,0
+"971","Kec. Lubuk Keliat ","Ogan Ilir","Sulawesi Utara",0,0,0,0,0
+"972","Kec. Kandis ","Ogan Ilir","Sulawesi Utara",0,0,0,0,0
+"973","Kec. Pemulutan Barat ","Ogan Ilir","Sulawesi Utara",0,0,0,0,0
+"974","Kec. Sungai Pinang ","Ogan Ilir","Sulawesi Utara",0,0,0,0,0
+"975","Kec. Pendopo ","Empat Lawang","Sulawesi Tenggara",0,0,0,0,0
+"976","Kec. Tebing Tinggi ","Empat Lawang","Sulawesi Tenggara",0,0,0,0,0
+"977","Kec. Talang Padang ","Empat Lawang","Sulawesi Tenggara",0,0,0,0,0
+"978","Kec. Pasemah Air Keruh ","Empat Lawang","Sulawesi Tenggara",0,0,0,0,0
+"979","Kec. Sikap Dalam ","Empat Lawang","Sulawesi Tenggara",0,0,0,0,0
+"980","Kec. Saling ","Empat Lawang","Sulawesi Tenggara",0,0,0,0,0
+"981","Kec. Sungai Keruh ","Musi Banyuasin","Sulawesi Tenggara",0,0,0,0,0
+"982","Kec. Keluang ","Musi Banyuasin","Sulawesi Tenggara",0,0,0,0,0
+"983","Kec. Talang Kelapa ","Banyuasin","Sulawesi Tenggara",0,0,0,0,0
+"984","Kec. Rambutan ","Banyuasin","Sulawesi Tenggara",0,0,0,0,0
+"985","Kec. Muara Padang ","Banyuasin","Sulawesi Tenggara",0,0,0,0,0
+"986","Kec. Suak Tapeh ","Banyuasin","Sulawesi Tenggara",0,0,0,0,0
+"987","Kec. Sumber Marga Telang ","Banyuasin","Sulawesi Tenggara",0,0,0,0,0
+"988","Kec. Stl Ulu Terawas ","Musi Rawas","Sulawesi Utara",0,0,0,0,0
+"989","Kec. Megang Sakti ","Musi Rawas","Sulawesi Utara",0,0,0,0,0
+"990","Kec. Purwodadi ","Musi Rawas","Sulawesi Utara",0,0,0,0,0
+"991","Kec. Bulan Tengah Suku Ulu ","Musi Rawas","Sulawesi Utara",0,0,0,0,0
+"992","Kec. Tiang Pumpung Kepungut ","Musi Rawas","Sulawesi Utara",0,0,0,0,0
+"993","Kec. Belitang Jaya ","Ogan Komering Ulu Timur","Sulawesi Utara",0,0,0,0,0
+"994","Kec. Pulau Pinang ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"995","Kec. Mulak Ulu ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"996","Kec. Kikim Selatan ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"997","Kec. Kikim Barat ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"998","Kec. Tanjung Sakti Pumu ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"999","Kec. Merapi Barat ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"1000","Kec. Gumay Talang ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"1001","Kec. Merapi Timur ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"1002","Kec. Merapi Selatan ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"1003","Kec. Muara Payang ","Lahat","Sulawesi Tenggara",0,0,0,0,0
+"1004","Kec. Sirah Pulau Padang ","Ogan Komering Ilir","Sulawesi Utara",0,0,0,0,0
+"1005","Kec. Cengal ","Ogan Komering Ilir","Sulawesi Utara",0,0,0,0,0
+"1006","Kec. Jejawi ","Ogan Komering Ilir","Sulawesi Utara",0,0,0,0,0
+"1007","Kec. Sungai Menang ","Ogan Komering Ilir","Sulawesi Utara",0,0,0,0,0
+"1008","Kec. Mesuji Makmur ","Ogan Komering Ilir","Sulawesi Utara",0,0,0,0,0
+"1009","Kec. Pedamaran Timur ","Ogan Komering Ilir","Sulawesi Utara",0,0,0,0,0
+"1010","Kec. Teluk Gelam ","Ogan Komering Ilir","Sulawesi Utara",0,0,0,0,0
+"1011","Kec. Pangkalan Lapam ","Ogan Komering Ilir","Sulawesi Utara",0,0,0,0,0
+"1012","Kec. Ulu Ogan ","Ogan Komering Ulu","Sulawesi Utara",0,0,0,0,0
+"1013","Kec. Sinar Peninjauan ","Ogan Komering Ulu","Sulawesi Utara",0,0,0,0,0
+"1014","Kec. Semende Darat Laut ","Muara Enim","Sulawesi Tenggara",0,0,0,0,0
+"1015","Kec. Gunung Megang ","Muara Enim","Sulawesi Tenggara",0,0,0,0,0
+"1016","Kec. Ujan Mas ","Muara Enim","Sulawesi Tenggara",0,0,0,0,0
+"1017","Kec. Rambang ","Muara Enim","Sulawesi Tenggara",0,0,0,0,0
+"1018","Kec. Semende Darat Ulu ","Muara Enim","Sulawesi Tenggara",0,0,0,0,0
+"1019","Kec. Semende Darat Tengah ","Muara Enim","Sulawesi Tenggara",0,0,0,0,0
+"1020","Kec. Muara Belida ","Muara Enim","Sulawesi Tenggara",0,0,0,0,0
+"1021","KEC. PENUKAL UTARA ","Penukal Abab Lematang Ilir","Sulawesi Utara",0,0,0,0,0
+"1022","KEC. ABAB ","Penukal Abab Lematang Ilir","Sulawesi Utara",0,0,0,0,0
+"1023","Kec. Rawas IIlir ","Musi Rawas Utara","Sulawesi Utara",0,0,0,0,0
+"1024","Kec. Karang Dapo ","Musi Rawas Utara","Sulawesi Utara",0,0,0,0,0
+"1025","Kec. Karang Jaya ","Musi Rawas Utara","Sulawesi Utara",0,0,0,0,0
+"1026","Kec. Ulu Rawas ","Musi Rawas Utara","Sulawesi Utara",0,0,0,0,0
+"1027","Kec. Alang-Alang Lebar ","Palembang","Sulawesi Utara",0,0,0,0,0
+"1028","Kec. Sematang Borang ","Palembang","Sulawesi Utara",0,0,0,0,0
+"1029","Kec. Cambai ","Prabumulih","Sulawesi Utara",0,0,0,0,0
+"1030","Kec. Lubuk Linggau Selatan I ","Lubuk Linggau","Sulawesi Tenggara",0,0,0,0,0
+"1031","Kec. Lubuk Linggau Utara I ","Lubuk Linggau","Sulawesi Tenggara",0,0,0,0,0
+"1032","Kec. Lubuk Linggau Timur II ","Lubuk Linggau","Sulawesi Tenggara",0,0,0,0,0
+"1033","Kec. Lubuk Linggau Selatan II ","Lubuk Linggau","Sulawesi Tenggara",0,0,0,0,0
+"1034","Kec. Pulau Beringin ","Ogan Komering Ulu Selatan","Sulawesi Utara",0,0,0,0,0
+"1035","Kec. Buay Runjung ","Ogan Komering Ulu Selatan","Sulawesi Utara",0,0,0,0,0
+"1036","Kec. Mekakau Ilir ","Ogan Komering Ulu Selatan","Sulawesi Utara",0,0,0,0,0
+"1037","Kec. Kisam Tinggi ","Ogan Komering Ulu Selatan","Sulawesi Utara",0,0,0,0,0
+"1038","Kec. Kisam Ilir ","Ogan Komering Ulu Selatan","Sulawesi Utara",0,0,0,0,0
+"1039","Kec. BPR Ranau Tengah ","Ogan Komering Ulu Selatan","Sulawesi Utara",0,0,0,0,0
+"1040","Kec. Warkuk Ranau Selatan ","Ogan Komering Ulu Selatan","Sulawesi Utara",0,0,0,0,0
+"1041","Kec. Sungai Are ","Ogan Komering Ulu Selatan","Sulawesi Utara",0,0,0,0,0
+"1042","Kec. Tanjung Raya ","Mesuji","Kalimantan Timur",0,0,0,0,0
+"1043","Kec. Rawajitu Utara ","Mesuji","Kalimantan Timur",0,0,0,0,0
+"1044","Kec. Mesuji Timur ","Mesuji","Kalimantan Timur",0,0,0,0,0
+"1045","Kec. Tulang Bawang Udik ","Tulang Bawang Barat","Kalimantan Utara",0,0,0,0,0
+"1046","Kec. Lambu Kibang ","Tulang Bawang Barat","Kalimantan Utara",0,0,0,0,0
+"1047","Kec. Pagar Dewa ","Tulang Bawang Barat","Kalimantan Utara",0,0,0,0,0
+"1048","Kec. Way Kenanga ","Tulang Bawang Barat","Kalimantan Utara",0,0,0,0,0
+"1049","Kec. Gunung Terang ","Tulang Bawang Barat","Kalimantan Utara",0,0,0,0,0
+"1050","Kec. Gunung Agung ","Tulang Bawang Barat","Kalimantan Utara",0,0,0,0,0
+"1051","KEC. PESISIR SELATAN ","Pesisir Barat","Kalimantan Utara",0,0,0,0,0
+"1052","KEC. NGARAS ","Pesisir Barat","Kalimantan Utara",0,0,0,0,0
+"1053","KEC. KRUI SELATAN ","Pesisir Barat","Kalimantan Utara",0,0,0,0,0
+"1054","Kec. Tanjung Bintang ","Lampung Selatan","Kalimantan Timur",0,0,0,0,0
+"1055","Kec. Palas ","Lampung Selatan","Kalimantan Timur",0,0,0,0,0
+"1056","Kec. Candipuro ","Lampung Selatan","Kalimantan Timur",0,0,0,0,0
+"1057","Kec. Bakauheni ","Lampung Selatan","Kalimantan Timur",0,0,0,0,0
+"1058","Kec. Pubian ","Lampung Tengah","Kalimantan Timur",0,0,0,0,0
+"1059","Kec. Bandar Surabaya ","Lampung Tengah","Kalimantan Timur",0,0,0,0,0
+"1060","Kec. Way Seputih ","Lampung Tengah","Kalimantan Timur",0,0,0,0,0
+"1061","Kec. Selagai Lingga ","Lampung Tengah","Kalimantan Timur",0,0,0,0,0
+"1062","Kec. Bekri ","Lampung Tengah","Kalimantan Timur",0,0,0,0,0
+"1063","Kec. Putra Rumbia ","Lampung Tengah","Kalimantan Timur",0,0,0,0,0
+"1064","Kec. Batanghari ","Lampung Timur","Kalimantan Timur",0,0,0,0,0
+"1065","Kec. Raman Utara ","Lampung Timur","Kalimantan Timur",0,0,0,0,0
+"1066","Kec. Pasir Sakti ","Lampung Timur","Kalimantan Timur",0,0,0,0,0
+"1067","Kec. Bumi Agung ","Way Kanan","Kepulauan Riau",0,0,0,0,0
+"1068","Kec. Gedung Aji ","Tulang Bawang","Kalimantan Utara",0,0,0,0,0
+"1069","Kec. Gedung Meneng ","Tulang Bawang","Kalimantan Utara",0,0,0,0,0
+"1070","Kec. Penawar Aji ","Tulang Bawang","Kalimantan Utara",0,0,0,0,0
+"1071","Kec. Rawajitu Timur ","Tulang Bawang","Kalimantan Utara",0,0,0,0,0
+"1072","Kec. Meraksa Aji ","Tulang Bawang","Kalimantan Utara",0,0,0,0,0
+"1073","Kec. Banjar Baru ","Tulang Bawang","Kalimantan Utara",0,0,0,0,0
+"1074","Kec. Pulau Panggung ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1075","Kec. Pugung ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1076","Kec. Cukuh Balak ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1077","Kec. Pematang Sawa ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1078","Kec. Sumberejo ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1079","Kec. Kelumbayan ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1080","Kec. ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1081","Kec. Limau ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1082","Kec. Air Naningan ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1083","Kec. Kelumbayan Barat ","Tanggamus","Kalimantan Utara",0,0,0,0,0
+"1084","Kec. Abung Tengah ","Lampung Utara","Kalimantan Timur",0,0,0,0,0
+"1085","Kec. ","Lampung Utara","Kalimantan Timur",0,0,0,0,0
+"1086","Kec. Abung Semuli ","Lampung Utara","Kalimantan Timur",0,0,0,0,0
+"1087","Kec. Muara Sungkai ","Lampung Utara","Kalimantan Timur",0,0,0,0,0
+"1088","Kec. Bunga Mayang ","Lampung Utara","Kalimantan Timur",0,0,0,0,0
+"1089","Kec. Hulu Sungkai ","Lampung Utara","Kalimantan Timur",0,0,0,0,0
+"1090","Kec. Abung Pekurun ","Lampung Utara","Kalimantan Timur",0,0,0,0,0
+"1091","Kec. Sungkai Jaya ","Lampung Utara","Kalimantan Timur",0,0,0,0,0
+"1092","Kec. Sungkai Barat ","Lampung Utara","Kalimantan Timur",0,0,0,0,0
+"1093","Kec. Batu Brak ","Lampung Barat","Kalimantan Timur",0,0,0,0,0
+"1094","Kec. Suoh ","Lampung Barat","Kalimantan Timur",0,0,0,0,0
+"1095","Kec. Lumbok Seminung ","Lampung Barat","Kalimantan Timur",0,0,0,0,0
+"1096","Kec. Kebun Tebu ","Lampung Barat","Kalimantan Timur",0,0,0,0,0
+"1097","Kec. Air Hitam ","Lampung Barat","Kalimantan Timur",0,0,0,0,0
+"1098","Kec. Batu Ketulis ","Lampung Barat","Kalimantan Timur",0,0,0,0,0
+"1099","Kec. Pagar Dewa ","Lampung Barat","Kalimantan Timur",0,0,0,0,0
+"1100","Kec. Panjang ","Bandar Lampung","Kalimantan Timur",0,0,0,0,0
+"1101","Kec. Tanjung Karang Timur ","Bandar Lampung","Kalimantan Timur",0,0,0,0,0
+"1102","Kec. Tanjung Karang Barat ","Bandar Lampung","Kalimantan Timur",0,0,0,0,0
+"1103","Kec. Kedaton ","Bandar Lampung","Kalimantan Timur",0,0,0,0,0
+"1104","Kec. Kedamaian ","Bandar Lampung","Kalimantan Timur",0,0,0,0,0
+"1105","Kec. Langkapura ","Bandar Lampung","Kalimantan Timur",0,0,0,0,0
+"1106","Kec. Metro Selatan ","Metro","Kalimantan Timur",0,0,0,0,0
+"1107","Kec. Punduh Pedada ","Pesawaran","Kalimantan Timur",0,0,0,0,0
+"1108","Kec. Kedondong ","Pesawaran","Kalimantan Timur",0,0,0,0,0
+"1109","Kec. Way Lima ","Pesawaran","Kalimantan Timur",0,0,0,0,0
+"1110","Kec. Negeri Katon ","Pesawaran","Kalimantan Timur",0,0,0,0,0
+"1111","Kec. Adiluwih ","Pringsewu","Kalimantan Utara",0,0,0,0,0
+"1112","Kec. Banyumas ","Pringsewu","Kalimantan Utara",0,0,0,0,0
+"1113","Kec. Ambarawa ","Pringsewu","Kalimantan Utara",0,0,0,0,0
+"1114","Kec. Sungai Raya ","Bengkayang","Jawa Timur",0,0,0,0,0
+"1115","Kec. Seluas ","Bengkayang","Jawa Timur",0,0,0,0,0
+"1116","Kec. Teriak ","Bengkayang","Jawa Timur",0,0,0,0,0
+"1117","Kec. Monterado ","Bengkayang","Jawa Timur",0,0,0,0,0
+"1118","Kec. Suti Semarang ","Bengkayang","Jawa Timur",0,0,0,0,0
+"1119","Kec. Siding ","Bengkayang","Jawa Timur",0,0,0,0,0
+"1120","Kec. Tujuh Belas ","Bengkayang","Jawa Timur",0,0,0,0,0
+"1121","Kec. Sebangki ","Landak","Jawa Timur",0,0,0,0,0
+"1122","Kec. Menjalin ","Landak","Jawa Timur",0,0,0,0,0
+"1123","Kec. Menyuke ","Landak","Jawa Timur",0,0,0,0,0
+"1124","Kec. Meranti ","Landak","Jawa Timur",0,0,0,0,0
+"1125","Kec. Banyuke Hulu ","Landak","Jawa Timur",0,0,0,0,0
+"1126","Kec. Nanga Mahap ","Sekadau","Jawa Timur",0,0,0,0,0
+"1127","Kec. Nanga Taman ","Sekadau","Jawa Timur",0,0,0,0,0
+"1128","Kec. Belitang ","Sekadau","Jawa Timur",0,0,0,0,0
+"1129","Kec. Belitang Hilir ","Sekadau","Jawa Timur",0,0,0,0,0
+"1130","Kec. Siantan ","Mempawah","Jawa Timur",0,0,0,0,0
+"1131","Kec. Toho ","Mempawah","Jawa Timur",0,0,0,0,0
+"1132","Kec. Segedong ","Mempawah","Jawa Timur",0,0,0,0,0
+"1133","Kec. Mempawah Timur ","Mempawah","Jawa Timur",0,0,0,0,0
+"1134","Kec. Toba ","Sanggau","Jawa Timur",0,0,0,0,0
+"1135","Kec. Tayan Hilir ","Sanggau","Jawa Timur",0,0,0,0,0
+"1136","Kec. Balai ","Sanggau","Jawa Timur",0,0,0,0,0
+"1137","Kec. Tayan Hulu ","Sanggau","Jawa Timur",0,0,0,0,0
+"1138","Kec. Beduwai ","Sanggau","Jawa Timur",0,0,0,0,0
+"1139","Kec. Sekayam ","Sanggau","Jawa Timur",0,0,0,0,0
+"1140","Kec. Meliau ","Sanggau","Jawa Timur",0,0,0,0,0
+"1141","Kec. Ambalau ","Sintang","Jawa Timur",0,0,0,0,0
+"1142","Kec. Sungai Tebelian ","Sintang","Jawa Timur",0,0,0,0,0
+"1143","Kec. Dedai ","Sintang","Jawa Timur",0,0,0,0,0
+"1144","Kec. Binjai Hulu ","Sintang","Jawa Timur",0,0,0,0,0
+"1145","Kec. Ketungau Hilir ","Sintang","Jawa Timur",0,0,0,0,0
+"1146","Kec. Silat Hilir ","Kapuas Hulu","Jawa Timur",0,0,0,0,0
+"1147","Kec. Embaloh Hilir ","Kapuas Hulu","Jawa Timur",0,0,0,0,0
+"1148","Kec. Suhaid ","Kapuas Hulu","Jawa Timur",0,0,0,0,0
+"1149","Kec. Seberuang ","Kapuas Hulu","Jawa Timur",0,0,0,0,0
+"1150","Kec. Empanang ","Kapuas Hulu","Jawa Timur",0,0,0,0,0
+"1151","Kec. Batang Lupar ","Kapuas Hulu","Jawa Timur",0,0,0,0,0
+"1152","Kec. Bika ","Kapuas Hulu","Jawa Timur",0,0,0,0,0
+"1153","Kec. Sejangkung ","Sambas","Jawa Timur",0,0,0,0,0
+"1154","Kec. Subah ","Sambas","Jawa Timur",0,0,0,0,0
+"1155","Kec. Galing ","Sambas","Jawa Timur",0,0,0,0,0
+"1156","Kec. Sebawi ","Sambas","Jawa Timur",0,0,0,0,0
+"1157","Kec. Sokan ","Melawi","Jawa Timur",0,0,0,0,0
+"1158","Kec. Tanah Pinoh ","Melawi","Jawa Timur",0,0,0,0,0
+"1159","Kec. Sayan ","Melawi","Jawa Timur",0,0,0,0,0
+"1160","Kec. Ella Hilir ","Melawi","Jawa Timur",0,0,0,0,0
+"1161","Kec. Menukung ","Melawi","Jawa Timur",0,0,0,0,0
+"1162","Kec. Tanah Pinoh Barat ","Melawi","Jawa Timur",0,0,0,0,0
+"1163","Kec. Pulau Maya ","Kayong Utara","Jawa Timur",0,0,0,0,0
+"1164","Kec. Sukadana ","Kayong Utara","Jawa Timur",0,0,0,0,0
+"1165","Kec. Kendawangan ","Ketapang","Jawa Timur",0,0,0,0,0
+"1166","Kec. Manis Mata ","Ketapang","Jawa Timur",0,0,0,0,0
+"1167","Kec. Jelai Hulu ","Ketapang","Jawa Timur",0,0,0,0,0
+"1168","Kec. Tumbang Titi ","Ketapang","Jawa Timur",0,0,0,0,0
+"1169","Kec. Matan Hilir Selatan ","Ketapang","Jawa Timur",0,0,0,0,0
+"1170","Kec. Sandai ","Ketapang","Jawa Timur",0,0,0,0,0
+"1171","Kec. Simpang Dua ","Ketapang","Jawa Timur",0,0,0,0,0
+"1172","Kec. Hulu Sungai ","Ketapang","Jawa Timur",0,0,0,0,0
+"1173","Kec. Air Upas ","Ketapang","Jawa Timur",0,0,0,0,0
+"1174","Kec. Singkup ","Ketapang","Jawa Timur",0,0,0,0,0
+"1175","Kec. Benua Lima ","Barito Timur","Kalimantan Barat",0,0,0,0,0
+"1176","Kec. Patangkep Tutui ","Barito Timur","Kalimantan Barat",0,0,0,0,0
+"1177","Kec. Dusun Tengah ","Barito Timur","Kalimantan Barat",0,0,0,0,0
+"1178","Kec. Pematang Karau ","Barito Timur","Kalimantan Barat",0,0,0,0,0
+"1179","Kec. Karusen Janang ","Barito Timur","Kalimantan Barat",0,0,0,0,0
+"1180","Kec. Bukit Batu ","Palangka Raya","Kalimantan Selatan",0,0,0,0,0
+"1181","Kec. Sabangau ","Palangka Raya","Kalimantan Selatan",0,0,0,0,0
+"1182","Kec. Pulau Petak ","Kapuas","Kalimantan Barat",0,0,0,0,0
+"1183","Kec. Timpah ","Kapuas","Kalimantan Barat",0,0,0,0,0
+"1184","Kec. Kapuas Tengah ","Kapuas","Kalimantan Barat",0,0,0,0,0
+"1185","Kec. Kapuas Hulu ","Kapuas","Kalimantan Barat",0,0,0,0,0
+"1186","Kec. Pasak Talawang ","Kapuas","Kalimantan Barat",0,0,0,0,0
+"1187","Kec. Gunung Bintang Awai ","Barito Selatan","Kalimantan Barat",0,0,0,0,0
+"1188","Kec. Kamipang ","Katingan","Kalimantan Barat",0,0,0,0,0
+"1189","Kec. Tewang Sangalang Garing ","Katingan","Kalimantan Barat",0,0,0,0,0
+"1190","Kec. Katingan Hulu ","Katingan","Kalimantan Barat",0,0,0,0,0
+"1191","Kec. Petak Malai ","Katingan","Kalimantan Barat",0,0,0,0,0
+"1192","Kec. Bukit Raya ","Katingan","Kalimantan Barat",0,0,0,0,0
+"1193","Kec. Hanau ","Seruyan","Kalimantan Selatan",0,0,0,0,0
+"1194","Kec. Seruyan Hulu ","Seruyan","Kalimantan Selatan",0,0,0,0,0
+"1195","Kec. Seruyan Hilir Timur ","Seruyan","Kalimantan Selatan",0,0,0,0,0
+"1196","Kec. Danau Seluluk ","Seruyan","Kalimantan Selatan",0,0,0,0,0
+"1197","Kec. Batu Ampar ","Seruyan","Kalimantan Selatan",0,0,0,0,0
+"1198","Kec. Jelai ","Sukamara","Kalimantan Selatan",0,0,0,0,0
+"1199","Kec. Sukamara ","Sukamara","Kalimantan Selatan",0,0,0,0,0
+"1200","Kec. Balai Riam ","Sukamara","Kalimantan Selatan",0,0,0,0,0
+"1201","Kec. Pantai Lunci ","Sukamara","Kalimantan Selatan",0,0,0,0,0
+"1202","Kec. Permata Kecubung ","Sukamara","Kalimantan Selatan",0,0,0,0,0
+"1203","Kec. Gunung Timang ","Barito Utara","Kalimantan Barat",0,0,0,0,0
+"1204","Kec. Teweh Timur ","Barito Utara","Kalimantan Barat",0,0,0,0,0
+"1205","Kec. Lahei ","Barito Utara","Kalimantan Barat",0,0,0,0,0
+"1206","Kec. Teweh Baru ","Barito Utara","Kalimantan Barat",0,0,0,0,0
+"1207","Kec. Teweh Selatan ","Barito Utara","Kalimantan Barat",0,0,0,0,0
+"1208","Kec. Pulau Hanaut ","Kotawaringin Timur","Kalimantan Barat",0,0,0,0,0
+"1209","Kec. Baamang ","Kotawaringin Timur","Kalimantan Barat",0,0,0,0,0
+"1210","Kec. Seranau ","Kotawaringin Timur","Kalimantan Barat",0,0,0,0,0
+"1211","Kec. Cempaga Hulu ","Kotawaringin Timur","Kalimantan Barat",0,0,0,0,0
+"1212","Kec. Telaga Antang ","Kotawaringin Timur","Kalimantan Barat",0,0,0,0,0
+"1213","Kec. Kumai ","Kotawaringin Barat","Kalimantan Barat",0,0,0,0,0
+"1214","Kec. Pangkalan Banteng ","Kotawaringin Barat","Kalimantan Barat",0,0,0,0,0
+"1215","Kec. Bulik Timur ","Lamandau","Kalimantan Selatan",0,0,0,0,0
+"1216","Kec. Batang Kawa ","Lamandau","Kalimantan Selatan",0,0,0,0,0
+"1217","Kec. Manuhing ","Gunung Mas","Kalimantan Barat",0,0,0,0,0
+"1218","Kec. Mihing Raya ","Gunung Mas","Kalimantan Barat",0,0,0,0,0
+"1219","Kec. Damang Batu ","Gunung Mas","Kalimantan Barat",0,0,0,0,0
+"1220","Kec. Miri Manasa ","Gunung Mas","Kalimantan Barat",0,0,0,0,0
+"1221","Kec. Rungan Barat ","Gunung Mas","Kalimantan Barat",0,0,0,0,0
+"1222","Kec. Kahayan Tengah ","Pulang Pisau","Kalimantan Selatan",0,0,0,0,0
+"1223","Kec. Banama Tingan ","Pulang Pisau","Kalimantan Selatan",0,0,0,0,0
+"1224","Kec. Sebangau Kuala ","Pulang Pisau","Kalimantan Selatan",0,0,0,0,0
+"1225","Kec. Jabiren Raya ","Pulang Pisau","Kalimantan Selatan",0,0,0,0,0
+"1226","Kec. Barito Tuhup Raya ","Murung Raya","Kalimantan Selatan",0,0,0,0,0
+"1227","Kec. Tanah Siang Selatan ","Murung Raya","Kalimantan Selatan",0,0,0,0,0
+"1228","Kec. Sungai Babuat ","Murung Raya","Kalimantan Selatan",0,0,0,0,0
+"1229","Kec. Seribu Riam ","Murung Raya","Kalimantan Selatan",0,0,0,0,0
+"1230","Kec. Uut Murung ","Murung Raya","Kalimantan Selatan",0,0,0,0,0
+"1231","Kec. Gambut ","Banjar","Jawa Barat",0,0,0,0,0
+"1232","Kec. Kertak Hanyar ","Banjar","Jawa Barat",0,0,0,0,0
+"1233","Kec. Pengaron ","Banjar","Jawa Barat",0,0,0,0,0
+"1234","Kec. Paramasan ","Banjar","Jawa Barat",0,0,0,0,0
+"1235","Kec. Sambung Makmur ","Banjar","Jawa Barat",0,0,0,0,0
+"1236","Kec. Tapin Tengah ","Tapin","Kalimantan Barat",0,0,0,0,0
+"1237","Kec. Tapin Utara ","Tapin","Kalimantan Barat",0,0,0,0,0
+"1238","Kec. Candi Laras Selatan ","Tapin","Kalimantan Barat",0,0,0,0,0
+"1239","Kec. Salam Babaris ","Tapin","Kalimantan Barat",0,0,0,0,0
+"1240","Kec. Loksado ","Hulu Sungai Selatan","Jawa Timur",0,0,0,0,0
+"1241","Kec. Telaga Langsat ","Hulu Sungai Selatan","Jawa Timur",0,0,0,0,0
+"1242","Kec. Angkinang ","Hulu Sungai Selatan","Jawa Timur",0,0,0,0,0
+"1243","Kec. Sungai Raya ","Hulu Sungai Selatan","Jawa Timur",0,0,0,0,0
+"1244","Kec. Daha Utara ","Hulu Sungai Selatan","Jawa Timur",0,0,0,0,0
+"1245","Kec. Daha Barat ","Hulu Sungai Selatan","Jawa Timur",0,0,0,0,0
+"1246","Kec. Batang Alai Selatan ","Hulu Sungai Tengah","Jawa Timur",0,0,0,0,0
+"1247","Kec. Labuan Amas Utara ","Hulu Sungai Tengah","Jawa Timur",0,0,0,0,0
+"1248","Kec. Pandawan ","Hulu Sungai Tengah","Jawa Timur",0,0,0,0,0
+"1249","Kec. Batang Alai Utara ","Hulu Sungai Tengah","Jawa Timur",0,0,0,0,0
+"1250","Kec. Kusan Hilir ","Tanah Bumbu","Kalimantan Barat",0,0,0,0,0
+"1251","Kec. Batu Licin ","Tanah Bumbu","Kalimantan Barat",0,0,0,0,0
+"1252","Kec. Mantewe ","Tanah Bumbu","Kalimantan Barat",0,0,0,0,0
+"1253","Kec. Kuranji ","Tanah Bumbu","Kalimantan Barat",0,0,0,0,0
+"1254","Kec. Landasan Ulin ","Banjarbaru","Jawa Timur",0,0,0,0,0
+"1255","Kec. Cempaka ","Banjarbaru","Jawa Timur",0,0,0,0,0
+"1256","Kec. Banjarbaru Selatan ","Banjarbaru","Jawa Timur",0,0,0,0,0
+"1257","Kec. Liang Anggang ","Banjarbaru","Jawa Timur",0,0,0,0,0
+"1258","Kec. Danau Panggang ","Hulu Sungai Utara","Kalimantan Barat",0,0,0,0,0
+"1259","Kec. Sungai Pandan ","Hulu Sungai Utara","Kalimantan Barat",0,0,0,0,0
+"1260","Kec. Banjang ","Hulu Sungai Utara","Kalimantan Barat",0,0,0,0,0
+"1261","Kec. Sungai Tabukan ","Hulu Sungai Utara","Kalimantan Barat",0,0,0,0,0
+"1262","Kec. Tanta ","Tabalong","Kalimantan Barat",0,0,0,0,0
+"1263","Kec. Haruai ","Tabalong","Kalimantan Barat",0,0,0,0,0
+"1264","Kec. Pulau Sembilan ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1265","Kec. Pulau Laut Barat ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1266","Kec. Pulau Laut Selatan ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1267","Kec. Pulau Laut Timur ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1268","Kec. Pulau Sebuku ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1269","Kec. Pulau Laut Tengah ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1270","Kec. Kelumpang Barat ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1271","Kec. Kelumpang Selatan ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1272","Kec. Hampang ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1273","Kec. Kelumpang Tengah ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1274","Kec. Kelumpang Utara ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1275","Kec. Pamukan Selatan ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1276","Kec. Pamukan Utara ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1277","Kec. Pamukan Barat ","Kotabaru","Kalimantan Barat",0,0,0,0,0
+"1278","Kec. Lampihong ","Balangan","Jawa Timur",0,0,0,0,0
+"1279","Kec. Juai ","Balangan","Jawa Timur",0,0,0,0,0
+"1280","Kec. Halong ","Balangan","Jawa Timur",0,0,0,0,0
+"1281","Kec. Tebing Tinggi ","Balangan","Jawa Timur",0,0,0,0,0
+"1282","Kec. Panyipatan ","Tanah Laut","Kalimantan Barat",0,0,0,0,0
+"1283","Kec. Takisung ","Tanah Laut","Kalimantan Barat",0,0,0,0,0
+"1284","Kec. Bati-Bati ","Tanah Laut","Kalimantan Barat",0,0,0,0,0
+"1285","Kec. Jorong ","Tanah Laut","Kalimantan Barat",0,0,0,0,0
+"1286","Kec. Bumi Makmur ","Tanah Laut","Kalimantan Barat",0,0,0,0,0
+"1287","Kec. Tamban ","Barito Kuala","Jawa Timur",0,0,0,0,0
+"1288","Kec. Anjir Pasar ","Barito Kuala","Jawa Timur",0,0,0,0,0
+"1289","Kec. Alalak ","Barito Kuala","Jawa Timur",0,0,0,0,0
+"1290","Kec. Mandastana ","Barito Kuala","Jawa Timur",0,0,0,0,0
+"1291","Kec. Belawang ","Barito Kuala","Jawa Timur",0,0,0,0,0
+"1292","Kec. Wanaraya ","Barito Kuala","Jawa Timur",0,0,0,0,0
+"1293","Kec. Barambai ","Barito Kuala","Jawa Timur",0,0,0,0,0
+"1294","Kec. Kuripan ","Barito Kuala","Jawa Timur",0,0,0,0,0
+"1295","Kec. Bongan ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1296","Kec. Damai ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1297","Kec. Barong Tongkok ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1298","Kec. Melak ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1299","Kec. Bentian Besar ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1300","Kec. Mook Manaar Bulatn ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1301","Kec. Nyuatan ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1302","Kec. Sekolaq Darat ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1303","Kec. Tering ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1304","Kec. Siluq Ngurai ","Kutai Barat","Kalimantan Selatan",0,0,0,0,0
+"1305","Kec. Sangkulirang ","Kutai Timur","Kalimantan Selatan",0,0,0,0,0
+"1306","Kec. Bengalon ","Kutai Timur","Kalimantan Selatan",0,0,0,0,0
+"1307","Kec. Sandaran ","Kutai Timur","Kalimantan Selatan",0,0,0,0,0
+"1308","Kec. Sangatta Selatan ","Kutai Timur","Kalimantan Selatan",0,0,0,0,0
+"1309","Kec. Teluk Pandan ","Kutai Timur","Kalimantan Selatan",0,0,0,0,0
+"1310","Kec. Kaubun ","Kutai Timur","Kalimantan Selatan",0,0,0,0,0
+"1311","Kec. Karangan ","Kutai Timur","Kalimantan Selatan",0,0,0,0,0
+"1312","Kec. Batu Ampar ","Kutai Timur","Kalimantan Selatan",0,0,0,0,0
+"1313","Kec. Tanjung Harapan ","Paser","Kalimantan Tengah",0,0,0,0,0
+"1314","Kec. Long Kali ","Paser","Kalimantan Tengah",0,0,0,0,0
+"1315","Kec. Muara Samu ","Paser","Kalimantan Tengah",0,0,0,0,0
+"1316","Kec. Batu Engau ","Paser","Kalimantan Tengah",0,0,0,0,0
+"1317","Kec. Babulu ","Penajam Paser Utara","Kalimantan Tengah",0,0,0,0,0
+"1318","Kec. Waru ","Penajam Paser Utara","Kalimantan Tengah",0,0,0,0,0
+"1319","Kec. Samarinda Ilir ","Samarinda","Kalimantan Tengah",0,0,0,0,0
+"1320","Kec. Balikpapan Timur ","Balikpapan","Kalimantan Selatan",0,0,0,0,0
+"1321","Kec. Bontang Barat ","Bontang","Kalimantan Selatan",0,0,0,0,0
+"1322","Kec. Sanga-Sanga ","Kutai Kartanegara","Kalimantan Selatan",0,0,0,0,0
+"1323","Kec. Muara Muntai ","Kutai Kartanegara","Kalimantan Selatan",0,0,0,0,0
+"1324","Kec. Muara Wis ","Kutai Kartanegara","Kalimantan Selatan",0,0,0,0,0
+"1325","Kec. Marang Kayu ","Kutai Kartanegara","Kalimantan Selatan",0,0,0,0,0
+"1326","Kec. Kenohan ","Kutai Kartanegara","Kalimantan Selatan",0,0,0,0,0
+"1327","Kec. Gunung Tabur ","Berau","Kalimantan Selatan",0,0,0,0,0
+"1328","Kec. Teluk Bayur ","Berau","Kalimantan Selatan",0,0,0,0,0
+"1329","Kec. Pulau Maratua ","Berau","Kalimantan Selatan",0,0,0,0,0
+"1330","Kec. Batu Putih ","Berau","Kalimantan Selatan",0,0,0,0,0
+"1331","Kec. Biatan ","Berau","Kalimantan Selatan",0,0,0,0,0
+"1332","Kec. Bunaken ","Manado","Sulawesi Tengah",0,0,0,0,0
+"1333","Kec. Singkil ","Manado","Sulawesi Tengah",0,0,0,0,0
+"1334","Kec. Matuari ","Bitung","Sulawesi Selatan",0,0,0,0,0
+"1335","Kec. Aertembaga ","Bitung","Sulawesi Selatan",0,0,0,0,0
+"1336","Kec. Lembeh Utara ","Bitung","Sulawesi Selatan",0,0,0,0,0
+"1337","Kec. Tomohon Utara ","Tomohon","Sulawesi Tengah",0,0,0,0,0
+"1338","Kec. Tomohon Tengah ","Tomohon","Sulawesi Tengah",0,0,0,0,0
+"1339","Kec. Langowan Timur ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1340","Kec. Tompaso ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1341","Kec. Kawangkoan ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1342","Kec. Sonder ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1343","Kec. Pineleng ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1344","Kec. Remboken ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1345","Kec. Kakas ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1346","Kec. Eris ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1347","Kec. Kombi ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1348","Kec. Tondano Selatan ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1349","Kec. Langowan Utara ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1350","Kec. Kawangkoan Barat ","Minahasa","Sulawesi Tengah",0,0,0,0,0
+"1351","Kec. Airmadidi ","Minahasa Utara","Sulawesi Tengah",0,0,0,0,0
+"1352","Kec. Wori ","Minahasa Utara","Sulawesi Tengah",0,0,0,0,0
+"1353","Kec. Likupang Timur ","Minahasa Utara","Sulawesi Tengah",0,0,0,0,0
+"1354","Kec. Likupang Barat ","Minahasa Utara","Sulawesi Tengah",0,0,0,0,0
+"1355","Kec. Kalawat ","Minahasa Utara","Sulawesi Tengah",0,0,0,0,0
+"1356","Kec. Talawaan ","Minahasa Utara","Sulawesi Tengah",0,0,0,0,0
+"1357","Kec. Bintauna ","Bolaang Mongondow Utara","Sulawesi Selatan",0,0,0,0,0
+"1358","Kec. Pinogaluman ","Bolaang Mongondow Utara","Sulawesi Selatan",0,0,0,0,0
+"1359","Kec. Manganitu Selatan ","Kep. Sangihe","0",0,0,0,0,0
+"1360","Kec. Tamako ","Kep. Sangihe","0",0,0,0,0,0
+"1361","Kec. Tabukan Selatan ","Kep. Sangihe","0",0,0,0,0,0
+"1362","Kec. Tabukan Tengah ","Kep. Sangihe","0",0,0,0,0,0
+"1363","Kec. Manganitu ","Kep. Sangihe","0",0,0,0,0,0
+"1364","Kec. Tahuna ","Kep. Sangihe","0",0,0,0,0,0
+"1365","Kec. Kendahe ","Kep. Sangihe","0",0,0,0,0,0
+"1366","Kec. Tatoareng ","Kep. Sangihe","0",0,0,0,0,0
+"1367","Kec. Nusa Tabukan ","Kep. Sangihe","0",0,0,0,0,0
+"1368","Kec. Tabukan Selatan Tenggara ","Kep. Sangihe","0",0,0,0,0,0
+"1369","Kec. Tahuna Timur ","Kep. Sangihe","0",0,0,0,0,0
+"1370","Kec. Tahuna Barat ","Kep. Sangihe","0",0,0,0,0,0
+"1371","Kec. Lirung ","Kepulauan Talaud","Sulawesi Selatan",0,0,0,0,0
+"1372","Kec. Melonguane ","Kepulauan Talaud","Sulawesi Selatan",0,0,0,0,0
+"1373","Kec. Nanusa ","Kepulauan Talaud","Sulawesi Selatan",0,0,0,0,0
+"1374","Kec. Gemeh ","Kepulauan Talaud","Sulawesi Selatan",0,0,0,0,0
+"1375","Kec. Tanpa Namma ","Kepulauan Talaud","Sulawesi Selatan",0,0,0,0,0
+"1376","Kec. Moronge ","Kepulauan Talaud","Sulawesi Selatan",0,0,0,0,0
+"1377","Kec. Beo Utara ","Kepulauan Talaud","Sulawesi Selatan",0,0,0,0,0
+"1378","Kec. Beo Selatan ","Kepulauan Talaud","Sulawesi Selatan",0,0,0,0,0
+"1379","Kec. Essang Selatan ","Kepulauan Talaud","Sulawesi Selatan",0,0,0,0,0
+"1380","Kec. Modoinding ","Minahasa Selatan","Sulawesi Tengah",0,0,0,0,0
+"1381","Kec. Motoling ","Minahasa Selatan","Sulawesi Tengah",0,0,0,0,0
+"1382","Kec. Amurang Timur ","Minahasa Selatan","Sulawesi Tengah",0,0,0,0,0
+"1383","Kec. Tatapan ","Minahasa Selatan","Sulawesi Tengah",0,0,0,0,0
+"1384","Kec. Motoling Barat ","Minahasa Selatan","Sulawesi Tengah",0,0,0,0,0
+"1385","Kec. Motoling Timur ","Minahasa Selatan","Sulawesi Tengah",0,0,0,0,0
+"1386","Kec. Suluun Tareran ","Minahasa Selatan","Sulawesi Tengah",0,0,0,0,0
+"1387","Kec. Tumpaan ","Minahasa Selatan","Sulawesi Tengah",0,0,0,0,0
+"1388","Kec. Sinonsayang ","Minahasa Selatan","Sulawesi Tengah",0,0,0,0,0
+"1389","Kec. Lolayan ","Bolaang Mongondow","Sulawesi Selatan",0,0,0,0,0
+"1390","Kec. Poigar ","Bolaang Mongondow","Sulawesi Selatan",0,0,0,0,0
+"1391","Kec. Lolak ","Bolaang Mongondow","Sulawesi Selatan",0,0,0,0,0
+"1392","Kec. Dumoga Barat ","Bolaang Mongondow","Sulawesi Selatan",0,0,0,0,0
+"1393","Kec. Passi Barat ","Bolaang Mongondow","Sulawesi Selatan",0,0,0,0,0
+"1394","Kec. Siau Barat ","Kepulauan Siau Tagulandang Biaro","0",0,0,0,0,0
+"1395","Kec. Siau Timur ","Kepulauan Siau Tagulandang Biaro","0",0,0,0,0,0
+"1396","Kec. Ratatotok ","Minahasa Tenggara","Sulawesi Tengah",0,0,0,0,0
+"1397","Kec. Pusomaen ","Minahasa Tenggara","Sulawesi Tengah",0,0,0,0,0
+"1398","Kec. Tombatu ","Minahasa Tenggara","Sulawesi Tengah",0,0,0,0,0
+"1399","Kec. Touluaan ","Minahasa Tenggara","Sulawesi Tengah",0,0,0,0,0
+"1400","Kec. Touluaan Selatan ","Minahasa Tenggara","Sulawesi Tengah",0,0,0,0,0
+"1401","Kec. Ratahan Timur ","Minahasa Tenggara","Sulawesi Tengah",0,0,0,0,0
+"1402","Kec. ","Bolaang Mongondow Timur","Sulawesi Selatan",0,0,0,0,0
+"1403","Kec. Pinolosian Timur ","Bolaang Mongondow Selatan","Sulawesi Selatan",0,0,0,0,0
+"1404","Kec. Totikum ","Banggai Kepulauan","Riau",0,0,0,0,0
+"1405","Kec. Buko ","Banggai Kepulauan","Riau",0,0,0,0,0
+"1406","Kec. Bulagi Selatan ","Banggai Kepulauan","Riau",0,0,0,0,0
+"1407","Kec. Tinangkung Utara ","Banggai Kepulauan","Riau",0,0,0,0,0
+"1408","Kec. Peling Tengah ","Banggai Kepulauan","Riau",0,0,0,0,0
+"1409","Kec. Bulagi Utara ","Banggai Kepulauan","Riau",0,0,0,0,0
+"1410","Kec. Totikum Selatan ","Banggai Kepulauan","Riau",0,0,0,0,0
+"1411","Kec. Tojo ","Tojo Una-Una","Sulawesi Barat",0,0,0,0,0
+"1412","Kec. Ulubongka ","Tojo Una-Una","Sulawesi Barat",0,0,0,0,0
+"1413","Kec. Ampana Tete ","Tojo Una-Una","Sulawesi Barat",0,0,0,0,0
+"1414","Kec. Una - Una ","Tojo Una-Una","Sulawesi Barat",0,0,0,0,0
+"1415","Kec. Walea Kepulauan ","Tojo Una-Una","Sulawesi Barat",0,0,0,0,0
+"1416","Kec. Togean ","Tojo Una-Una","Sulawesi Barat",0,0,0,0,0
+"1417","Kec. Walea Besar ","Tojo Una-Una","Sulawesi Barat",0,0,0,0,0
+"1418","Kec. Batudaka ","Tojo Una-Una","Sulawesi Barat",0,0,0,0,0
+"1419","Kec. Kulawi ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1420","Kec. Pipikoro ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1421","Kec. Palolo ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1422","Kec. Dolo ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1423","Kec. Dolo Selatan ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1424","Kec. Dolo Barat ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1425","Kec. Marawola ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1426","Kec. Kinovaro ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1427","Kec. Marawola Barat ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1428","Kec. Gumbasa ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1429","Kec. Tanambulava ","Sigi","Sulawesi Barat",0,0,0,0,0
+"1430","Kec. Lamala ","Banggai","Riau",0,0,0,0,0
+"1431","Kec. Balantak ","Banggai","Riau",0,0,0,0,0
+"1432","Kec. Bualemo ","Banggai","Riau",0,0,0,0,0
+"1433","Kec. Moilong ","Banggai","Riau",0,0,0,0,0
+"1434","Kec. Batui Selatan ","Banggai","Riau",0,0,0,0,0
+"1435","Kec. Mantoh ","Banggai","Riau",0,0,0,0,0
+"1436","Kec. Balantak Selatan ","Banggai","Riau",0,0,0,0,0
+"1437","Kec. Momunu ","Buol","Riau",0,0,0,0,0
+"1438","Kec. Bokat ","Buol","Riau",0,0,0,0,0
+"1439","Kec. Bunobogu ","Buol","Riau",0,0,0,0,0
+"1440","Kec. Paleleh ","Buol","Riau",0,0,0,0,0
+"1441","Kec. Karamat ","Buol","Riau",0,0,0,0,0
+"1442","Kec. Paleleh Barat ","Buol","Riau",0,0,0,0,0
+"1443","Kec. Dampal Utara ","Tolitoli","0",0,0,0,0,0
+"1444","Kec. Dondo ","Tolitoli","0",0,0,0,0,0
+"1445","Kec. Tolitoli Utara ","Tolitoli","0",0,0,0,0,0
+"1446","Kec. Ogodeide ","Tolitoli","0",0,0,0,0,0
+"1447","Kec. Basidondo ","Tolitoli","0",0,0,0,0,0
+"1448","Kec. Lampasio ","Tolitoli","0",0,0,0,0,0
+"1449","Kec. Menui Kepulauan ","Morowali","Riau",0,0,0,0,0
+"1450","Kec. Bungku Selatan ","Morowali","Riau",0,0,0,0,0
+"1451","Kec. Bahodopi ","Morowali","Riau",0,0,0,0,0
+"1452","Kec. Bumi Raya ","Morowali","Riau",0,0,0,0,0
+"1453","Kec. Bungku Pesisir ","Morowali","Riau",0,0,0,0,0
+"1454","Kec. Sindue ","Donggala","Riau",0,0,0,0,0
+"1455","Kec. Sirenja ","Donggala","Riau",0,0,0,0,0
+"1456","Kec. Balaesang ","Donggala","Riau",0,0,0,0,0
+"1457","Kec. Banawa Selatan ","Donggala","Riau",0,0,0,0,0
+"1458","Kec. Tanantovea ","Donggala","Riau",0,0,0,0,0
+"1459","Kec. Sindue Tombusabora ","Donggala","Riau",0,0,0,0,0
+"1460","Kec. Sindue Tobata ","Donggala","Riau",0,0,0,0,0
+"1461","Kec. Balaesang Tanjung ","Donggala","Riau",0,0,0,0,0
+"1462","Kec. Lore Selatan ","Poso","Sulawesi Barat",0,0,0,0,0
+"1463","Kec. Pamona Utara ","Poso","Sulawesi Barat",0,0,0,0,0
+"1464","Kec. Lore Utara ","Poso","Sulawesi Barat",0,0,0,0,0
+"1465","Kec. Pamona Timur ","Poso","Sulawesi Barat",0,0,0,0,0
+"1466","Kec. Pamona Barat ","Poso","Sulawesi Barat",0,0,0,0,0
+"1467","Kec. Poso Pesisir Selatan ","Poso","Sulawesi Barat",0,0,0,0,0
+"1468","Kec. Poso Pesisir Utara ","Poso","Sulawesi Barat",0,0,0,0,0
+"1469","Kec. Poso ","Poso","Sulawesi Barat",0,0,0,0,0
+"1470","Kec. Poso ","Poso","Sulawesi Barat",0,0,0,0,0
+"1471","KEC. BANGGAI TENGAH ","Banggai Laut","Riau",0,0,0,0,0
+"1472","Kec. Bungku Utara ","Morowali Utara","Riau",0,0,0,0,0
+"1473","Kec. Mamosalato ","Morowali Utara","Riau",0,0,0,0,0
+"1474","Kec. Mori Atas ","Morowali Utara","Riau",0,0,0,0,0
+"1475","Kec. Petasia ","Morowali Utara","Riau",0,0,0,0,0
+"1476","Kec. Petasia Timur ","Morowali Utara","Riau",0,0,0,0,0
+"1477","Kec. Palu Selatan ","Palu","Riau",0,0,0,0,0
+"1478","Kec. Tawaeli ","Palu","Riau",0,0,0,0,0
+"1479","Kec. Ampibabo ","Parigi Moutong","Riau",0,0,0,0,0
+"1480","Kec. Tinombo ","Parigi Moutong","Riau",0,0,0,0,0
+"1481","Kec. Tomini ","Parigi Moutong","Riau",0,0,0,0,0
+"1482","Kec. Moutong ","Parigi Moutong","Riau",0,0,0,0,0
+"1483","Kec. Bolano Lambunu ","Parigi Moutong","Riau",0,0,0,0,0
+"1484","Kec. Torue ","Parigi Moutong","Riau",0,0,0,0,0
+"1485","Kec. Parigi Selatan ","Parigi Moutong","Riau",0,0,0,0,0
+"1486","Kec. Mepanga ","Parigi Moutong","Riau",0,0,0,0,0
+"1487","Kec. Parigi Barat ","Parigi Moutong","Riau",0,0,0,0,0
+"1488","Kec. Parigi Utara ","Parigi Moutong","Riau",0,0,0,0,0
+"1489","Kec. Palasa ","Parigi Moutong","Riau",0,0,0,0,0
+"1490","Kec. Taopa ","Parigi Moutong","Riau",0,0,0,0,0
+"1491","Kec. Balinggi ","Parigi Moutong","Riau",0,0,0,0,0
+"1492","Kec. Ongka Malino ","Parigi Moutong","Riau",0,0,0,0,0
+"1493","Kec. Sidoan ","Parigi Moutong","Riau",0,0,0,0,0
+"1494","Kec. Tomoni ","Luwu Timur","Papua Barat",0,0,0,0,0
+"1495","Kec. Wotu ","Luwu Timur","Papua Barat",0,0,0,0,0
+"1496","Kec. Angkona ","Luwu Timur","Papua Barat",0,0,0,0,0
+"1497","Kec. Wasuponda ","Luwu Timur","Papua Barat",0,0,0,0,0
+"1498","Kec. Kapala Pitu ","Toraja Utara","Riau",0,0,0,0,0
+"1499","Kec. Nanggala ","Toraja Utara","Riau",0,0,0,0,0
+"1500","Kec. Rindingallo ","Toraja Utara","Riau",0,0,0,0,0
+"1501","Kec. Sa`dan  ","Toraja Utara","Riau",0,0,0,0,0
+"1502","Kec. Sesean ","Toraja Utara","Riau",0,0,0,0,0
+"1503","Kec. Tikala ","Toraja Utara","Riau",0,0,0,0,0
+"1504","Kec. Tondon  ","Toraja Utara","Riau",0,0,0,0,0
+"1505","Kec. Buntu Pepasan ","Toraja Utara","Riau",0,0,0,0,0
+"1506","Kec. Liukang Tangaya ","Pangkajene Kepulauan","Papua Barat",0,0,0,0,0
+"1507","Kec. Bungoro ","Pangkajene Kepulauan","Papua Barat",0,0,0,0,0
+"1508","Kec. Ma`rang ","Pangkajene Kepulauan","Papua Barat",0,0,0,0,0
+"1509","Kec. Minasatene ","Pangkajene Kepulauan","Papua Barat",0,0,0,0,0
+"1510","Kec. Tondong Tallasa ","Pangkajene Kepulauan","Papua Barat",0,0,0,0,0
+"1511","Kec. Bontonompo ","Gowa","Papua",0,0,0,0,0
+"1512","Kec. Bajeng ","Gowa","Papua",0,0,0,0,0
+"1513","Kec. Pallangga ","Gowa","Papua",0,0,0,0,0
+"1514","Kec. Bontomarannu ","Gowa","Papua",0,0,0,0,0
+"1515","Kec. Barombong ","Gowa","Papua",0,0,0,0,0
+"1516","Kec. Tombolo Pao ","Gowa","Papua",0,0,0,0,0
+"1517","Kec. Pattallassang ","Gowa","Papua",0,0,0,0,0
+"1518","Kec. Bontonompo Selatan ","Gowa","Papua",0,0,0,0,0
+"1519","Kec. Parigi ","Gowa","Papua",0,0,0,0,0
+"1520","Kec. Galesong Utara ","Takalar","Papua Barat",0,0,0,0,0
+"1521","Kec. Pattallassang ","Takalar","Papua Barat",0,0,0,0,0
+"1522","Kec. Galesong ","Takalar","Papua Barat",0,0,0,0,0
+"1523","Kec. Bangkala ","Jeneponto","Papua",0,0,0,0,0
+"1524","Kec. Bangkala Barat ","Jeneponto","Papua",0,0,0,0,0
+"1525","Kec. Bontoramba ","Jeneponto","Papua",0,0,0,0,0
+"1526","Kec. Arungkeke ","Jeneponto","Papua",0,0,0,0,0
+"1527","Kec. Panca Lautang ","Sidenreng Rappang","Papua Barat",0,0,0,0,0
+"1528","Kec. Duapitue ","Sidenreng Rappang","Papua Barat",0,0,0,0,0
+"1529","Kec. Pitu Riase ","Sidenreng Rappang","Papua Barat",0,0,0,0,0
+"1530","Kec. Cendana ","Enrekang","Papua",0,0,0,0,0
+"1531","Kec. Larompong ","Luwu","Papua Barat",0,0,0,0,0
+"1532","Kec. Belopa ","Luwu","Papua Barat",0,0,0,0,0
+"1533","Kec. Bua Ponrang (Bupon) ","Luwu","Papua Barat",0,0,0,0,0
+"1534","Kec. Bua ","Luwu","Papua Barat",0,0,0,0,0
+"1535","Kec. Lamasi ","Luwu","Papua Barat",0,0,0,0,0
+"1536","Kec. Latimojong ","Luwu","Papua Barat",0,0,0,0,0
+"1537","Kec. Kamanre ","Luwu","Papua Barat",0,0,0,0,0
+"1538","Kec. Walenrang Utara ","Luwu","Papua Barat",0,0,0,0,0
+"1539","Kec. Ponrang Selatan ","Luwu","Papua Barat",0,0,0,0,0
+"1540","Kec. Belopa Utara ","Luwu","Papua Barat",0,0,0,0,0
+"1541","Kec. Gantarang ","Bulukumba","Papua",0,0,0,0,0
+"1542","Kec. Bontobahari ","Bulukumba","Papua",0,0,0,0,0
+"1543","Kec. Bulukumpa ","Bulukumba","Papua",0,0,0,0,0
+"1544","Kec. Rilau Ale ","Bulukumba","Papua",0,0,0,0,0
+"1545","Kec. Sinjai Borong ","Sinjai","Papua Barat",0,0,0,0,0
+"1546","Kec. Tellu Limpoe ","Sinjai","Papua Barat",0,0,0,0,0
+"1547","Kec. Bulupoddo ","Sinjai","Papua Barat",0,0,0,0,0
+"1548","Kec. Bontomanai ","Kepulauan Selayar","Papua",0,0,0,0,0
+"1549","Kec. Benteng ","Kepulauan Selayar","Papua",0,0,0,0,0
+"1550","Kec. Taka Bonerate ","Kepulauan Selayar","Papua",0,0,0,0,0
+"1551","Kec. Pasimasunggu Timur ","Kepulauan Selayar","Papua",0,0,0,0,0
+"1552","Kec. Buki ","Kepulauan Selayar","Papua",0,0,0,0,0
+"1553","Kec. Mattiro Bulu ","Pinrang","Papua Barat",0,0,0,0,0
+"1554","Kec. Patampanua ","Pinrang","Papua Barat",0,0,0,0,0
+"1555","Kec. Cempa ","Pinrang","Papua Barat",0,0,0,0,0
+"1556","Kec. Paleteang ","Pinrang","Papua Barat",0,0,0,0,0
+"1557","Kec. Kajuara ","Bone","Papua",0,0,0,0,0
+"1558","Kec. Tonra ","Bone","Papua",0,0,0,0,0
+"1559","Kec. Patimpeng ","Bone","Papua",0,0,0,0,0
+"1560","Kec. Mare ","Bone","Papua",0,0,0,0,0
+"1561","Kec. Sibulue ","Bone","Papua",0,0,0,0,0
+"1562","Kec. Cina ","Bone","Papua",0,0,0,0,0
+"1563","Kec. Lappariaja ","Bone","Papua",0,0,0,0,0
+"1564","Kec. Bengo ","Bone","Papua",0,0,0,0,0
+"1565","Kec. Palakka ","Bone","Papua",0,0,0,0,0
+"1566","Kec. Awangpone ","Bone","Papua",0,0,0,0,0
+"1567","Kec. Tellu Siattinge ","Bone","Papua",0,0,0,0,0
+"1568","Kec. Amali ","Bone","Papua",0,0,0,0,0
+"1569","Kec. Ajangale ","Bone","Papua",0,0,0,0,0
+"1570","Kec. Cenrana ","Bone","Papua",0,0,0,0,0
+"1571","Kec. Tellu Limpoe ","Bone","Papua",0,0,0,0,0
+"1572","Kec. Bola ","Wajo","Riau",0,0,0,0,0
+"1573","Kec. Keera ","Wajo","Riau",0,0,0,0,0
+"1574","Kec. Pitumpanua ","Wajo","Riau",0,0,0,0,0
+"1575","Kec. Marioriwawo ","Soppeng","Papua Barat",0,0,0,0,0
+"1576","Kec. Lalabata ","Soppeng","Papua Barat",0,0,0,0,0
+"1577","Kec. Ulu Ere ","Bantaeng","Papua",0,0,0,0,0
+"1578","Kec. Ere Merasa ","Bantaeng","Papua",0,0,0,0,0
+"1579","Kec. Maros Baru ","Maros","Papua Barat",0,0,0,0,0
+"1580","Kec. Maros Utara / Bontoa ","Maros","Papua Barat",0,0,0,0,0
+"1581","Kec. Camba ","Maros","Papua Barat",0,0,0,0,0
+"1582","Kec. Mallawa ","Maros","Papua Barat",0,0,0,0,0
+"1583","Kec. Marusu ","Maros","Papua Barat",0,0,0,0,0
+"1584","Kec. Tompobulu ","Maros","Papua Barat",0,0,0,0,0
+"1585","Kec. Wara ","Palopo","Papua Barat",0,0,0,0,0
+"1586","Kec. Wara Utara ","Palopo","Papua Barat",0,0,0,0,0
+"1587","Kec. Wara Barat ","Palopo","Papua Barat",0,0,0,0,0
+"1588","Kec. Sendana ","Palopo","Papua Barat",0,0,0,0,0
+"1589","Kec. Bara ","Palopo","Papua Barat",0,0,0,0,0
+"1590","Kec. Sangalla ","Tana Toraja","Riau",0,0,0,0,0
+"1591","Kec. Simbuang ","Tana Toraja","Riau",0,0,0,0,0
+"1592","Kec. Rantetayo ","Tana Toraja","Riau",0,0,0,0,0
+"1593","Kec. Bittuang ","Tana Toraja","Riau",0,0,0,0,0
+"1594","Kec. Mappak ","Tana Toraja","Riau",0,0,0,0,0
+"1595","Kec. Sukamaju ","Luwu Utara","Papua Barat",0,0,0,0,0
+"1596","Kec. Rongkong ","Luwu Utara","Papua Barat",0,0,0,0,0
+"1597","Kec. Seko ","Luwu Utara","Papua Barat",0,0,0,0,0
+"1598","Kec. Malangke Barat ","Luwu Utara","Papua Barat",0,0,0,0,0
+"1599","Kec. Tana Lili ","Luwu Utara","Papua Barat",0,0,0,0,0
+"1600","Kec. Baebunta Selatan ","Luwu Utara","Papua Barat",0,0,0,0,0
+"1601","Kec. Palangga ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1602","Kec. Konda ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1603","Kec. Lainea ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1604","Kec. Ranomeeto ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1605","Kec. Kolono ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1606","Kec. Andolo ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1607","Kec. Laonti ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1608","Kec. Buke ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1609","Kec. Palangga Selatan ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1610","Kec. Baito ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1611","Kec. Laeya ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1612","Kec. Moramo Utara ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1613","Kec. Ranomeeto Barat ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1614","Kec. Basala ","Konawe Selatan","Sulawesi Selatan",0,0,0,0,0
+"1615","Kec. Lembo ","Konawe Utara","Sulawesi Selatan",0,0,0,0,0
+"1616","Kec. Wiwirano ","Konawe Utara","Sulawesi Selatan",0,0,0,0,0
+"1617","Kec. Sawa ","Konawe Utara","Sulawesi Selatan",0,0,0,0,0
+"1618","Kec. Oheo ","Konawe Utara","Sulawesi Selatan",0,0,0,0,0
+"1619","Kec. Motui ","Konawe Utara","Sulawesi Selatan",0,0,0,0,0
+"1620","Kec. Lasolo Kepulauan ","Konawe Utara","Sulawesi Selatan",0,0,0,0,0
+"1621","Kec. Kulisusu Barat ","Buton Utara","Sulawesi Selatan",0,0,0,0,0
+"1622","Kec. Kulisusu Utara ","Buton Utara","Sulawesi Selatan",0,0,0,0,0
+"1623","Kec. Kambowa ","Buton Utara","Sulawesi Selatan",0,0,0,0,0
+"1624","Kec. Bonegunu ","Buton Utara","Sulawesi Selatan",0,0,0,0,0
+"1625","Kec. Wakorumba Utara ","Buton Utara","Sulawesi Selatan",0,0,0,0,0
+"1626","KEC. LAMBANDIA ","Kolaka Timur","Sulawesi Selatan",0,0,0,0,0
+"1627","Kec. Lalolae ","Kolaka Timur","Sulawesi Selatan",0,0,0,0,0
+"1628","KEC. ULUIWOI ","Kolaka Timur","Sulawesi Selatan",0,0,0,0,0
+"1629","KEC. TINONDO ","Kolaka Timur","Sulawesi Selatan",0,0,0,0,0
+"1630","Kec. Ueesi ","Kolaka Timur","Sulawesi Selatan",0,0,0,0,0
+"1631","Kec. Aere ","Kolaka Timur","Sulawesi Selatan",0,0,0,0,0
+"1632","Kec. Tongkuno ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1633","Kec. Parigi ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1634","Kec. Wakorumba Selatan ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1635","Kec. Lohia ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1636","Kec. Kontunaga ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1637","Kec. Maligano ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1638","Kec. Watopute ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1639","Kec. Duruka ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1640","Kec. Pasir Putih ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1641","Kec. Kontu Kowuna ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1642","Kec. Marobo ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1643","Kec. Towea ","Muna","Sulawesi Selatan",0,0,0,0,0
+"1644","Kec. Lasalimu Selatan ","Buton","Sulawesi Selatan",0,0,0,0,0
+"1645","Kec. Wolowa ","Buton","Sulawesi Selatan",0,0,0,0,0
+"1646","Kec. Wabula ","Buton","Sulawesi Selatan",0,0,0,0,0
+"1647","Kec. Betoambari ","Baubau","0",0,0,0,0,0
+"1648","Kec. Lea-Lea ","Baubau","0",0,0,0,0,0
+"1649","Kec. Wawonii Barat ","Konawe Kepulauan","Sulawesi Selatan",0,0,0,0,0
+"1650","Kec. Wawonii Timur Laut ","Konawe Kepulauan","Sulawesi Selatan",0,0,0,0,0
+"1651","Kec. Wawonii Timur ","Konawe Kepulauan","Sulawesi Selatan",0,0,0,0,0
+"1652","Kec. Wawonii Tengah ","Konawe Kepulauan","Sulawesi Selatan",0,0,0,0,0
+"1653","Kec. Sawerigadi ","Muna Barat","Sulawesi Selatan",0,0,0,0,0
+"1654","Kec. Wadaga ","Muna Barat","Sulawesi Selatan",0,0,0,0,0
+"1655","Kec. Tiworo Tengah ","Muna Barat","Sulawesi Selatan",0,0,0,0,0
+"1656","Kec. Napano Kusambi ","Muna Barat","Sulawesi Selatan",0,0,0,0,0
+"1657","Kec. Batauga ","Buton Selatan","Sulawesi Selatan",0,0,0,0,0
+"1658","Kec. Lapandewa ","Buton Selatan","Sulawesi Selatan",0,0,0,0,0
+"1659","Kec. Batu Atas ","Buton Selatan","Sulawesi Selatan",0,0,0,0,0
+"1660","Kec. Siompu ","Buton Selatan","Sulawesi Selatan",0,0,0,0,0
+"1661","Kec. Kadatua ","Buton Selatan","Sulawesi Selatan",0,0,0,0,0
+"1662","Kec.Talaga Raya ","Buton Tengah","Sulawesi Selatan",0,0,0,0,0
+"1663","Kec. Sangia Wambulu ","Buton Tengah","Sulawesi Selatan",0,0,0,0,0
+"1664","Kec. Sampara ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1665","Kec. Pondidaha ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1666","Kec. Abuki ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1667","Kec. Bondoala ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1668","Kec. Wonggeduku ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1669","Kec. Meluhu ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1670","Kec. Routa ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1671","Kec. Konawe ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1672","Kec. Asinua ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1673","Kec. Onembute ","Konawe","Sulawesi Selatan",0,0,0,0,0
+"1674","Kec. Togo Binongko ","Wakatobi","Sulawesi Selatan",0,0,0,0,0
+"1675","Kec. ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1676","Kec. Poleang Timur ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1677","Kec. Rarowatu ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1678","Kec. Poleang Barat ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1679","Kec. Mataoleo ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1680","Kec. Poleang Utara ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1681","Kec. Poleang Tenggara ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1682","Kec. ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1683","Kec. Poleang Tengah ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1684","Kec. Mata Usu ","Bombana","Sulawesi Barat",0,0,0,0,0
+"1685","Kec. Porehu ","Kolaka Utara","Sulawesi Selatan",0,0,0,0,0
+"1686","Kec. Watubangga ","Kolaka","Sulawesi Selatan",0,0,0,0,0
+"1687","Kec. Tanggetada ","Kolaka","Sulawesi Selatan",0,0,0,0,0
+"1688","Kec. Latambaga ","Kolaka","Sulawesi Selatan",0,0,0,0,0
+"1689","Kec. Samaturu ","Kolaka","Sulawesi Selatan",0,0,0,0,0
+"1690","Kec. Toari ","Kolaka","Sulawesi Selatan",0,0,0,0,0
+"1691","Kec. Seram Timur ","Seram Bagian Timur","Lampung",0,0,0,0,0
+"1692","Kec. Werinama ","Seram Bagian Timur","Lampung",0,0,0,0,0
+"1693","Kec. Tutuk Tolu ","Seram Bagian Timur","Lampung",0,0,0,0,0
+"1694","Kec. Kilmury ","Seram Bagian Timur","Lampung",0,0,0,0,0
+"1695","Kec. Pulau Panjang ","Seram Bagian Timur","Lampung",0,0,0,0,0
+"1696","Kec. Bula Barat ","Seram Bagian Timur","Lampung",0,0,0,0,0
+"1697","Kec. Kian Darat ","Seram Bagian Timur","Lampung",0,0,0,0,0
+"1698","Kec. Siritaun Wida Timur ","Seram Bagian Timur","Lampung",0,0,0,0,0
+"1699","Kec. Aru Tengah ","Kepulauan Aru","Kepulauan Riau",0,0,0,0,0
+"1700","Kec. Aru Selatan ","Kepulauan Aru","Kepulauan Riau",0,0,0,0,0
+"1701","Kec. Aru Tengah Timur ","Kepulauan Aru","Kepulauan Riau",0,0,0,0,0
+"1702","Kec. Aru Tengah Selatan ","Kepulauan Aru","Kepulauan Riau",0,0,0,0,0
+"1703","Kec. Aru Utara ","Kepulauan Aru","Kepulauan Riau",0,0,0,0,0
+"1704","Kec. Tayando Tam ","Tual","Lampung",0,0,0,0,0
+"1705","Kec. Kur Selatan ","Tual","Lampung",0,0,0,0,0
+"1706","Kec. Teon Nila Serua ","Maluku Tengah","Kepulauan Riau",0,0,0,0,0
+"1707","Kec. Seram Utara Timur Seti ","Maluku Tengah","Kepulauan Riau",0,0,0,0,0
+"1708","Kec. Seram Utara Timur Kobi ","Maluku Tengah","Kepulauan Riau",0,0,0,0,0
+"1709","Kec. Kei Besar Utara Timur ","Maluku Tenggara","Lampung",0,0,0,0,0
+"1710","Kec. Kei Kecil Barat ","Maluku Tenggara","Lampung",0,0,0,0,0
+"1711","Kec. Hoat Sorbay ","Maluku Tenggara","Lampung",0,0,0,0,0
+"1712","Kec. Kei Kecil Timur Selatan ","Maluku Tenggara","Lampung",0,0,0,0,0
+"1713","Kec. Wetar ","Maluku Barat Daya","Kepulauan Riau",0,0,0,0,0
+"1714","Kec. Pulau Masela ","Maluku Barat Daya","Kepulauan Riau",0,0,0,0,0
+"1715","Kec. Dawelor Dawera ","Maluku Barat Daya","Kepulauan Riau",0,0,0,0,0
+"1716","Kec. Wetar Timur ","Maluku Barat Daya","Kepulauan Riau",0,0,0,0,0
+"1717","Kec. Kepala Madan ","Buru Selatan","Kepulauan Riau",0,0,0,0,0
+"1718","Kec. Lolong Guba ","Buru","Kepulauan Riau",0,0,0,0,0
+"1719","Kec. Waelata ","Buru","Kepulauan Riau",0,0,0,0,0
+"1720","Kec. Lilialy ","Buru","Kepulauan Riau",0,0,0,0,0
+"1721","Kec. Wer Tamrian ","Kepulauan Tanimbar","0",0,0,0,0,0
+"1722","Kec. Wer Maktian ","Kepulauan Tanimbar","0",0,0,0,0,0
+"1723","Kec. Wuar Labobar ","Kepulauan Tanimbar","0",0,0,0,0,0
+"1724","Kec. Nirun Mas ","Kepulauan Tanimbar","0",0,0,0,0,0
+"1725","Kec. Kormomolin ","Kepulauan Tanimbar","0",0,0,0,0,0
+"1726","Kec. Elpaputih ","Seram Bagian Barat","Lampung",0,0,0,0,0
+"1727","Kec. Taniwel Timur ","Seram Bagian Barat","Lampung",0,0,0,0,0
+"1728","Kec. Busungbiu ","Buleleng","Bali",0,0,0,0,0
+"1729","Kec. Banjar ","Buleleng","Bali",0,0,0,0,0
+"1730","Kec. Sukasada ","Buleleng","Bali",0,0,0,0,0
+"1731","Kec. Kubutambahan ","Buleleng","Bali",0,0,0,0,0
+"1732","Kec. Pekutatan ","Jembrana","Bali",0,0,0,0,0
+"1733","Kec. Selemadeg ","Tabanan","Bali",0,0,0,0,0
+"1734","Kec. Kerambitan ","Tabanan","Bali",0,0,0,0,0
+"1735","Kec. Pupuan ","Tabanan","Bali",0,0,0,0,0
+"1736","Kec. Kuta Selatan ","Badung","Bali",0,0,0,0,0
+"1737","Kec. Abiansemal ","Badung","Bali",0,0,0,0,0
+"1738","Kec. Blahbatuh ","Gianyar","Bali",0,0,0,0,0
+"1739","Kec. Banjarangkan ","Klungkung","Bali",0,0,0,0,0
+"1740","Kec. Dawan ","Klungkung","Bali",0,0,0,0,0
+"1741","Kec. Tembuku ","Bangli","Bali",0,0,0,0,0
+"1742","Kec. Kintamani ","Bangli","Bali",0,0,0,0,0
+"1743","Kec. Manggis ","Karang Asem","0",0,0,0,0,0
+"1744","Kec. Abang ","Karang Asem","0",0,0,0,0,0
+"1745","Kec. Bebandem ","Karang Asem","0",0,0,0,0,0
+"1746","Kec. Kubu ","Karang Asem","0",0,0,0,0,0
+"1747","Kec. Alas ","Sumbawa","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1748","Kec. Ropang ","Sumbawa","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1749","Kec. Labuhan Badas ","Sumbawa","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1750","Kec. Rhee ","Sumbawa","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1751","Kec. Moyo Utara ","Sumbawa","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1752","Kec. Maronge ","Sumbawa","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1753","Kec. Lenangguar ","Sumbawa","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1754","Kec. Keruak ","Lombok Timur","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1755","Kec. Jerowaru ","Lombok Timur","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1756","Kec. Tambora ","Bima","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1757","Kec. Ambalawi ","Bima","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1758","Kec. Maluk ","Sumbawa Barat","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1759","Kec. Ampenan ","Mataram","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1760","Kec. RasanaE Timur ","Bima","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1761","Kec. Sulamu ","Kupang","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1762","Kec. Amfoang Utara ","Kupang","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1763","Kec. Amfoang Barat Laut ","Kupang","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1764","Kec. Amfoang Timur ","Kupang","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1765","Kec. Amanuban Barat ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1766","Kec. Amanuban Selatan ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1767","Kec. Amanuban Tengah ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1768","Kec. Amanatun Selatan ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1769","Kec. Amanatun Utara ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1770","Kec. BatuPutih ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1771","Kec. Oenino ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1772","Kec. Kualin ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1773","Kec. Toianas ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1774","Kec. Kok Baun ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1775","Kec. Tobu ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1776","Kec. Kuatnana ","Timor Tengah Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1777","Kec. Naga Wutung ","Lembata","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1778","Kec. Omesuri ","Lembata","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1779","Kec. Buyasuri ","Lembata","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1780","Kec. Pantai Baru ","Rote-Ndao","0",0,0,0,0,0
+"1781","Kec. Rote Timur ","Rote-Ndao","0",0,0,0,0,0
+"1782","Kec. Ndao Nuse ","Rote-Ndao","0",0,0,0,0,0
+"1783","Kec. Komodo ","Manggarai Barat","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1784","Kec. Sano Nggoang ","Manggarai Barat","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1785","Kec. Lembor ","Manggarai Barat","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1786","Kec. Boleng ","Manggarai Barat","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1787","Kec. Welak ","Manggarai Barat","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1788","Kec. Mbeliling ","Manggarai Barat","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1789","Kec. Alor Barat Laut ","Alor","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1790","Kec. Alor Timur Laut ","Alor","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1791","Kec. Pantar Tengah ","Alor","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1792","Kec. Pureman ","Alor","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1793","Kec. Pulau Pura ","Alor","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1794","Kec. Lembur ","Alor","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1795","Kec. Solor Barat ","Flores Timur","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1796","Kec. Adonara Barat ","Flores Timur","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1797","Kec. Adonara Timur ","Flores Timur","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1798","Kec. Titehena ","Flores Timur","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1799","Kec. Kelubagolit ","Flores Timur","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1800","Kec. Adonara ","Flores Timur","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1801","Kec. Adonara Tengah ","Flores Timur","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1802","Kec. Hawu Mehara ","Sabu Raijua","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1803","Kec. Raijua ","Sabu Raijua","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1804","Kec. Sabu Barat ","Sabu Raijua","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1805","Kec. Weliman ","Malaka","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1806","Kec. Laenmanen ","Malaka","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1807","Kec. Kobalima Timur ","Malaka","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1808","Kec. Kobalima ","Malaka","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1809","Kec. Golewa Barat ","Ngada","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1810","Kec. Riung ","Ngada","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1811","Kec. Riung Barat ","Ngada","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1812","Kec. Jerebuu ","Ngada","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1813","Kec. Riung Selatan (Wolomeze) ","Ngada","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1814","Kec. Inerie ","Ngada","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1815","Kec. Golewa Selatan ","Ngada","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1816","Kec. Paga ","Sikka","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1817","Kec. Bola ","Sikka","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1818","Kec. Talibura ","Sikka","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1819","Kec. Kewapante ","Sikka","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1820","Kec. Nita ","Sikka","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1821","Kec. Waigete ","Sikka","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1822","Kec. Waiblama ","Sikka","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1823","Kec. Hewokloang ","Sikka","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1824","Kec. Kangae ","Sikka","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1825","Kec. Detusoko ","Ende","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1826","Kec. Lio Timur ","Ende","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1827","Kec. Ende Timur ","Ende","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1828","Kec. Miomafo Timur ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1829","Kec. Insana ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1830","Kec. Biboki Utara ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1831","Kec. Noemuti ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1832","Kec. Insana Utara ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1833","Kec. Noemuti Timur ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1834","Kec. Mutis ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1835","Kec. Bikomi Utara ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1836","Kec. Insana Barat ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1837","Kec. Insana Tengah ","Timor Tengah Utara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1838","Kec. Tasifeto Timur ","Belu","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1839","Kec. Lamakmen ","Belu","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1840","Kec. Kakuluk Mesak ","Belu","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1841","Kec. Rai Manuk ","Belu","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1842","Kec. Atambua Selatan ","Belu","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1843","Kec. Nangaroro ","Nagakeo","0",0,0,0,0,0
+"1844","Kec. Wolowae ","Nagakeo","0",0,0,0,0,0
+"1845","Kec. Kodi ","Sumba Barat Daya","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1846","Kec. Loura ","Sumba Barat Daya","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1847","Kec. Wewewa Selatan ","Sumba Barat Daya","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1848","Kec. ","Sumba Barat Daya","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1849","Kec. Ruteng ","Manggarai","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1850","Kec. Lelak ","Manggarai","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1851","Kec. Reok Barat ","Manggarai","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1852","Kec. Cibal Barat ","Manggarai","Nanggroe Aceh Darussalam (NAD)",0,0,0,0,0
+"1853","Kec. Paberiwai ","Sumba Timur","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1854","Kec. Rindi ","Sumba Timur","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1855","Kec. Pandawai ","Sumba Timur","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1856","Kec. Haharu ","Sumba Timur","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1857","Kec. Nggaha Ori Angu ","Sumba Timur","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1858","Kec. Umalulu ","Sumba Timur","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1859","Kec. Wulla Waijelu ","Sumba Timur","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1860","Kec. Kanatang ","Sumba Timur","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1861","Kec. Wanokaka ","Sumba Barat","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1862","Kec. Lamboya ","Sumba Barat","Nusa Tenggara Barat (NTB)",0,0,0,0,0
+"1863","Kec. Kurulu ","Jaya Wijaya","0",0,0,0,0,0
+"1864","Kec. Bolakme ","Jaya Wijaya","0",0,0,0,0,0
+"1865","Kec. Muliama ","Jaya Wijaya","0",0,0,0,0,0
+"1866","Kec. Wanggar ","Nabire","Kabupaten",0,0,0,0,0
+"1867","Kec. Napan ","Nabire","Kabupaten",0,0,0,0,0
+"1868","Kec. Makimi ","Nabire","Kabupaten",0,0,0,0,0
+"1869","Kec. Supiori Timur ","Supiori","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1870","Kec. Supiori Barat ","Supiori","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1871","Kec. Supiori Utara ","Supiori","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1872","Kec. Waropen Atas ","Memberamo Raya","0",0,0,0,0,0
+"1873","Kec. Mamberamo Ilir (hilir) ","Memberamo Raya","0",0,0,0,0,0
+"1874","Kec. Benuki ","Memberamo Raya","0",0,0,0,0,0
+"1875","Kec. Kenyam ","Nduga","Kabupaten",0,0,0,0,0
+"1876","Kec. Mbuwa ","Nduga","Kabupaten",0,0,0,0,0
+"1877","Kec. Wania ","Mimika","Kabupaten",0,0,0,0,0
+"1878","Kec. Mindiptana ","Boven Digoel","DT2",0,0,0,0,0
+"1879","Kec. Mandobo ","Boven Digoel","DT2",0,0,0,0,0
+"1880","Kec. Kouh ","Boven Digoel","DT2",0,0,0,0,0
+"1881","Kec. Yaniruma ","Boven Digoel","DT2",0,0,0,0,0
+"1882","Kec. Obaa ","Mappi","Kabupaten",0,0,0,0,0
+"1883","Kec. Sinak kab. Puncak","Kec. Sinak kab. Puncak","0",0,0,0,0,0
+"1884","Kec. Beoga kab. Puncak","Kec. Beoga kab. Puncak","0",0,0,0,0,0
+"1885","Kec. Kaureh ","Jayapura","Kabupaten",0,0,0,0,0
+"1886","Kec. Kemtuk Gresi ","Jayapura","Kabupaten",0,0,0,0,0
+"1887","Kec. Demta ","Jayapura","Kabupaten",0,0,0,0,0
+"1888","Kec. Yapsi ","Jayapura","Kabupaten",0,0,0,0,0
+"1889","Kec. Numfor Barat ","Biak Numfor","DT2 Kota, Kabupaten  ",0,0,0,0,0
+"1890","Kec. Biak Utara ","Biak Numfor","DT2 Kota, Kabupaten  ",0,0,0,0,0
+"1891","Kec. Warsa ","Biak Numfor","DT2 Kota, Kabupaten  ",0,0,0,0,0
+"1892","Kec. Biak Barat ","Biak Numfor","DT2 Kota, Kabupaten  ",0,0,0,0,0
+"1893","Kec. Swandiwe ","Biak Numfor","DT2 Kota, Kabupaten  ",0,0,0,0,0
+"1894","Kec. Bruyandori ","Biak Numfor","DT2 Kota, Kabupaten  ",0,0,0,0,0
+"1895","Kec. Kanggime ","Tolikara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1896","Kec. Kembu ","Tolikara","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1897","Kec. Kamu ","Dogiyai","Kabupaten",0,0,0,0,0
+"1898","Kec. Tigi Barat ","Deiyai","Kabupaten",0,0,0,0,0
+"1899","Kec. Sugapa ","Intan Jaya","Kabupaten",0,0,0,0,0
+"1900","Kec. Muara Tami ","Jayapura","Kabupaten",0,0,0,0,0
+"1901","Kec. Okbibab ","Pegunungan Bintang","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1902","Kec. Kiwirok ","Pegunungan Bintang","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1903","Kec. Atsy ","Asmat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1904","Kec. Kurima ","Yahukimo","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1905","Kec. Anggruk ","Yahukimo","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1906","Kec. Paniai Timur ","Paniai","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1907","Kec. Bibida ","Paniai","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1908","Kec. Paniai Barat ","Paniai","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1909","Kec. Kebo ","Paniai","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1910","Kec. Fawi ","Puncak Jaya","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1911","Kec. Ilu ","Puncak Jaya","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1912","Kec. Pirime ","Lanny Jaya","Kabupaten",0,0,0,0,0
+"1913","Kec. Balingga ","Lanny Jaya","Kabupaten",0,0,0,0,0
+"1914","Kec. Tiomneri ","Lanny Jaya","Kabupaten",0,0,0,0,0
+"1915","Kec. Kobakma ","Membramo Tengah","0",0,0,0,0,0
+"1916","Kec. Kelila ","Membramo Tengah","0",0,0,0,0,0
+"1917","Kec. Eragayam ","Membramo Tengah","0",0,0,0,0,0
+"1918","Kec. Apalapsili ","Yalimo","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1919","Kec. Elelim ","Yalimo","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1920","Kec. Poom ","Kepulauan Yapen","Kabupaten",0,0,0,0,0
+"1921","Kec. Kimaam ","Merauke","Kabupaten",0,0,0,0,0
+"1922","Kec. Kurik ","Merauke","Kabupaten",0,0,0,0,0
+"1923","Kec. Muting ","Merauke","Kabupaten",0,0,0,0,0
+"1924","Kec. Semangga ","Merauke","Kabupaten",0,0,0,0,0
+"1925","Kec. Tanah Miring ","Merauke","Kabupaten",0,0,0,0,0
+"1926","Kec. Pantai Timur ","Sarmi","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1927","Kec. Bonggo Timur ","Sarmi","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"1928","Kec. Waris ","Keerom","Kabupaten",0,0,0,0,0
+"1929","Kec. Arso Barat ","Keerom","Kabupaten",0,0,0,0,0
+"1930","Kec. Pondok Suguh ","Muko-muko","0",0,0,0,0,0
+"1931","Kec. Air Rami ","Muko-muko","0",0,0,0,0,0
+"1932","Kec. Sungai Rumbai ","Muko-muko","0",0,0,0,0,0
+"1933","Kec. Teramang Jaya ","Muko-muko","0",0,0,0,0,0
+"1934","Kec. XIV Koto ","Muko-muko","0",0,0,0,0,0
+"1935","Kec. Pondok Kubang ","Bengkulu Tengah","Banten",0,0,0,0,0
+"1936","Kec. Air Padang ","Bengkulu Utara","Bengkulu",0,0,0,0,0
+"1937","Kecamatan Marga Sakti Sebelat ","Bengkulu Utara","Bengkulu",0,0,0,0,0
+"1938","Kecamatan Pinang Raya ","Bengkulu Utara","Bengkulu",0,0,0,0,0
+"1939","Kec. Kampung Melayu ","Bengkulu","Bengkulu",0,0,0,0,0
+"1940","Kec. Lebong Selatan ","Lebong","Bengkulu",0,0,0,0,0
+"1941","Kec. Topos ","Lebong","Bengkulu",0,0,0,0,0
+"1942","Kec. Pinang Belapis ","Lebong","Bengkulu",0,0,0,0,0
+"1943","Kec. Nasal ","Kaur","Bengkulu",0,0,0,0,0
+"1944","Kec. Sindang Beliti Ilir ","Rejang Lebong","Bengkulu",0,0,0,0,0
+"1945","Kec. Ulu Manna ","Bengkulu Selatan","Bengkulu",0,0,0,0,0
+"1946","Kec. Moti ","Ternate","Lampung",0,0,0,0,0
+"1947","Kec. Pulau Batang Dua ","Ternate","Lampung",0,0,0,0,0
+"1948","Kec. Pulau Hiri ","Ternate","Lampung",0,0,0,0,0
+"1949","Kec. Oba Tengah ","Tidore Kepulauan","Lampung",0,0,0,0,0
+"1950","Kec. Malifut ","halmahera Utara","0",0,0,0,0,0
+"1951","Kec. Tobelo Utara ","halmahera Utara","0",0,0,0,0,0
+"1952","Kec. Tobelo Tengah ","halmahera Utara","0",0,0,0,0,0
+"1953","Kec. Tobelo Barat ","halmahera Utara","0",0,0,0,0,0
+"1954","Kec. Galela Barat ","halmahera Utara","0",0,0,0,0,0
+"1955","Kec. Galela Utara ","halmahera Utara","0",0,0,0,0,0
+"1956","Kec. Loloda Kepulauan ","halmahera Utara","0",0,0,0,0,0
+"1957","Kec. Kao Barat ","halmahera Utara","0",0,0,0,0,0
+"1958","Kec. Bacan Barat ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1959","Kec. Gane Barat ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1960","Kec. Gane Timur ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1961","Kec. Kayoa ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1962","Kec. Obi Selatan ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1963","Kec. Obi Barat ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1964","Kec. Obi Timur ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1965","Kec. Obi Utara ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1966","Kec. Mandioli Selatan ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1967","Kec. Mandioli Utara ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1968","Kec. Kepulauan Botang Lomang ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1969","Kec. Bacan Timur Tengah ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1970","Kec. Kasiruta Barat ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1971","Kec. Kayoa Barat ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1972","Kec. Kayoa Selatan ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1973","Kec. Kayoa Utara ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1974","Kec. Makian Barat ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1975","Kec. Kepulauan Joronga ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1976","Kec. Gane Timur Tengah ","Halmahera Selatan","Lampung",0,0,0,0,0
+"1977","Kec. Lede ","Pulau Taliabu","Lampung",0,0,0,0,0
+"1978","Kec. Sahu Timur ","Halmahera Barat","Lampung",0,0,0,0,0
+"1979","Kec. Ibu Selatan ","Halmahera Barat","Lampung",0,0,0,0,0
+"1980","Kec. Jailolo Timur ","Halmahera Barat","Lampung",0,0,0,0,0
+"1981","Kec. Maba Selatan ","Halmahera Timur","Lampung",0,0,0,0,0
+"1982","Kec. Wasile Tengah ","Halmahera Timur","Lampung",0,0,0,0,0
+"1983","Kec. Mangoli Timur ","Kepulauan Sula","Lampung",0,0,0,0,0
+"1984","Kec. Mangoli Barat ","Kepulauan Sula","Lampung",0,0,0,0,0
+"1985","Kec. Sula Besi Tengah ","Kepulauan Sula","Lampung",0,0,0,0,0
+"1986","Kec. Mangoli Tengah ","Kepulauan Sula","Lampung",0,0,0,0,0
+"1987","Kec. Sula Besi Selatan ","Kepulauan Sula","Lampung",0,0,0,0,0
+"1988","Kec. Morotai Jaya ","Kepulauan Morotai","0",0,0,0,0,0
+"1989","Kec. Morotai Timur ","Kepulauan Morotai","0",0,0,0,0,0
+"1990","Kec. Cikeusik ","Pandeglang","Banten",0,0,0,0,0
+"1991","Kec. Cigeulis ","Pandeglang","Banten",0,0,0,0,0
+"1992","Kec. Panimbang ","Pandeglang","Banten",0,0,0,0,0
+"1993","Kec. Munjul ","Pandeglang","Banten",0,0,0,0,0
+"1994","Kec. Pagelaran ","Pandeglang","Banten",0,0,0,0,0
+"1995","Kec. Menes ","Pandeglang","Banten",0,0,0,0,0
+"1996","Kec. Banjar ","Pandeglang","Banten",0,0,0,0,0
+"1997","Kec. Pandeglang ","Pandeglang","Banten",0,0,0,0,0
+"1998","Kec. Sukaresmi ","Pandeglang","Banten",0,0,0,0,0
+"1999","Kec. Sobang ","Pandeglang","Banten",0,0,0,0,0
+"2000","Kec. Legok ","Tangerang","Banten",0,0,0,0,0
+"2001","Kec. Jambe ","Tangerang","Banten",0,0,0,0,0
+"2002","Kec. Sukamulya ","Tangerang","Banten",0,0,0,0,0
+"2003","Kec. Sepatan Timur ","Tangerang","Banten",0,0,0,0,0
+"2004","Kec. Mekar Baru ","Tangerang","Banten",0,0,0,0,0
+"2005","Kec. Ciomas ","Serang","Banten",0,0,0,0,0
+"2006","Kec. Pabuaran ","Serang","Banten",0,0,0,0,0
+"2007","Kec. Cikeusal ","Serang","Banten",0,0,0,0,0
+"2008","Kec. Bojonegara ","Serang","Banten",0,0,0,0,0
+"2009","Kec. Tunjung Teja ","Serang","Banten",0,0,0,0,0
+"2010","Kec. Pulo Ampel ","Serang","Banten",0,0,0,0,0
+"2011","Kec. Bandung ","Serang","Banten",0,0,0,0,0
+"2012","Kec. Lebak Wangi ","Serang","Banten",0,0,0,0,0
+"2013","Kec. Grogol ","Cilegon","Banten",0,0,0,0,0
+"2014","Kec. Benda ","Tangerang","Banten",0,0,0,0,0
+"2015","Kec. Larangan ","Tangerang","Banten",0,0,0,0,0
+"2016","Kec. Cibodas ","Tangerang","Banten",0,0,0,0,0
+"2017","Kec. Taktakan ","Serang","Banten",0,0,0,0,0
+"2018","Kec. Serpong Utara ","Tangerang Selatan","Banten",0,0,0,0,0
+"2019","Kec. Cijaku ","Lebak","Banten",0,0,0,0,0
+"2020","Kec. Banjarsari ","Lebak","Banten",0,0,0,0,0
+"2021","Kec. Leuwidamar ","Lebak","Banten",0,0,0,0,0
+"2022","Kec. Muncang ","Lebak","Banten",0,0,0,0,0
+"2023","Kec. Warunggunung ","Lebak","Banten",0,0,0,0,0
+"2024","Kec. Maja ","Lebak","Banten",0,0,0,0,0
+"2025","Kec. Curug bitung ","Lebak","Banten",0,0,0,0,0
+"2026","Kec. Sobang ","Lebak","Banten",0,0,0,0,0
+"2027","Kec. Wanasalam ","Lebak","Banten",0,0,0,0,0
+"2028","Kec. Cihara ","Lebak","Banten",0,0,0,0,0
+"2029","Kec. Lebakgedong ","Lebak","Banten",0,0,0,0,0
+"2030","Kec. Kalanganyar ","Lebak","Banten",0,0,0,0,0
+"2031","Kec. Kelapa ","Bangka Barat","Bangka Belitung",0,0,0,0,0
+"2032","Kec. Muntok ","Bangka Barat","Bangka Belitung",0,0,0,0,0
+"2033","Kec. Jebus ","Bangka Barat","Bangka Belitung",0,0,0,0,0
+"2034","Kec. Simpang Rimba ","Bangka Selatan","Bangka Belitung",0,0,0,0,0
+"2035","Kec. Lepar ","Bangka Selatan","Bangka Belitung",0,0,0,0,0
+"2036","Kec. Pulau Besar ","Bangka Selatan","Bangka Belitung",0,0,0,0,0
+"2037","Kec. Kep. Pongok ","Bangka Selatan","Bangka Belitung",0,0,0,0,0
+"2038","Kec. Gantung ","Belitung Timur","Bangka Belitung",0,0,0,0,0
+"2039","Kec. Kelapa Kampit ","Belitung Timur","Bangka Belitung",0,0,0,0,0
+"2040","Kec. Simpang Pesak ","Belitung Timur","Bangka Belitung",0,0,0,0,0
+"2041","Kec. Bukit Intan ","Pangkalpinang","0",0,0,0,0,0
+"2042","Kec. Mendo Barat ","Bangka","Bangka Belitung",0,0,0,0,0
+"2043","Kec. Belinyu ","Bangka","Bangka Belitung",0,0,0,0,0
+"2044","Kec. Riau Silip ","Bangka","Bangka Belitung",0,0,0,0,0
+"2045","Kec. Membalong ","Belitung","Bangka Belitung",0,0,0,0,0
+"2046","Kec. Lubuk Besar ","Bangka Tengah","Bangka Belitung",0,0,0,0,0
+"2047","Kec. Namang ","Bangka Tengah","Bangka Belitung",0,0,0,0,0
+"2048","Kec. Atinggola ","Gorontalo Utara","Gorontalo",0,0,0,0,0
+"2049","Kec. Gentuma Raya ","Gorontalo Utara","Gorontalo",0,0,0,0,0
+"2050","Kec. Ponelo Kepulauan ","Gorontalo Utara","Gorontalo",0,0,0,0,0
+"2051","Kec. Biau ","Gorontalo Utara","Gorontalo",0,0,0,0,0
+"2052","Kec. Sumalata Timur ","Gorontalo Utara","Gorontalo",0,0,0,0,0
+"2053","Kec. ","Gorontalo","Gorontalo",0,0,0,0,0
+"2054","Kec. ","Gorontalo","Gorontalo",0,0,0,0,0
+"2055","Kec. ","Gorontalo","Gorontalo",0,0,0,0,0
+"2056","Kec. Sipatana ","Gorontalo","Gorontalo",0,0,0,0,0
+"2057","Kec. Wonosari ","Boalemo","DKI Jakarta",0,0,0,0,0
+"2058","Kec. Botumoito ","Boalemo","DKI Jakarta",0,0,0,0,0
+"2059","Kec. Batudaa ","Gorontalo","Gorontalo",0,0,0,0,0
+"2060","Kec. Boliyohuto ","Gorontalo","Gorontalo",0,0,0,0,0
+"2061","Kec. Telaga ","Gorontalo","Gorontalo",0,0,0,0,0
+"2062","Kec. Bongomeme ","Gorontalo","Gorontalo",0,0,0,0,0
+"2063","Kec. Mootilango ","Gorontalo","Gorontalo",0,0,0,0,0
+"2064","Kec. Telaga Biru ","Gorontalo","Gorontalo",0,0,0,0,0
+"2065","Kec. Limboto Barat ","Gorontalo","Gorontalo",0,0,0,0,0
+"2066","Kec. Biluhu ","Gorontalo","Gorontalo",0,0,0,0,0
+"2067","Kec. Tilango ","Gorontalo","Gorontalo",0,0,0,0,0
+"2068","Kec. Bilato ","Gorontalo","Gorontalo",0,0,0,0,0
+"2069","Kec. Popayato ","Pohuwato","DKI Jakarta",0,0,0,0,0
+"2070","Kec. Paguat ","Pohuwato","DKI Jakarta",0,0,0,0,0
+"2071","Kec. Popayato Barat ","Pohuwato","DKI Jakarta",0,0,0,0,0
+"2072","Kec. Wanggarasi ","Pohuwato","DKI Jakarta",0,0,0,0,0
+"2073","Kec. Buntulia ","Pohuwato","DKI Jakarta",0,0,0,0,0
+"2074","Kec. ","Bone Bolango","Gorontalo",0,0,0,0,0
+"2075","Kec. Bonepantai ","Bone Bolango","Gorontalo",0,0,0,0,0
+"2076","Kec. Bone ","Bone Bolango","Gorontalo",0,0,0,0,0
+"2077","Kec. Bulango Ulu ","Bone Bolango","Gorontalo",0,0,0,0,0
+"2078","Kec. Suwawa Timur ","Bone Bolango","Gorontalo",0,0,0,0,0
+"2079","Kec. Pinogu ","Bone Bolango","Gorontalo",0,0,0,0,0
+"2080","Kec. Tambelan ","Bintan","Kalimantan Tengah",0,0,0,0,0
+"2081","Kec. Teluk Sebong ","Bintan","Kalimantan Tengah",0,0,0,0,0
+"2082","Kec. Mantang ","Bintan","Kalimantan Tengah",0,0,0,0,0
+"2083","Kec. Bintan Pesisir ","Bintan","Kalimantan Tengah",0,0,0,0,0
+"2084","Kec. Bintan Timur ","Bintan","Kalimantan Tengah",0,0,0,0,0
+"2085","Kec. Moro ","Karimun","Kalimantan Tengah",0,0,0,0,0
+"2086","Kec. Tebing ","Karimun","Kalimantan Tengah",0,0,0,0,0
+"2087","Kec. Kundur Barat ","Karimun","Kalimantan Tengah",0,0,0,0,0
+"2088","Kec. Durai ","Karimun","Kalimantan Tengah",0,0,0,0,0
+"2089","Kec. Belat ","Karimun","Kalimantan Tengah",0,0,0,0,0
+"2090","Kec. Midai ","Natuna","Kalimantan Tengah",0,0,0,0,0
+"2091","Kec. Bunguran Barat ","Natuna","Kalimantan Tengah",0,0,0,0,0
+"2092","Kec. Pulau Laut ","Natuna","Kalimantan Tengah",0,0,0,0,0
+"2093","Kec. Pulau Tiga ","Natuna","Kalimantan Tengah",0,0,0,0,0
+"2094","Kec. Bunguran Timur Laut ","Natuna","Kalimantan Tengah",0,0,0,0,0
+"2095","Kec. Serasan Timur ","Natuna","Kalimantan Tengah",0,0,0,0,0
+"2096","Kec. Lingga ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2097","Kec. Singkep Barat ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2098","Kec. Lingga Utara ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2099","Kec. Singkep Pesisir ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2100","Kec. Singkep Selatan ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2101","Kec. Lingga Timur ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2102","Kec. Selayar ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2103","Kec. Kepulauan Posek ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2104","Kec. Bakung Serumpun ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2105","Kec. Temiang Pesisir ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2106","Kec. Katang Bidare ","Lingga","Kalimantan Tengah",0,0,0,0,0
+"2107","Kec. Jemaja ","Kepulauan Anambas","Kalimantan Tengah",0,0,0,0,0
+"2108","Kec. Siantan ","Kepulauan Anambas","Kalimantan Tengah",0,0,0,0,0
+"2109","Kec. Palmatak ","Kepulauan Anambas","Kalimantan Tengah",0,0,0,0,0
+"2110","Kec. Siantan Timur ","Kepulauan Anambas","Kalimantan Tengah",0,0,0,0,0
+"2111","Kec. Sekupang ","Batam","Kalimantan Tengah",0,0,0,0,0
+"2112","Kec. Nongsa ","Batam","Kalimantan Tengah",0,0,0,0,0
+"2113","Kec. Tanjung Pinang ","Tanjungpinang","0",0,0,0,0,0
+"2114","Kec. Sausapor ","Tambrauw","Papua",0,0,0,0,0
+"2115","Kec. Amberbaken ","Tambrauw","Papua",0,0,0,0,0
+"2116","Kec. Ayamaru ","Maybrat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2117","Kec. Anggi Gida ","Pegunungan Arfak","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2118","Kec. Membey ","Pegunungan Arfak","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2119","Kec. Sururay ","Pegunungan Arfak","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2120","Kec. Catubouw ","Pegunungan Arfak","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2121","Kec. Testega ","Pegunungan Arfak","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2122","Kec. Menyambouw ","Pegunungan Arfak","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2123","Kec. Anggi ","Pegunungan Arfak","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2124","Kec. Wondiboy ","Teluk Wondama","Papua",0,0,0,0,0
+"2125","Kec. Windesi ","Teluk Wondama","Papua",0,0,0,0,0
+"2126","Kec. Babo ","Teluk Bintuni","Papua",0,0,0,0,0
+"2127","Kec. Kaitaro ","Teluk Bintuni","Papua",0,0,0,0,0
+"2128","Kec. Tembuni ","Teluk Bintuni","Papua",0,0,0,0,0
+"2129","Kec. Kamundan ","Teluk Bintuni","Papua",0,0,0,0,0
+"2130","Kec. Meyado ","Teluk Bintuni","Papua",0,0,0,0,0
+"2131","Kec. Moskona Barat ","Teluk Bintuni","Papua",0,0,0,0,0
+"2132","Kec. Merdey ","Teluk Bintuni","Papua",0,0,0,0,0
+"2133","Kec. Kokoda ","Sorong Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2134","Kec. Teminabuan ","Sorong Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2135","Kec. Makbon ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2136","Kec. Beraur ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2137","Kec. Salawati ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2138","Kec. Mayamuk ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2139","Kec. Seget ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2140","Kec. Salawati Selatan ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2141","Kec. Moisegen ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2142","Kec. Mega ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2143","Kec. Warmare ","Manokwari","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2144","Kec. Prafi ","Manokwari","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2145","Kec. Manokwari Timur ","Manokwari","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2146","Kec. Manokwari Selatan ","Manokwari","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2147","Kec. Masni ","Manokwari","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2148","Kec. Sidey ","Manokwari","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2149","Kec. Fak-fak Tengah ","Fak-Fak","0",0,0,0,0,0
+"2150","Kec. Ransiki ","Manokwari Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2151","Kec. Oransbari ","Manokwari Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2152","Kec. Nenei ","Manokwari Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2153","Kec. Dataran Isim ","Manokwari Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2154","Kec. Momi Waren ","Manokwari Selatan","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2155","Kec. Sorong Kepulauan ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2156","Kec. Sorong Manoi ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2157","Kec. Sorong ","Sorong","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2158","Kec. Misool (misool Utara) ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2159","Kec. Kofiau ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2160","Kec. Misool Timur ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2161","Kec. Waigeo Barat ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2162","Kec. Waigeo Utara ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2163","Kec. Waigeo Timur ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2164","Kec. Warwarbomi ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2165","Kec. Kepulauan Sembilan ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2166","Kec. ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2167","Kec. Batanta Utara ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2168","Kec. Salawati Tengah ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2169","Kec. Ayau ","Raja Ampat","Nusa Tenggara Timur (NTT)",0,0,0,0,0
+"2170","Kec. Wonomulyo ","Polewali Mandar","Papua",0,0,0,0,0
+"2171","Kec. Balanipa ","Polewali Mandar","Papua",0,0,0,0,0
+"2172","Kec. Mapili ","Polewali Mandar","Papua",0,0,0,0,0
+"2173","Kec. Matakali ","Polewali Mandar","Papua",0,0,0,0,0
+"2174","Kec. Matangnga ","Polewali Mandar","Papua",0,0,0,0,0
+"2175","Kec. Mambi ","Mamasa","Papua",0,0,0,0,0
+"2176","Kec. Tandukalua ","Mamasa","Papua",0,0,0,0,0
+"2177","Kec. Aralle ","Mamasa","Papua",0,0,0,0,0
+"2178","Kec. Mehalaan ","Mamasa","Papua",0,0,0,0,0
+"2179","Kec. Kalumpang ","Mamuju","Papua",0,0,0,0,0
+"2180","Kec. Sampaga ","Mamuju","Papua",0,0,0,0,0
+"2181","Kec. Bonehau ","Mamuju","Papua",0,0,0,0,0
+"2182","Kec. Simboro ","Mamuju","Papua",0,0,0,0,0
+"2183","Kec. Sarudu ","Pasangkayu","0",0,0,0,0,0
+"2184","Kec. Baras ","Pasangkayu","0",0,0,0,0,0
+"2185","Kec. Lariang ","Pasangkayu","0",0,0,0,0,0
+"2186","Kec. Sembakung ","Nunukan","Kalimantan Tengah",0,0,0,0,0
+"2187","Kec. Sebatik ","Nunukan","Kalimantan Tengah",0,0,0,0,0
+"2188","Kec. Krayan Selatan ","Nunukan","Kalimantan Tengah",0,0,0,0,0
+"2189","Kec. Sebatik Utara ","Nunukan","Kalimantan Tengah",0,0,0,0,0
+"2190","Kec. Sebatik Tengah ","Nunukan","Kalimantan Tengah",0,0,0,0,0
+"2191","Kec. Tarakan Timur ","Tarakan","Kalimantan Tengah",0,0,0,0,0
+"2192","Kec. Tarakan Barat ","Tarakan","Kalimantan Tengah",0,0,0,0,0
+"2193","Kec. Kayan Hulu ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2194","Kec. Kayan Hilir ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2195","Kec. Sungai Boh ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2196","Kec. Malinau Selatan ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2197","Kec. Malinau Barat ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2198","Kec. Kayan Selatan ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2199","Kec. Bahau Hulu ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2200","Kec. Mentarang Hulu ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2201","Kec. Malinau Selatan Hulu ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2202","Kec. Sungai Tubu ","Malinau","Kalimantan Tengah",0,0,0,0,0
+"2203","Kec. Sekatak ","Bulungan","Kalimantan Tengah",0,0,0,0,0
+"2204","Kec. Pulau Bunyu ","Bulungan","Kalimantan Tengah",0,0,0,0,0
+"2205","Kec. Tanjung Palas Barat ","Bulungan","Kalimantan Tengah",0,0,0,0,0
+"2206","Kec. Tanjung Palas Tengah ","Bulungan","Kalimantan Tengah",0,0,0,0,0
+"2207","Kec. Sesayap ","Tana Tidung","Kalimantan Tengah",0,0,0,0,0
+"2208","Kec. Sesayap Hilir ","Tana Tidung","Kalimantan Tengah",0,0,0,0,0
+"2209","Kec. Tanah Lia ","Tana Tidung","Kalimantan Tengah",0,0,0,0,0
